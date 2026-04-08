@@ -1,0 +1,1629 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1864 Копия с всеподданнейшего отчета Военного губернатора г. Красноярска и Енисейского гражданского губернатора о состоянии Енисейской губернии</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Prepared locally from OCR-layer PDF for TEI conversion.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>1864 Копия с всеподданнейшего отчета Военного губернатора г. Красноярска и Енисейского гражданского губернатора о состоянии Енисейской губернии</title>
+          <idno type="report-id">10</idno>
+          <idno type="portal-url">https://govreport.sfu-kras.ru/availableReports/report/10</idno>
+          <idno type="portal-base">https://govreport.sfu-kras.ru</idno>
+          <ref target="https://govreport.sfu-kras.ru/uploads/GO_1864_sovremennyj_40cd37ef9a.pdf" type="pdf">https://govreport.sfu-kras.ru/uploads/GO_1864_sovremennyj_40cd37ef9a.pdf</ref>
+          <ref target="https://govreport.sfu-kras.ru/uploads/Otchet_gubernatora_za_1864_god_5c0b0e4b89.pdf" type="pdf-original">https://govreport.sfu-kras.ru/uploads/Otchet_gubernatora_za_1864_god_5c0b0e4b89.pdf</ref>
+          <note type="archive">РГИА. Ф. 1263. Оп. 3. Д. 49. Л. 177</note>
+          <note type="source">РГИА</note>
+          <note type="text-type">Рукописный</note>
+          <extent>177 pages</extent>
+          <note type="portal-metadata">Metadata fields were copied from the report page at govreport.sfu-kras.ru.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>OCR text was first extracted from PDF into plain text with explicit [[PAGE_BREAK:N]] markers. TEI was then built from the intermediate text with rule-based markup for persons, places, organizations, and years in the range 1800-1917. Tables were reconstructed from line structure and repeated row patterns in the plain text layer. Named-entity mode: strict Natasha + rule-based fallback.</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ru">Russian</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>Initial rule-based TEI conversion from OCR text.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="1" />
+      <p>ДЕЛО КОМИТЕТА МИНИСТРОВ ПО СИБИРИ Копия со всеподданнейшего отчета Военного Губернатора <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">г. Красноярска</placeName> и <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейского</placeName>
+        <placeName ref="#place_гражданского" type="auto" subtype="context-place-fallback">Гражданского</placeName> Губернатора о состоянии <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName> за <date when="1864" type="auto" subtype="natasha">1864 г.</date> Началось <date when="1865-05-26" type="auto" subtype="natasha">26 мая 1865 г.</date> Кончилось _ _ _ _ _ _ 1 8 __ г . На 177 листах</p>
+      <pb n="2" />
+      <p>
+        <date when="1865-05-26" type="auto" subtype="natasha">26 мая 1865</date> М. В. Д. ЕНИСЕЙСКИЙ ГУБЕРНСКИЙ СТАТИСТИЧЕСКИЙ КОМИТЕТ <date when="1865-04-20" type="auto" subtype="natasha">20 апреля 1865 года</date> № 170 <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">г. Красноярск</placeName> В Канцелярию Комитета <placeName ref="#place_кавказского" type="auto" subtype="context-place-fallback">Кавказского</placeName> и <placeName ref="#place_сибирского" type="auto" subtype="context-place-fallback">Сибирского</placeName> Имею честь препроводить в Канцелярию Комитета копию с отчета, представленного мною Его <placeName ref="#place_императорскому" type="auto" subtype="context-place-fallback">Императорскому</placeName> Величеству, о состоянии Высочайше вверенной мне губернии за <date when="1864" type="auto" subtype="natasha">1864 год</date> со следующими к сему отчету примечаниями. Военный Губернатор <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">г. Красноярска</placeName> и <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейский</placeName>
+        <placeName ref="#place_гражданский" type="auto" subtype="context-place-fallback">Гражданский</placeName> Губернатор <persName ref="#person_замятнин" type="auto" subtype="natasha">Генерал-Майор Замятнин</persName>
+      </p>
+      <pb n="3" />
+      <p>Копия ОТЧЕТ ЕНИСЕЙСКОГО ГРАЖДАНСКОГО ГУБЕРНАТОРА ЕНИСЕЙСКОГО ГРАЖДАНСКОГО ГУБЕРНАТОРА ЗА ЗА 18641864 ГОД ГОД</p>
+      <pb n="4" />
+      <table type="ocr-text" subtype="row-pattern">
+        <row role="label">
+          <cell>
+            <p>ОГЛАВЛЕНИЕ СТАТЕЙ</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>ОТЧЕТА ЕНИСЕЙСКОГО ГРАЖДАНСКОГО ГУБЕРНАТОРА ЗА ОТЧЕТА ЕНИСЕЙСКОГО ГРАЖДАНСКОГО ГУБЕРНАТОРА ЗА 1864 1864 ГОДГОД</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>Страницы</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>I. Естественные и производительные силы губернии:</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>а) Местность б) Народонаселение – – – –</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>в) Дворянство г) Городские обыватели – – – – .</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>д) Торговля е) Промышленность – – – –</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>4</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>ж) Заводы</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>6</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>з) Судоходство</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>15</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>и) Ярмарки</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>16</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>и) Сельские обыватели</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>17</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>к) Инородцы</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>л) Сельское хозяйство м) Посев и урожай – – – –</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>21</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>н) Скотоводство о) Коннозаводство – – – – п) Народное продовольствие – – – 27 II. Подати и повинности: а) Общее состояние податей – – –</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>24</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>б) Недоимки в) <persName ref="#person_рекрутский" type="auto" subtype="natasha">Рекрутский</persName> набор – – – 30</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>29</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>г) Земские повинности д) Городские доходы – – – 34 III. Общественное благоустройство: а) Казенные здания – – – –6 б) Дороги, мосты и перевалы – – – 37</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>33</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>в) Почты</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>39</p>
+          </cell>
+        </row>
+      </table>
+      <pb n="5" />
+      <table type="ocr-text" subtype="row-pattern">
+        <row role="label">
+          <cell>
+            <p>г) Частные здания – – – –.</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>д) Народная нравственность – – –</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>е) Раскольники</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>44</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>ж) Иноверцы з) Бессрочноотпускные – – – – .</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>и) Отставные нижние чины</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>й) Иностранцы к) Происшествия – – – – . л) Жалобы – – – – – .</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>47</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>м) Беглые и бродяги</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>н) Арестанты</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>о) Тюремные замки</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>п) Этапы р) Рабочий и смирительный дома – – – с) Арестантская рота гражданского ведомства – т) Состоящие под надзором полиции – – – IV. Народное здравие:</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>50</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>а) Врачи</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>52</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>б) Аптеки</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>53</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>в) Оспопрививание</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>г) Заразительные болезни</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>д) Падежи V. Общественное призрение: 58 а)</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>56</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>б) Больницы</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>в) Богадельни VI. Народное просвещение:</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>а) Учебные заведения</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>б) Типографии</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>67</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>в) Библиотеки</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+        </row>
+      </table>
+      <pb n="6" />
+      <table type="ocr-text" subtype="row-pattern">
+        <row role="label">
+          <cell>
+            <p>VII. Местная администрация и судопроизводство:</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>а) Общее движение делопроизводства – – –</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>б) <orgName ref="#org_gubernskoe_pravlenie" type="auto" subtype="heuristic-dictionary">Губернское правление</orgName>
+            </p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>в) Полиция</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>70</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>г) Пожарная часть</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>д) Квартирная повинность</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>е) <persName ref="#person_земская" type="auto" subtype="natasha">Земская</persName> полиция</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>ж) Опеки з) Думы, ратуши и словесные суды – – – и) Казначейства – – – – . й) Архивы – – – – – . Делопроизводство по всем ведомствам губернии: – – Об улучшении состояния православных церквей –</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>72</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>Благонадежность лиц</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>Награды и взыскания</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>Виды предположения</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>Заключение Свидетельствую: Военный Губернатор <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">г. Красноярска</placeName> и <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейский</placeName>
+              <placeName ref="#place_гражданский" type="auto" subtype="context-place-fallback">Гражданский</placeName> Губернатор <persName ref="#person_замятнин" type="auto" subtype="natasha">Генерал-Майор Замятнин</persName>
+            </p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>–</p>
+          </cell>
+          <cell>
+            <p>79</p>
+          </cell>
+        </row>
+      </table>
+      <pb n="7" />
+      <p>Копия ОТЧЕТ ЕНИСЕЙСКОГО ГРАЖДАНСКОГО ГУБЕРНАТОРА ЕНИСЕЙСКОГО ГРАЖДАНСКОГО ГУБЕРНАТОРА ЗАЗА 1864 <date when="1864" type="auto" subtype="natasha">1864 ГОД</date> ГОД I. ЕСТЕСТВЕННЫЕ И ПРОИЗВОДИТЕЛЬНЫЕ I. ЕСТЕСТВЕННЫЕ И ПРОИЗВОДИТЕЛЬНЫЕ СИЛЫ ГУБЕРНИИСИЛЫ ГУБЕРНИИ А. Местность <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейская губерния</placeName> занимает до 2 062 322 квадратных верст, или 214 825 235 десятин и 500 сажень. Из этого пространства положительно измеренной земли 3 476 509 десятин 1 735 сажень, в том числе под лесами 710 321 десятина 2 158 сажень. Из всего пространства измеренной земли занимают: города — 65 110 десятин 474 сажени и округа — 3 411 399 десятин 1 261 сажень. Б. Народонаселение Жителей всех сословий считалось в <date when="1864" type="auto" subtype="natasha">1864 г.</date> 324 094 обоего пола душ. Избыток родившихся над умершими в <date when="1864" type="auto" subtype="natasha">1864 г.</date> — 999, относится к общему числу жителей как 1:327. В <date when="1864" type="auto" subtype="natasha">1864 г.</date> причислено из других губерний людей разных сословий — 1 164, водворено в казачий полк из вновь переселенных нижних чинов — 24 (в том числе 9 женщин); поступило сосланных на житье — 233, на водворение — 1 472, на поселение — 1 317, осужденных в катаржную работу — 220; политических преступников: на житье — 5, на водворение — 1, на поселение — 857, в катаржную работу — 1; перечислено по разным случаям в другие губернии — 332 человека. Распределение жителей по сословиям и другие подробности о народонаселении означены в ведомости под № 22.</p>
+      <pb n="8" />
+      <p>8 В. Дворянство В <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName> находятся два дворянских имения, которые нигде не заложены. Г. Городские обыватели Свидетельств на право торговли в <date when="1864" type="auto" subtype="natasha">1864 г.</date> взято: местными купцами: 1-й гильдии — 35, 2-й гильдии — 285; иногородними и временно торгующими: 1-й гильдии — 9, 2-й гильдии — 40. На основании Высочайше утвержденного положения <date when="1863-01-01" type="auto" subtype="natasha">1 января 1863 г.</date> капиталов при взятии гильдейских свидетельств объявляемо не было. Д. Торговля Торговля в <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName> незначительна и ограничивается только распродажей местным жителям самых необходимых предметов, закупаемых на <placeName ref="#place_нижегородской" type="auto" subtype="context-place-fallback">Нижегородской</placeName> и <placeName ref="#place_ирбитской" type="auto" subtype="context-place-fallback">Ирбитской</placeName> ярмарках. Е. Промышленность Главнейший промысел собственно жителей <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName> заключается в работах на золотых промыслах, поставке на оные собственных своих земледельческих произведений и разных тяжестей и также перевозке чаев и товаров, составляющих предметы <placeName ref="#place_кяхтинской" type="auto" subtype="natasha-context-place">Кяхтинской</placeName> торговли. Звериный промысел с развитием золотопромышленности постоянно уменьшается, потому что при занятии и разработке мест, никем прежде не обитаемых, вытесняемый постоянно зверь удалился в глубину тайги или перешел в смежные губернии. Значительная часть звероловов из крестьян совершенно оставили этот промысел, другие же, и преимущественно из инородцев, занимаются таковым в местах, отдаленных от их жилищ на 1 000 и более верст, но, несмотря на то, улов зверя едва вознаграждает труд промышленников. Рыбный промысел с открытием пароходства по реке Енисей, обеспечивающего сообщение с <placeName ref="#place_turukhansk_region" type="auto" subtype="heuristic-dictionary">Туруханским краем</placeName>, начинает увеличиваться.</p>
+      <pb n="9" />
+      <p>9 Ж. Заводы В <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName> существует, в <placeName ref="#place_troitskoe" type="auto" subtype="heuristic-dictionary">селе Троицком</placeName>, казенный солеваренный завод и при оном молотовая фабрика для выплавки руды и выделки железа и 134 частных фабрик и заводов. В <date when="1864" type="auto" subtype="natasha">1864 г.</date> на Троицком заводе выварено соли 104 834 пуда на 63 190 руб. и получено разных сортов железа 691 пуд 26 фун. на 1 500, на всех же частных заводах и фабриках выработано изделий на 1 213 562 руб. 28 коп., против <date when="1863" type="auto" subtype="natasha">1863 г.</date> более на 705 777 руб. 89 1/4 коп., в то число 718 294 руб. 891/4 коп. более — на пяти винокуренных заводах, и 12 517 руб. менее на всех остальных частных заводах и фабриках. Частные заводы и фабрики, за исключением винокуренных, весьма незначительны и по качеству своих изделий требуют больших улучшений. Ведомость о фабриках и заводах приложена под № 17. К числу сего рода заведений должна быть отнесена добыча золота и ломка графита на частных приисках. В <date when="1864" type="auto" subtype="natasha">1864 г.</date> производились работы на 143, а заработка и разведка на 139 частных золотых промыслах. Золота получено 593 пуд. 6 фун. 21 зол. и 57 дол. Против <date when="1863" type="auto" subtype="natasha">1863 г.</date> получено золота менее 11 пуд. 36 фун. 33 зол. и 1 дол. Добыча золота производилась прежде усвоенным способом. Золотосодержащие пески промывались на железных бочках, чашах, воронках, бутарах и с помощью изобретенного губернским секретарем Лопатиным «песковоза», а также решеток, заимствованных Пакулевым из американского способа промывки. На частных золотых промыслах в <date when="1864" type="auto" subtype="natasha">1864 г.</date> находилось рабочих: сибирских губерний:  мещан, крестьян — 6 178;  ссыльнопоселенцев — 11 751; великороссийских губерний:  мещан, крестьян и разночинцев — 2 098. Итого: 20 027.</p>
+      <pb n="10" />
+      <p>10  Лошадей — 6 768;  быков — 301;  для наблюдения за рабочими казачьей команды — 181;  из числа нанятых людей не явилось к работам — 392;  бежало с приисков — 912;  из них поймано — 145. К прекращению побегов и поимке бежавших приняты надлежащие меры. На промыслах <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName> в продолжение <date when="1864" type="auto" subtype="natasha">1864 г.</date> случилось разного рода происшествий — 27, именно:  наводнений — 2;  пожаров — 2;  нечаянных смертных случаев — 28;  самоубийств — 1;  преступлений по похищению золота не было. На всех частных золотых промыслах <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName> устроены золотопромышленниками больницы хорошо и удобно; все больницы снабжены аптеками и прочими по возможности принадлежностями в достаточном количестве. При каждой больнице находится фельдшер, а заведование оными лежит на обязанности особых промысловых медиков. Сверх приисковых больниц на половине пути от промыслов Северной системы как более отдаленной от жилых мест устроена одна больница для призрения людей, заболевающих во время пути при следовании на промысла и обратно. Больница эта находится в удовлетворительном состоянии. Во всех больницах рабочие пользуются безвозмездно, за исключением больниц, находящихся на семи приисках, с 800 рабочих в южной части <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейского округа</placeName>, состоящих под управлением почетного гражданина Николая Латкина, который вычитает деньги с рабочих не только за медикаменты, но и за кашеваров и артельных старост, чего другие золотопромышленники не делают, об изменении на будущее время столь стеснительной для рабочих системы будет предложено г-ну Латкину. Кроме медиков, на каждой системе <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейского округа</placeName> содержатся на счет золотопромышленников определенные от правительства повивальные бабки.</p>
+      <pb n="11" />
+      <p>11 На промыслах <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName> находится церквей: постоянных — 5 и походных — 3, с достаточным числом причта. На <placeName ref="#place_achinsk" type="auto" subtype="heuristic-dictionary">Ачинской</placeName> системе, иждивением промышленника <placeName ref="#place_цибульского" type="auto" subtype="natasha-context-place">Цибульского</placeName>, строится новая церковь в центре золотых промыслов — в татарском улусе Чебаках, которая будет приходскою для татар-христиан и для промыслов. Пути сообщения между золотыми приисками, а также от жилых мест 20 промыслов Северной и Южной систем <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейского округа</placeName> устроены удовлетворительно. На главной дороге на Северные промысла <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейского округа</placeName> учреждены золотопромышленниками почтовые станции с достаточным количеством лошадей, отпускаемых проезжающим из платы по 5 коп. на версту за лошадь. На остальных системах промысловые дороги не везде удобны и большею частью доступны лишь для верховой езды. Рабочие люди по окончании расчета следовали с приисков в порядке, указанном генерал-губернатором <placeName ref="#place_eastern_siberia" type="auto" subtype="heuristic-dictionary">Восточной Сибири</placeName>, — партиями под присмотром казачьих отрядов и наблюдением местных горных исправников и их помощников, по достижении же жилых мест поступали в ведение местных земских полиций. В предупреждение пьянства приняты были должные меры к устранению торговли и тайной продажи вина, но, несмотря на этот порядок, пьянство распространено в больших размерах; по всем дорогам трудно встретить трезвого, не только из промысловых рабочих, но даже кого-либо из жителей, лежащих на пути деревень, для которых выход рабочих как имеющих при себе наличные деньги составляет как бы общий праздник. В видах облегчения от излишней ноши рабочим, выходящим с Северной системы <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейского округа</placeName>, была выдана только половина необходимых на весь путь сухарей, остальное же количество было заготовлено в соответственных размерах на Усть-<placeName ref="#place_брянском" type="auto" subtype="context-place-fallback">Брянском</placeName> зимовье; при каждом отряде рабочих, выведенных с приисков, находился фельдшер с необходимыми медикаментами. Рабочие же Южной системы <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейского округа</placeName>, равно как <placeName ref="#place_achinsk" type="auto" subtype="heuristic-dictionary">Ачинского</placeName>, <placeName ref="#place_minusinsk" type="auto" subtype="heuristic-dictionary">Минусинского</placeName> и <placeName ref="#place_kansk" type="auto" subtype="heuristic-dictionary">Канского</placeName> округов, были снабжены достаточным количеством сухарей при выходе с приисков.</p>
+      <pb n="12" />
+      <p>12 При таких наблюдениях выход рабочих с промыслов и следование в места жительства в <date when="1864" type="auto" subtype="natasha">1864 г.</date> совершился благополучно, за исключением следующего несчастного случая: 14 сентября при переправе чрез реку Ангару, выше деревни Кулаковой , конюхов и лошадей золотопромышленника <persName ref="#person_лопатина" type="auto" subtype="natasha">Лопатина</persName>, от поднявшейся внезапно на средине реки бури, вода залила лодки, при чем утонуло 5 человек и 1 лошадь. Вообще же золотый промысел в <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName> не подает, кажется, верной надежды к большему развитию оного, ибо при всех предположениях правительства, имеющих целью улучшение золотопромышленности и даже при одобрении тех мер, о которых хлопочут сами золотопромышленники, можно поддержать промысел этот некоторое время на настоящем его уровне, но едва ли можно надеяться довести до значительных размеров. Если золотопромышленность не развилась, когда несколько лет сряду существовало особенно благоприятное условие — редкая дешевизна хлеба, то с возвышением цен на хлеб до того размера, какие были в конце пятидесятых годов, разработка половины приисков, вероятно, прекратится. З. Судоходство Способные к судоходству реки в губернии: Енисей, Туба, Оя и Ангара, или Верхняя Тунгуска, и Чулым. Главнейшая пристань в губернии находится в <placeName ref="#place_eniseysk" type="auto" subtype="heuristic-dictionary">г. Енисейске</placeName>, куда сплавляется хлеб и другие предметы для золотых промыслов, <placeName ref="#place_turukhansk_region" type="auto" subtype="heuristic-dictionary">Туруханского края</placeName> и жителей <placeName ref="#place_eniseysk" type="auto" subtype="heuristic-dictionary">г. Енисейска</placeName>. Ведомость о судоходстве приложена под № 15. В навигацию <date when="1864" type="auto" subtype="natasha">1864 г.</date> пароход «Енисей» совершил от <placeName ref="#place_eniseysk" type="auto" subtype="heuristic-dictionary">г. Енисейска</placeName> в <placeName ref="#place_turukhansk_region" type="auto" subtype="heuristic-dictionary">Туруханский край</placeName> два рейса и доходил до самого устья реки Енисей. В <date when="1864" type="auto" subtype="natasha">1864 г.</date> нагружено в губернии барок и судов — 795, плотов — 632; против <date when="1863" type="auto" subtype="natasha">1863 г.</date> менее: барок и судов — 67, плотов — 134. Ценность груза, заключавшегося на судах, плывших по реке Енисей, преимущественно в хлебе, спирте, сене, соли, дровах, железных материалах, а на возвращавшихся из <placeName ref="#place_turukhansk_region" type="auto" subtype="heuristic-dictionary">Туруханского края</placeName> — в мамонтовой кости, лебяжьем пухе, звериных шкурах, рыбьем жире, клее и разного рода рыбе, простиралась примерно до 1 382 400 руб. и превышала ценность груза <date when="1863" type="auto" subtype="natasha">1863 г.</date> на 36 780 руб.</p>
+      <pb n="13" />
+      <p>13 И. Ярмарки Ярмарки в <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName> вообще незначительны, что видно из ведомости под № 16. В <date when="1864" type="auto" subtype="natasha">1864 г.</date> всех ярмарок считалось 34, но съезд торговцев и продажа товаров была только на 15. Привоз на оные товаров в <date when="1864" type="auto" subtype="natasha">1864 г.</date> простирался до 179 495 руб., а продажа до 80 975 руб. Й. Сельские обыватели Государственные крестьяне составляют большую половину всего народонаселения губернии. В числе крестьян считаются переселенцы из других губерний империи, коих с 1852 по <date when="1865" type="auto" subtype="natasha">1865 г.</date>, с разрешения правительства, водворено 8 133 муж. и 7 706 жен. пола душ. Главный предмет их занятий составляет хлебопашество. В <date when="1864" type="auto" subtype="natasha">1864 г.</date> уволено было на промысла <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName> из домохозяев для работ на частных золотых приисках крестьян — 1 428 и поселенцев — 1 740 человек. Участки земель этих людей обрабатывались исправно и пропитание оставшихся дома семейств было достаточно обеспечено. К. Инородцы Инородцев в <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName> считалось в <date when="1864" type="auto" subtype="natasha">1864 г.</date> — 43 879. По степени образа жизни они разделяются на три разряда: оседлых, кочующих и бродячих. Из инородцев, находящихся в <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName>, тунгусы, остяки, юраки, самоеды, долганы и якуты, коих считается до 7 782, обитают в северных местах <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейского округа</placeName>, остальные же татарского племени, находятся в <placeName ref="#place_minusinsk" type="auto" subtype="heuristic-dictionary">Минусинском</placeName> и <placeName ref="#place_achinsk" type="auto" subtype="heuristic-dictionary">Ачинском</placeName> округах. Бродячие инородцы занимаются исключительно звериным и рыбным промыслом, что составляет единственный источник их существования. Кочевые инородцы занимаются также звериным и рыбным промыслом, но главнее скотоводством, не чуждаясь, впрочем, и хлебопашества. Небольшая часть оседлых инородцев, усвоив крестьянский образ жизни, занимается хлебопашеством, скотоводством</p>
+      <pb n="14" />
+      <p>14 и имеет домохозяйство с огородами при домах, но большая часть не занимается хозяйством, несмотря на изобилие удобных мест, и живет в дымных, холодных юртах. Причина тому: недостаток предприимчивости, природная лень и беспечность, а более всего — страсть к пьянству; за всем тем с упадком зверопромышленности хлебопашество у инородцев год от году увеличивается и быт начавших заниматься земледелием значительно улучшается. Из инородцев <placeName ref="#place_achinsk" type="auto" subtype="heuristic-dictionary">Ачинского</placeName> и <placeName ref="#place_minusinsk" type="auto" subtype="heuristic-dictionary">Минусинского</placeName> округов до 36 тысяч душ обоего пола вероисповедания православного, остальные же идолопоклонники — последователи шаманов, заменяющих у них духовные лица. Инородцы вообще довольно миролюбивы и гостеприимны, но скрытны и мстительны. Разговорный язык инородцев <placeName ref="#place_achinsk" type="auto" subtype="heuristic-dictionary">Ачинского</placeName> и <placeName ref="#place_minusinsk" type="auto" subtype="heuristic-dictionary">Минусинского</placeName> округов представляет в настоящее время смесь татарского с финским с присоединением многих русских слов; у них не только нет на природном языке никакой письменности, но даже нет никаких преданий. Л. Сельское хозяйство Важнейшую отрасль сельского хозяйства составляет хлебопашество. Оно преимущественно развито в южной части губернии, именно в <placeName ref="#place_achinsk" type="auto" subtype="heuristic-dictionary">Ачинском</placeName> и <placeName ref="#place_minusinsk" type="auto" subtype="heuristic-dictionary">Минусинском</placeName> округах, но далеко не в цветущем состоянии, хотя с каждым годом запашка увеличивается; способы возделывания земли самые простые; кроме простой, весьма неудобной по тяжести, русской двухконной и одноконной сохи и простой, почти четырехугольной бороны с деревянными и железными зубьями пополам, других орудий не употребляется, земель никогда не удабривают и распахивают чрезвычайно мелко, оттого росту хлебов мешают сорные травы, исключения в последнем случае весьма редки, система хозяйства с залежами; обыкновенно пашут на одном месте 4, 5 — редко 6 лет и потом на такое же число лет оставляют прежние и распахивают новые места или же расчищают леса. В <date when="1864" type="auto" subtype="natasha">1864 г.</date> собрано в <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName> льну 45 044 пуд., конопля — 110 404 пуд., свеклы — 51 378 пуд. 37 1/2 фун.</p>
+      <pb n="15" />
+      <p>15 и табаку 533 пуд. 15 фун. Против <date when="1863" type="auto" subtype="natasha">1863 г.</date> более: свеклы на 16 433 пуд., менее: льну на 8 855 пуд., конопля на 11 766 пуд. и табаку на 569 пуд. 15 фун. Сверх того, в губернии водится и пчеловодство. В течение <date when="1864" type="auto" subtype="natasha">1864 г.</date> от 16 431 улья собрано меду 3 599 пуд. 15 фун. и воску 530 пуд. 221/4 фун. Против <date when="1863" type="auto" subtype="natasha">1863 г.</date> увеличилось: число ульев на 180; количество воску на 50 пуд. 193/4 фун., количество же меду уменьшилось на 279 пуд. 361/2 фун. М. Посев и урожай Средний урожай был сам четверть. Количество посева и урожая означено в прилагаемой ведомости под № 20. Вообще урожай хлеба в сравнении с <date when="1863" type="auto" subtype="natasha">1863 г.</date> был менее удовлетворительный. Н. Скотоводство Количество рабочего скота, главного пособия в сельском хозяйстве, показано под № 18. Полагая крестьянскую семью в 4 души мужского и женского пола, на каждое хозяйство причитается до 4 лошадей, до 3 голов рогатого и до 5 мелкого скота. Рогатый скот вообще простой сибирской породы, отличающейся малорослостию и дающей мало молока, а при убойке немного мяса и сала; небрежный уход и недостаточный корм в зимние месяцы сильно способствуют ухудшению и измельчанию породы; весь скот, за исключением дойных коров, в <placeName ref="#place_achinsk" type="auto" subtype="heuristic-dictionary">Ачинском</placeName> и <placeName ref="#place_minusinsk" type="auto" subtype="heuristic-dictionary">Минусинском</placeName> округах большею частью пускается зимою в степи, где выгребая копытами из-под снегу сухую траву, едва утоляет голод, а при глубоких снегах и сильных морозах гибнет в большом количестве от холоду и голоду; в других местах скот хотя не выпускается в поле, но содержится в тесных пространствах, вовсе не покрытых и плохо огражденных, которые нимало не защищают животных от стужи и сырости. Летом на хороших пастбищах скот скоро поправляется, и если бы жители обращали более внимания на содержание его зимою, то и местная порода могла бы в течение некоторого времени улучшиться; доказательством может служить то,</p>
+      <pb n="16" />
+      <p>16 что рогатый скот, содержимый у некоторых поселенцев и переселенцев из внутренних губерний в сараях, защищенных от ветров, дождей и снега, хотя на простой, но обильной пище и тучнее, и значительно рослее. Овцеводство в значительных размерах развито в южных округах, овцы простой киргизской породы с небольшими курдюками; особых овчарен не устраивается, зимою овцы содержатся в обыкновенных теплых хлевах, но уход за ними гораздо лучший, нежели за рогатым скотом, а корм дается в изобилии и лучшего качества. О. Коннозаводство Конские заводы самые незначительные, находятся в <placeName ref="#place_minusinsk" type="auto" subtype="heuristic-dictionary">Минусинском</placeName> и частью в <placeName ref="#place_kansk" type="auto" subtype="heuristic-dictionary">Канском</placeName> округах. Местная рослая сибирская порода, давно уже ослабленная плохим содержанием, находится в значительном упадке и почти утратила свои хорошие качества — быстроту бега и крепость сил; лошади, за исключением рабочих, содержатся так же небрежно, как и рогатый скот. Конокрадство также в сильной степени препятствует распространению лучших пород лошадей. Испытаний крестьянским лошадям в течение <date when="1864" type="auto" subtype="natasha">1864 г.</date> не производилось. П. Народное продовольствие Ведомость о запасах продовольствия приложена при сем под № 19. В минувшем лете снято хлеба против <date when="1863" type="auto" subtype="natasha">1863 г.</date> менее: озимого 16 147 четвертей и ярового — 67 507 четвертей. II. ПОДАТИ И ПОВИННОСТИII. ПОДАТИ И ПОВИННОСТИ А. Общее состояние податей К <date when="1864" type="auto" subtype="natasha">1864 г.</date> осталось недоимок — 131 696 руб. 63 коп. Оклад сего рода составлял — 382 660 руб. 20 коп. К тому причислено — 5 872 руб. 351/4 коп. А всего следовало взыскать — 520 229 руб. 181/4 коп. В <date when="1864" type="auto" subtype="natasha">1864 г.</date> взыскано:</p>
+      <pb n="17" />
+      <p>17  недоимок — 27 103 руб. 601/2 коп.;  оклада — 315 637 руб. 821/2 коп. Исключено:  недоимок — 11 918 руб. 461/2 коп.;  оклада — 10 485 руб. 453/4 коп. Итого: 365 145 руб. 351/4 коп. За тем осталось в недоимке — 155 083 руб. 83 коп. Более стало к <date when="1864" type="auto" subtype="natasha">1864 г.</date> на 23 387 руб. 20 коп. Б. Недоимки В числе сей недоимки состоит:  на мещанах — 25 031 руб. 431/2 коп.;  государственных крестьянах — 69 945 руб. 181/4 коп.;  временнообязанных крестьянах — 348 руб. 61/2 коп.;  поселенцах ведомства экспедиции о ссыльных — 82 259 руб. 143/4 коп. Всего: 155 083 руб. 83 коп. К взысканию податей и недоимок со стороны местного начальства приняты все зависящие от него законные меры, вследствие которых следующие от крестьян-старожилов подати изыскиваются сполна и большею частью прежде установленного срока, самая же большая часть недоимок остается: а) на крестьянах, переселившихся из внутренних губерний самовольно, которые, не получив поэтому никаких льгот и никакого от казны пособия, затрудняются в исправном платеже податей, и б) на крестьянах из поселенцев и на поселенцах, выбывших по разным случаям из мест водворения или сделавшихся неспособными к работам, за коих крестьянские общества в платеже податей и недоимок по закону не ответствуют, и потому все они подлежат исключению из окладов с числящеюся на них недоимкою, о чем собираются надлежащие сведения. В. Земские повинности Количество земских сборов простиралось, согласно Высочайше утвержденной смете земских повинностей на трехлетие с 1860 по <date when="1863" type="auto" subtype="natasha">1863 г.</date> и продолженной на 1863 и <date when="1864" type="auto" subtype="natasha">1864 гг</date>., до 169 549 руб. 391/2 коп.</p>
+      <pb n="18" />
+      <p>18 Распределение сего сбора по сословиям означено в ведомости под № 11, где показаны и отправленные крестьянами натуральные повинности. Подворная повинность — этапная и обывательская — отправлялась на счет сумм земского сбора и обошлась: первая в 6 612 руб., а вторая — в 27 489 руб. 181/2 коп., междудворная гоньба отправлялась натурою. Г. Городские доходы Доходы городов, против <date when="1863" type="auto" subtype="natasha">1863 г.</date>, в общей сложности уменьшились: первые на 4 569 руб. 20 коп., а последние — на 180 руб. 433/4 коп. Остаточный капитал составляет 203 612 руб. 41 коп. К <date when="1865" type="auto" subtype="natasha">1865 г.</date> осталось в недоимке 18 710 руб. 323/4 коп., против остатка к <date when="1864" type="auto" subtype="natasha">1864 г.</date> более на 5 268 руб. 371/2 коп. К взысканию недоимки приняты должные меры. В <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName> существуют два общественных банка, учрежденных на отделенные из запасных городских капиталов суммы. <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейский</placeName> банк открыт <date when="1863-01-07" type="auto" subtype="natasha">7 января 1863 г.</date> Основной капитал всего — 70 000 руб. Общий оборот простирался до 323 902 руб. 73/4 коп. Чистой прибыли получено по <date when="1865-01-01" type="auto" subtype="natasha">1 января 1865 г.</date> 17 850 руб. 351/4 коп. <placeName ref="#place_kansk" type="auto" subtype="heuristic-dictionary">Канский</placeName> банк открыт 11 июля. Основной капитал всего — 10 000 руб. Общий оборот простирался до 38 277 руб. 41/4 коп. Чистой прибыли получено по <date when="1865-01-01" type="auto" subtype="natasha">1 января 1865 г.</date> — 1 868 руб. 273/4 коп. Составленный городским обществом приговор об учреждении в г. <placeName ref="#place_achinsk" type="auto" subtype="heuristic-dictionary">Ачинске</placeName> общественного банка на отделенные из запасного городского капитала 10 000 руб. представлен на утверждение(х). _______________ (х) Председательствующему в Совете Главного управления <placeName ref="#place_eastern_siberia" type="auto" subtype="heuristic-dictionary">Восточной Сибири</placeName>
+        <date when="1864-07-31" type="auto" subtype="natasha">31 июля 1864 г.</date> № 9841.</p>
+      <pb n="19" />
+      <p>19 Предложения об усилении городских доходов по г. <placeName ref="#place_achinsk" type="auto" subtype="heuristic-dictionary">Ачинску</placeName> не приведено в исполнение за неполучением по сему предмету разрешения(х). Проект устава, предположенного к учреждению в г. <placeName ref="#place_minusinsk" type="auto" subtype="heuristic-dictionary">Минусинске</placeName> общественного банка на отделенные из запасного городского капитала 10 000 руб., представлен на утверждение(хх). При <placeName ref="#place_achinsk" type="auto" subtype="heuristic-dictionary">Ачинской</placeName> городовой ратуше открыта в <date when="1864" type="auto" subtype="natasha">1864 г.</date> сберегательная касса. IIII. II. ОБЩЕСТВЕННОЕ БЛАГОУСТРОЙСТВООБЩЕСТВЕННОЕ БЛАГОУСТРОЙСТВО А. Казенные здания В губернии находится 127 разного ведомства казенных зданий, в том числе 13 каменных и 114 деревянных. Губернские присутственные места, за исключением казенной палаты, имеющей собственный каменный дом, помещаются в приобретенном от военного ведомства деревянном здании; остальные же присутственные места находятся в наемных зданиях. В <date when="1864" type="auto" subtype="natasha">1864 г.</date> произведено из ремонтной суммы исправлений на 1 281 руб. 14 коп. Б. Дороги, мосты и переправы Шоссейных дорог в губернии нет, почтовые же на протяжении 1 2181/4 версты, при постоянной поддержке, устройстве пологих спусков и крепких перил, находятся в удовлетворительном состоянии и не представляют никаких неудобств. Устройство береговых укреплений в <placeName ref="#place_eniseysk" type="auto" subtype="heuristic-dictionary">г. Енисейске</placeName> при женском монастыре, находящемся при реке Мельничной, окончено. При производстве этих работ израсходовано из городского капитала 4 073 руб. При рассмотрении предположения о сокращении почтового тракта от г. <placeName ref="#place_minusinsk" type="auto" subtype="heuristic-dictionary">Минусинска</placeName> на 17 верст почтовое начальство нашло, что для устранения затруднений при отправлении _______________ (х) Представлено в Главное управление <placeName ref="#place_eastern_siberia" type="auto" subtype="heuristic-dictionary">Восточной Сибири</placeName>
+        <date when="1861-02-07" type="auto" subtype="natasha">7 февраля 1861 г.</date> № 1658. (хх) Председательствующему в Совете Главного управления <placeName ref="#place_eastern_siberia" type="auto" subtype="heuristic-dictionary">Восточной Сибири</placeName>
+        <date when="1865-03-16" type="auto" subtype="natasha">16 марта 1865 г.</date> № 3623.</p>
+      <pb n="20" />
+      <p>20 почтовой гоньбы, было бы полезно учредить по новой дороге вместо двух — три почтовые станции, вследствие чего собираются по сему предмету надлежащие сведения. Перевозов и переправ в губернии 19, из них содержится на счет земских сборов — 1, а остальные — на счет сборов по утвержденным таксам. Предположение об устройстве в <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">г. Красноярске</placeName> перевоза чрез реку Енисей с заменою употребляемых до сих пор карбазов самолетом разрешено привести в исполнение, если будет возможно оставить существующую до сих пор переправу в с. <placeName ref="#place_березовском" type="auto" subtype="context-place-fallback">Березовском</placeName>, с отнесением перевоза в <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">г. Красноярске</placeName>, на счет земского сбора, без взимания платы с проезжающих. О вызове желающих взять на себя устройство и содержание перевоза сделано соответственное распоряжение. В. Почта Почтовых станций в губернии было 54, на них содержалось 357 пар лошадей. Жалоб, заслуживающих внимания начальства, не было. Предположение о проведении телеграфной линии от <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">г. Красноярска</placeName> до <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейска</placeName> по неимению ныне в виду средств оставлено до более благоприятного времени. Г. Частные здания Частных зданий, замечательных по обширности и своему назначению, в <date when="1864" type="auto" subtype="natasha">1864 г.</date> не производилось. В течение <date when="1864" type="auto" subtype="natasha">1864 г.</date> выстроено вновь: в губернском городе <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">Красноярске</placeName> — 9 и во всех окружных городах — 61 деревянный дом. Уничтожено за ветхостью в <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">Красноярске</placeName> — 1 и в <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейске</placeName> — 2 деревянных дома. Препятствием к более успешному развитию городов полагать следует дороговизну рабочих рук и материалов. Д. Народная нравственность В <date when="1864" type="auto" subtype="natasha">1864 г.</date> совершено в губернии преступлений (исчисленных в ведомости под № 23) 1 147, против <date when="1863" type="auto" subtype="natasha">1863 г.</date> менее — 204.</p>
+      <pb n="21" />
+      <p>21 Судя по числу народонаселения губернии 327 094, число совершенных в <date when="1864" type="auto" subtype="natasha">1864 г.</date> преступлений относится к числу жителей как 1:285; в предшествовавшем <date when="1863" type="auto" subtype="natasha">1863 г.</date> это отношение выражалось как 1:235; но по числу преступлений, показанных по ведомости под № 23, еще невозможно вывести заключения о нравственности народонаселения, потому что в оную вносятся уголовные преступления, по которым производятся формальные следствия, проступки же, по которым производятся лишь полицейские разбирательства, не показываются. К последней категории относятся и маловажные кражи, которые, в особенности в округах, не известны полиции — по причине отсутствия общественного суда при волостных правлениях и на сельских сходках. Природные жители губернии не отличаются чистотою нравов и особенно нерелигиозны и суеверны; мужчины склонны к пьянству, разврату, сутяжничеству и воровству, а женщины — ленивы и распутны. Пьянство и разврат развивают преимущественно возвращающиеся с золотых промыслов приказчики и рабочие, а воровство, мошенничество и конокрадство распространяют беспрестанно прибывающие ссыльные, которых в <date when="1864" type="auto" subtype="natasha">1864 г.</date> считалось 50 375 душ, и перечисленные в казаки штрафованные нижние чины, влияние последних чрезвычайно пагубно для молодого казачьего поколения, между тем казаки-старожилы отличались трезвостью, трудолюбием и чистотою нрава. Более других сословий в важнейших преступлениях попадаются поселенцы, так что в числе 1 203 открытых в <date when="1864" type="auto" subtype="natasha">1864 г.</date> преступников заключалось 414 поселенцев и 54 ссыльнокаторжных, то есть немного менее половины, тогда как число их составляет около 4-й части общего народонаселения губернии. Количество сих людей увеличивается еще ссыльными других сибирских губерний, прибывающими сюда для работ на золотых промыслах. Подкидышей в <date when="1864" type="auto" subtype="natasha">1864 г.</date> не было. Незаконнорожденных было 1 013. В <date when="1864" type="auto" subtype="natasha">1864 г.</date> сослано в Сибирь: 1. На житье: а) из привилегированного звания и городских — 13 муж., 1 жен.;</p>
+      <pb n="22" />
+      <p>22 крестьян государственных: б) по приговорам обществ — 75 муж., 16 жен.; в) по решениям судебных мест — 92 муж., 36 жен. 2. На водворение крестьян по судебным решениям — 1 142 муж., 330 жен. 3. На поселение крестьян и ссыльнопоселенцев — 1 209 муж., 108 жен. 4. В работу ссыльнокаторжных в Троицкий солеварный завод — 200 муж., 20 жен. Итого: 2 731 муж., 511 жен. Всего: 3 242. Политических преступников из Царства Польского и западных губерний: 1. На житье привилегированных сословий — 5 муж., 0 жен. 2. На водворение привилегированного сословия — 1 муж., 0 жен. 3. На поселение: а) привилегированного сословия — 566 муж., 2 жен.; б) простого звания — 122 муж., 0 жен.; в) неизвестного звания — 167 муж., 0 жен. 4. В работу, каторжный, в Троицкий завод — 1 муж., 0 жен. Итого: 862 муж., 2 жен. Всего: 864. Е. Раскольники Раскольников считалось 2 203 души обоего пола. В течение <date when="1864" type="auto" subtype="natasha">1864 г.</date> обратилось к Св. Православной Церкви из сект: беспоповщинской — 2 и малаканов — 2, а всего 4 души. Распространения вредных ересей по губернии в <date when="1864" type="auto" subtype="natasha">1864 г.</date> не обнаружено. Раскольнических молелен в губернии нет. Ведомость о раскольниках приложена под № 24. Ж. Иноверцы Иноверцев считалось 15 466 обоего пола душ. В <date when="1864" type="auto" subtype="natasha">1864 г.</date> присоединилось к православию: из римско-католического исповедания — 10, из лютеранского — 12 обоего пола душ.</p>
+      <pb n="23" />
+      <p>23 Приняли Св. Крещение: евреев — 3, магометан — 9, идолопоклонников — 156, а всего — 168 душ. Ведомость об иноверцах приложена под № 25. З. Бессрочноотпускные Список о бессрочноотпускных нижних чинах, коих считалось 476 человек, прилагается под № 6. Все они, за исключением одного, в поведении одобряются. И. Отставные нижние чины Отставных нижних чинов 1 784, из них живут:  хлебопашеством — 690;  торговлею — 62;  частною службою — 260;  разными ремеслами — 378;  пенсионом — 7;  находятся на казенном содержании — 63;  у родственников — 324. Итого: 1 784. Солдаток в губернии — 1 686. Из них:  остаются в семействах — 731;  имеют отдельную оседлость и хозяйство — 421;  в отлучке по билетам и паспортам — 111;  неоседлых на собственном пропитании — 401;  в безызвестной отлучке — 22. Итого: 1 686. Й. Иностранцы В <date when="1864" type="auto" subtype="natasha">1864 г.</date> выдано от начальника <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName> иностранным подданным билетов — 16. В том числе:  ремесленникам — 8;  занимающимся частною службою — 8. Присяги на подданство никто не принимал. К. Происшествия Число происшествий исчислено в ведомости под № 26.</p>
+      <pb n="24" />
+      <p>24 Л. Жалобы Письменных жалоб поступило — 938. Из них:  передано по принадлежности — 261;  собираются сведения по — 344;  признано уважительными — 116;  отказано по — 217. М. Беглые и бродяги Поймано беглых в городах — 123, в округах — 219, в том числе бежавших из ссылки в Сибирь 54, в числе сих последних 3 женщины. Военных дезертиров поймано и предано суду 8 человек. Пристанодержателей открыто и предано суду 24 человека. Н. Арестанты Число арестантов видно из ведомости под № 5, в которой показаны и рассмотренные приговоры. По судебным приговорам содержалось в тюрьмах и под арестом 154 человека. О. Тюремные замки В выстроенном в губернском <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">г. Красноярске</placeName> каменном тюремном замке, оказавшемся неудобным по тесноте своей, признано необходимым произвести новые постройки и переделки. Исчисленная на этот предмет по утвержденным в установленном порядке строительным сметам сумма 14 708 руб. 17 коп. внесена в смету о земских повинностях на трехлетие с <date when="1865" type="auto" subtype="natasha">1865 г.</date>; работы предположено произвести хозяйственным порядком, под наблюдением директоров Губернского комитета попечительного о тюрьмах общества. Постройка каменного тюремного замка в <placeName ref="#place_eniseysk" type="auto" subtype="heuristic-dictionary">г. Енисейске</placeName> продолжается успешно и должна быть окончена в текущем году. Сверх обязательных по смете работ будет устроена внутри острога церковь, для которой крестьянином из поселенцев Николаем Волоховичем пожертвована богатая утварь.</p>
+      <pb n="25" />
+      <p>25 Работы по постройке деревянного острога в г. <placeName ref="#place_minusinsk" type="auto" subtype="heuristic-dictionary">Минусинске</placeName>, по заключенному с подрядчиком контракту, должны быть окончены к <date when="1866-03-15" type="auto" subtype="natasha">15 марта 1866 г.</date> Постройка деревянного острога в г. <placeName ref="#place_kansk" type="auto" subtype="heuristic-dictionary">Канске</placeName> окончена. Капитальные исправления в существующем в г. <placeName ref="#place_achinsk" type="auto" subtype="heuristic-dictionary">Ачинске</placeName> деревянном остроге, начатые с весны <date when="1864" type="auto" subtype="natasha">1864 г.</date>, — продолжаются под наблюдением особого Строительного комитета. П. Этапы Этапных помещений 8 и устроенных для ночлегов арестантских партий 10. Из предположенных к постройке 16 новых этапных и ночлежных помещений в <date when="1863" type="auto" subtype="natasha">1863 г.</date> окончено 10, постройка хозяйственным образом, 5 помещений будут окончены в наступающем июне; строящийся же этап вместо сгоревшего от молнии в деревне <placeName ref="#place_малокемчугской" type="auto" subtype="context-place-fallback">Малокемчугской</placeName> по заключенному с подрядчиком контракту должен быть окончен к <date when="1866-02-01" type="auto" subtype="natasha">1 февраля 1866 г.</date> Р. Рабочий и смирительный дома В <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName> рабочих и смирительных домов нет. С. <placeName ref="#place_арестантская" type="auto" subtype="context-place-fallback">Арестантская</placeName> рота гражданского ведомства Арестантских рот гражданского ведомства в <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName> нет. Т. Состоящие под надзором полиции В <date when="1864" type="auto" subtype="natasha">1864 г.</date> под надзором полиции состояло 65 человек. Из них 31 вели себя хорошо, 31 — порядочно и 3 — неодобрительно. Кроме того, в <date when="1864" type="auto" subtype="natasha">1864 г.</date> в губернии находилось 909 человек политических преступников. Из них: *** — вели себя хорошо, поведение же остальных неизвестно — по недавнему их прибытию в Сибирь. Отводов казенных земель, 15-десятинной пропорции, политическим преступникам в <date when="1864" type="auto" subtype="natasha">1864 г.</date> делаемо не было.</p>
+      <pb n="26" />
+      <p>26 IIV. V. НАРОДНОЕ ЗДРАВИЕНАРОДНОЕ ЗДРАВИЕ А. Врачи Врачей в губернии всего — 23. Из них на службе — 20. В том числе:  в губернском городе <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">Красноярске</placeName> — 7;  в окружных городах и округах — 7;  на местных золотых промыслах — 6;  вольнопрактикующих — 3. Городовые врачи находятся в городах: <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">Красноярске</placeName>, <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейске</placeName>, <placeName ref="#place_kansk" type="auto" subtype="heuristic-dictionary">Канске</placeName> и <placeName ref="#place_minusinsk" type="auto" subtype="heuristic-dictionary">Минусинске</placeName>. Предположение, основанное на необходимой потребности о назначении в г. <placeName ref="#place_achinsk" type="auto" subtype="heuristic-dictionary">Ачинске</placeName> особого городового врача, находится в рассмотрении Министерства внутренних дел. Б. Аптеки Казенных аптек в губернии нет. Частных две — одна в <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">Красноярске</placeName>, а другая — в <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейске</placeName>. Беспорядков по содержанию аптек в <date when="1864" type="auto" subtype="natasha">1864 г.</date> не обнаружено. В. Оспопрививание Оспопрививание в <date when="1864" type="auto" subtype="natasha">1864 г.</date> производилось под наблюдением городовых и окружных врачей оспенными учениками, коих считалось 74 человека, с должною деятельностью и успехом. В <date when="1864" type="auto" subtype="natasha">1864 г.</date> привита оспа 8 824 младенцам, против <date when="1863" type="auto" subtype="natasha">1863 г.</date> менее — 495 младенцам. Г. Заразительные болезни Господствовавшими в <date when="1864" type="auto" subtype="natasha">1864 г.</date> болезнями на людях были: тифозная горячка ( Febris Typhoidea ), натуральная оспа (Variola), кровавый понос (Dysenteria) и корь (Exanthema), и хотя только в немногих местностях принимали эпидемический характер, но смертность вообще в губернии оказалась значительной. Исполнение мер, предписанных от Министерства внутренних дел, к прекращению любострастной болезни производилось как полициями, так и врачами с надлежащею заботливостью.</p>
+      <pb n="27" />
+      <p>27 На основании судебной медицины вскрыто человеческих трупов 334, в том числе 273 мужского, 61 женского пола. Д. Падежи Самой опустошительной из эпизоотических болезней для рогатого скота была шолуди (Variola Оvina), причинила в волостях <placeName ref="#place_kansk_okrug" type="auto" subtype="heuristic-dictionary">Канского округа</placeName> значительные опустошения. Из числа заболевшего скота 10 844 пало 9 995. Зараза, не прекращавшаяся с <date when="1863" type="auto" subtype="natasha">1863 г.</date>, существует в некоторой степени и в настоящее время. Из округа болезнь проникла в г. <placeName ref="#place_kansk" type="auto" subtype="heuristic-dictionary">Канск</placeName>, где из 651 заболевшего пало 482 штуки рогатого скота. В <placeName ref="#place_krasnoyarsk_okrug" type="auto" subtype="heuristic-dictionary">Красноярском округе</placeName> падеж на рогатом скоте был от чумы (Typhus Сontagio), которая, опустошив многие местности с <date when="1860" type="auto" subtype="natasha">1860 г.</date>, наконец прекращена во второй половине <date when="1864" type="auto" subtype="natasha">июня 1864 г.</date> Из числа заболевшего скота 671 пало 509. В двух селениях того же округа был падеж на овцах от натуральной оспы (Variola), прекратившейся в половине октября. Из 331 заболевшей овцы пало 315 штук. В <placeName ref="#place_achinsk_okrug" type="auto" subtype="heuristic-dictionary">Ачинском округе</placeName> был падеж на лошадей от сибирской язвы (Febris Сarbunculosus). Причиной появления заразы было особенно знойное лето. Из 500 заболевших пало 486 лошадей. В одной волости того же округа появилась на овцах натуральная оспа, но была неопустошительна и скоро прекращена. К прекращению заразы были приняты всевозможные врачебно-полицейские меры и разные предосторожности, чем значительно сдержано вообще распространение оной. Ведомость о падеже скота приложена под № 10. VV А. Общественное призрение Общественное призрение лежит на обязанности приказа. Ведомость под № 8 показывает, что общий оборот сумм приказа в <date when="1864" type="auto" subtype="natasha">1864 г.</date> уменьшился до 31/4 %, а в собственном капитале приказа оказалось прибыли до 3 %. К <date when="1865" type="auto" subtype="natasha">1865 г.</date> остался один просроченный платеж.</p>
+      <pb n="28" />
+      <p>28 Б. Больницы Больничные здания в городах <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName> по ветхости и непрочности своей, по тесноте и неудобству помещений вообще не соответствуют своему назначению. В <date when="1864" type="auto" subtype="natasha">1864 г.</date> поддерживались они необходимыми хозяйственными исправлениями, на что употреблено:  в <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">Красноярске</placeName> — 538 руб. 95 коп.;  в <placeName ref="#place_kansk" type="auto" subtype="heuristic-dictionary">Канске</placeName> — 76 руб. 61 коп.;  в <placeName ref="#place_minusinsk" type="auto" subtype="heuristic-dictionary">Минусинске</placeName> — 305 руб. 75 коп.;  в <placeName ref="#place_achinsk" type="auto" subtype="heuristic-dictionary">Ачинске</placeName> — 42 руб.;  отпущено на постройку новой бани с прачечною — 503 руб. Итого: 1 466 руб. 31 коп. В <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">Красноярской</placeName> больнице на счет экономии от сметной суммы делаются приказом разные улучшения. В окружных городах больницы находятся под управлением больничных советов. Вообще во всех больницах содержание в день обошлось: в <date when="1864" type="auto" subtype="natasha">1864 г.</date> по 46 коп. на человека, в <date when="1863" type="auto" subtype="natasha">1863 г.</date> стоило по 47 коп. и в <date when="1862" type="auto" subtype="natasha">1862 г.</date> — по 48 к. К заведениям сего рода следует отнести новоучрежденную в <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">г. Красноярске</placeName> народную лечебницу безвозмездного пользования приходящих больных всех сословий, с родильным отделением, содержимую на частные пожертвования. Проект устава лечебницы находится в рассмотрении(х). В. Богадельни Находящиеся в <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">г. Красноярске</placeName> богадельня и дом умалишенных содержатся по возможности в удовлетворительном виде, но вообще все здания чрезвычайно ветхи и тесны для вмещения всех нуждающихся в помощи. Содержание существующих в <placeName ref="#place_eniseysk" type="auto" subtype="heuristic-dictionary">г. Енисейске</placeName> и <placeName ref="#place_achinsk" type="auto" subtype="heuristic-dictionary">Ачинске</placeName> богаделен на счет городских доходов стоило: в первом — 193 руб., а в последнем – 55 руб. 58 1/4 коп. В енисейской богадельне в <date when="1864" type="auto" subtype="natasha">1864 г.</date> было призрено 12, а в ачинской — 8 человек. _______________ (х) Представлен министру внутренних дел <date when="1863-10-26" type="auto" subtype="natasha">26 октября 1863 г.</date> № 13364.</p>
+      <pb n="29" />
+      <p>29 В построенной <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейского округа</placeName> в с. <placeName ref="#place_казачинском" type="auto" subtype="context-place-fallback">Казачинском</placeName> крестьянином Иваном Серебряковым богадельне призревалось на счет основателя 17 человек. В <date when="1864" type="auto" subtype="natasha">1864 г.</date> поступило пожертвований благотворительных лиц: 1) На устройство в <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">г. Красноярске</placeName> губернской гимназии — 37 271 руб. 401/2 коп. 2) В пользу семейств русских воинов, убитых в сражениях во время польского мятежа, — 94 руб. 50 коп. 3) На устройство храмов и народных училищ в западных губерниях — 1 131 руб. 56 коп. 4) На возобновление <placeName ref="#place_успенского" type="auto" subtype="context-place-fallback">Успенского</placeName> пустынского монастыря в <placeName ref="#place_могилевской" type="auto" subtype="context-place-fallback">Могилевской</placeName> губернии — 80 руб. 65 коп. 5) В пользу пострадавших от пожара жителей г. Симбирска — 45 руб. 6) В пользу жителей <placeName ref="#place_новороссийского" type="auto" subtype="context-place-fallback">Новороссийского</placeName> края, потерпевших разорение от войны 1853–<date when="1856" type="auto" subtype="natasha">1856 гг</date>., — 2 руб. 11 коп. 7) На устройство церквей при острогах: <placeName ref="#place_achinsk" type="auto" subtype="heuristic-dictionary">Ачинском</placeName>, <placeName ref="#place_kansk" type="auto" subtype="heuristic-dictionary">Канском</placeName> и <placeName ref="#place_minusinsk" type="auto" subtype="heuristic-dictionary">Минусинском</placeName> — 551 руб. 83/4 коп. 8) В пользу пострадавших от пожара жителей села <placeName ref="#place_гляденского" type="auto" subtype="context-place-fallback">Гляденского</placeName>
+        <placeName ref="#place_krasnoyarsk_okrug" type="auto" subtype="heuristic-dictionary">Красноярского округа</placeName> — 170 руб. 9) В пользу красноярской народной лечебницы — 341 руб. 561/2 коп. 10) В пользу <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">Красноярского</placeName>
+        <placeName ref="#place_владимирского" type="auto" subtype="context-place-fallback">Владимирского</placeName> детского приюта — вещами на 88 руб. 50 коп. и 11) В пользу <placeName ref="#place_губернского" type="auto" subtype="context-place-fallback">Губернского</placeName> комитета Попечительного общества о тюрьмах и 4 окружных отделений оного — деньгами 2 700 руб. 291/4 коп., вещами на 1 827 руб. 85 коп. и припасами на 194 руб. 15 коп. Всего: 44 498 руб. 671/2 коп. VI. VI. НАРОДНОЕ ПРОСВЕЩЕНИЕНАРОДНОЕ ПРОСВЕЩЕНИЕ А. Учебные заведения В <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName> находятся следующие учебные заведения. Число заведений Число учащихся муж. жен. а) Гражданские Училищ Уездных 3 265 Приходских в городах 6 341 в округах 10 251 14</p>
+      <pb n="30" />
+      <p>30 Число заведений Число учащихся муж. жен. Сельских В селениях государственных для крестьян 18 205 13 Женское училище 2-го разряда в <placeName ref="#place_eniseysk" type="auto" subtype="heuristic-dictionary">г. Енисейске</placeName> 1 — 23 Народная школа грамотности в <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">г. Красноярске</placeName> 1 53 48 б) Духовные Уездное в <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">Красноярске</placeName> 1 138 — Приходское — при <placeName ref="#place_turukhansk" type="auto" subtype="heuristic-dictionary">Туруханском</placeName> монастыре 1 20 — в) Казачьи Школы <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">Красноярская</placeName> полковая 1 13 — В станицах: <placeName ref="#place_дрокинской" type="auto" subtype="natasha-context-place">Дрокинской</placeName> 1 27 — <placeName ref="#place_мининской" type="auto" subtype="context-place-fallback">Мининской</placeName> 1 31 — <placeName ref="#place_бугачевской" type="auto" subtype="context-place-fallback">Бугачевской</placeName> 1 33 — <placeName ref="#place_торгашинской" type="auto" subtype="context-place-fallback">Торгашинской</placeName> 1 37 — <placeName ref="#place_базайской" type="auto" subtype="context-place-fallback">Базайской</placeName> 1 22 — <placeName ref="#place_белоярской" type="auto" subtype="context-place-fallback">Белоярской</placeName> 1 24 — <placeName ref="#place_таштыпской" type="auto" subtype="context-place-fallback">Таштыпской</placeName> 1 30 — <placeName ref="#place_саянской" type="auto" subtype="context-place-fallback">Саянской</placeName> 1 24 — <placeName ref="#place_каратузской" type="auto" subtype="context-place-fallback">Каратузской</placeName> 1 20 — <placeName ref="#place_суэтукской" type="auto" subtype="context-place-fallback">Суэтукской</placeName> 1 9 — В деревнях: Еловой 1 14 — <placeName ref="#place_монокской" type="auto" subtype="context-place-fallback">Монокской</placeName> 1 15 — Восточной 1 8 — В фортпостах: <placeName ref="#place_арбатском" type="auto" subtype="natasha-context-place">Арбатском</placeName> 1 18 — <placeName ref="#place_бузуновском" type="auto" subtype="context-place-fallback">Бузуновском</placeName> 1 10 — <placeName ref="#place_алтайском" type="auto" subtype="context-place-fallback">Алтайском</placeName> 1 6 — Воспитательное заведение: <placeName ref="#place_владимирский" type="auto" subtype="context-place-fallback">Владимирский</placeName> детский приют в <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">г. Красноярске</placeName> 1 12 68 Итого: 59 1626 166 Число учащихся в училищах и школах в <date when="1864" type="auto" subtype="natasha">1864 г.</date> увеличилось: 262 мальч. и 5 девоч., а во <placeName ref="#place_владимирском" type="auto" subtype="context-place-fallback">Владимирском</placeName> детском приюте уменьшилось: 14 мальч. и 1 девоч.</p>
+      <pb n="31" />
+      <p>31 В <date when="1864" type="auto" subtype="natasha">1864 г.</date> открыты сельские училища для государственных крестьян: <placeName ref="#place_krasnoyarsk_okrug" type="auto" subtype="heuristic-dictionary">Красноярского округа</placeName> в селениях: <placeName ref="#place_шилинском" type="auto" subtype="context-place-fallback">Шилинском</placeName>, <placeName ref="#place_батойском" type="auto" subtype="natasha-context-place">Батойском</placeName>, <placeName ref="#place_еловском" type="auto" subtype="context-place-fallback">Еловском</placeName> и <placeName ref="#place_сухобузимском" type="auto" subtype="context-place-fallback">Сухобузимском</placeName>; <placeName ref="#place_kansk_okrug" type="auto" subtype="heuristic-dictionary">Канского округа</placeName> в селениях: <placeName ref="#place_устьянском" type="auto" subtype="context-place-fallback">Устьянском</placeName>, <placeName ref="#place_уринском" type="auto" subtype="context-place-fallback">Уринском</placeName>, <placeName ref="#place_тасеевском" type="auto" subtype="context-place-fallback">Тасеевском</placeName>, <placeName ref="#place_конторском" type="auto" subtype="context-place-fallback">Конторском</placeName>, Нижне-<placeName ref="#place_ингашевском" type="auto" subtype="context-place-fallback">Ингашевском</placeName>, <placeName ref="#place_анцырском" type="auto" subtype="context-place-fallback">Анцырском</placeName> и <placeName ref="#place_иланском" type="auto" subtype="context-place-fallback">Иланском</placeName>; <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейского округа</placeName> в селе <placeName ref="#place_анциферовском" type="auto" subtype="context-place-fallback">Анциферовском</placeName>. Для казачьих детей: <placeName ref="#place_krasnoyarsk_okrug" type="auto" subtype="heuristic-dictionary">Красноярского округа</placeName> — в <placeName ref="#place_базайской" type="auto" subtype="context-place-fallback">Базайской</placeName> станице; <placeName ref="#place_minusinsk_okrug" type="auto" subtype="heuristic-dictionary">Минусинского округа</placeName> — в <placeName ref="#place_арбатском" type="auto" subtype="context-place-fallback">Арбатском</placeName> форпосте и в деревне <placeName ref="#place_монокской" type="auto" subtype="context-place-fallback">Монокской</placeName>. В <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейском округе</placeName> сельские училища: Кежемское и Богучанское — по неимению учителей оставались закрытыми. На содержание народной школы грамотности в <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">г. Красноярске</placeName> отделено в <date when="1864" type="auto" subtype="natasha">1864 г.</date> из городских доходов 495 руб. Число учащихся относится к общему числу жителей как 1:238, в частности же по ведомствам: духовному — как 1:16, военному — как 1:59, а в благородном сословии с городскими обывателями — как 1:23. Частных школ и пансионов в <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName> не существует. Б. Типография Существующая в губернии при <placeName ref="#place_губернском" type="auto" subtype="context-place-fallback">Губернском</placeName> правлении типография находится в удовлетворительном состоянии, но здание, в котором она помещается, чрезвычайно ветхо и требует капитальных исправлений или постройки нового дома. В <date when="1864" type="auto" subtype="natasha">1864 г.</date> получен новый печатный стан, выписаны еще два такие же стана, и ожидаются литеры. Чистого дохода выручено в <date when="1864" type="auto" subtype="natasha">1864 г.</date> 4 862 руб. 633/4 коп., против <date when="1863" type="auto" subtype="natasha">1863 г.</date> более на 957 руб. 783/4 коп. В. Библиотека В <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">Красноярской</placeName> публичной библиотеке состоит книг: 553 назв. в 1 091 перепл. на 1 583 руб. 881/2 коп. Периодических изданий 100 назв. в 1 039 перепл. на 1 133 руб. 311/2 коп. Библиотека помещается в собственном каменном доме и составлялась из книг, пожертвованных разными лицами.</p>
+      <pb n="32" />
+      <p>32 VII. МЕСТНАЯ АДМИНИСТРАЦИЯ И СУДОПРОИЗВОДСТВОVII. МЕСТНАЯ АДМИНИСТРАЦИЯ И СУДОПРОИЗВОДСТВО А. Общее движение делопроизводства Ведомости о делопроизводстве приложены под № 1 и 2. В <date when="1864" type="auto" subtype="natasha">1864 г.</date> вообще число нерешенных дел, против предшествовавшего года, уменьшилось — 1 002, число же неисправленных бумаг увеличилось — 2 087. Делопроизводство собственно по канцелярии Общего губернского управления в <date when="1864" type="auto" subtype="natasha">1864 г.</date> шло весьма успешно. Б. <orgName ref="#org_gubernskoe_pravlenie" type="auto" subtype="heuristic-dictionary">Губернское правление</orgName> Делопроизводство по <orgName ref="#org_gubernskoe_pravlenie" type="auto" subtype="heuristic-dictionary">Губернскому правлению</orgName> в <date when="1864" type="auto" subtype="natasha">1864 г.</date> было особенно успешно. При вступлении в должность нового председателя <date when="1863-03-01" type="auto" subtype="natasha">1 марта 1863 г.</date> число нерешенных дел было 1 153 (в том числе продолжавшихся более 3 лет — 280); к <date when="1865" type="auto" subtype="natasha">1865 г.</date> общее количество нерешенных дел уменьшилось до 468 (в том числе продолжавшихся более 3 лет — 90). Против предшествовавшего года осталось нерешенных дел менее — 237, а неисполненных бумаг более — 126. В. Полиция В действиях городских полиций по исполнению законов упущений особенной важности не обнаружено. Производство дел по городским полициям, за исключением <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">Красноярской</placeName>, в <date when="1864" type="auto" subtype="natasha">1864 г.</date> шло довольно удовлетворительно; против <date when="1863" type="auto" subtype="natasha">1863 г.</date> осталось менее: нерешенных дел — 2, неисполненных бумаг — 399. Обязанности полицейских служителей в городах <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">Красноярске</placeName>, <placeName ref="#place_kansk" type="auto" subtype="heuristic-dictionary">Канске</placeName> и <placeName ref="#place_minusinsk" type="auto" subtype="heuristic-dictionary">Минусинске</placeName> относят местные мещане по очереди, и в <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейске</placeName> и <placeName ref="#place_achinsk" type="auto" subtype="heuristic-dictionary">Ачинске</placeName> полицейские команды сформированы из нижних воинских чинов. Г. Пожарная часть В городах <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">Красноярске</placeName>, <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейске</placeName> и <placeName ref="#place_achinsk" type="auto" subtype="heuristic-dictionary">Ачинске</placeName> пожарные команды сформированы из нижних воинских чинов; в замене этих команд предположено устроить команды общественные, какие существуют на прежних началах в городах <placeName ref="#place_minusinsk" type="auto" subtype="heuristic-dictionary">Минусинске</placeName>
+      </p>
+      <pb n="33" />
+      <p>33 и <placeName ref="#place_kansk" type="auto" subtype="heuristic-dictionary">Канске</placeName>. Составленный по сему проект находится в рассмотрении(х). Вообще пожарная часть находится в удовлетворительном состоянии. Д. Квартирная повинность Квартирная повинность в городах <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName> относится натурою. Назначение квартир производится уравнительно по очередным книгам. Жалоб на неуравнительное разделение постоя в <date when="1864" type="auto" subtype="natasha">1864 г.</date> не было. Е. Земская полиция Делопроизводство по земским судам в течение <date when="1864" type="auto" subtype="natasha">1864 г.</date> шло удовлетворительно, против <date when="1863" type="auto" subtype="natasha">1863 г.</date> осталось неисполненных бумаг менее — 91, а дел нерешенных более — 53. Ж. Опеки В <date when="1864" type="auto" subtype="natasha">1864 г.</date> находилось в опеке имений:  по малолетству наследников — 105;  помешательству в уме — 2;  слухонемоте — 1;  спорам наследников и неявке их — 3;  над имением неосторожных должников — 3;  за расточительность — 3. Итого: 117. Попечительств над несовершеннолетними, достигшими 17 лет, в <date when="1864" type="auto" subtype="natasha">1864 г.</date> — 35. В числе показанных по ведомости под № 7 опек над малолетними в <date when="1863" type="auto" subtype="natasha">1863 г.</date> учреждено: дворянских — 1 и городских — 15. _______________ (х) Представлен г-ну председательствующему в Совете Главного управления <placeName ref="#place_eastern_siberia" type="auto" subtype="heuristic-dictionary">Восточной Сибири</placeName>
+        <date when="1865-01-07" type="auto" subtype="natasha">7 января 1865 г.</date> № 180.</p>
+      <pb n="34" />
+      <p>34 З. Думы, ратуши и словесные суды Действия городских дум, ратуши и словесных судов по всем предметам их ведомства, а в особенности по городскому хозяйству и торговой полиции, направлены были к увеличению городских доходов и к экономии в издержках. И. Казначейство Суммы по всем казначействам находятся в безопасных кладовых. Недостатка сумм и других беспорядков по казначействам в течение <date when="1864" type="auto" subtype="natasha">1864 г.</date> не обнаружено. Й. Архивы <placeName ref="#place_губернский" type="auto" subtype="context-place-fallback">Губернский</placeName> архив помещается в одном из корпусов упраздненной в <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">г. Красноярске</placeName> роты военных кантонистов, приобретенных в <date when="1862" type="auto" subtype="natasha">1862 г.</date> покупкою от военного ведомства. Прием дел производится в установленном порядке, и архив содержится исправно. Архивы в окружных городах находятся по возможности в удовлетворительном состоянии. В <date when="1864" type="auto" subtype="natasha">1864 г.</date> всех дел состояло 360 139. Делопроизводство по всем ведомствам По ведомству палат делопроизводство представляется в следующем виде. Оставалось к <date when="1864" type="auto" subtype="natasha">1864 г.</date> В <date when="1864" type="auto" subtype="natasha">1864 г.</date> поступило До <date when="1864" type="auto" subtype="natasha">1864 г.</date> решено К <date when="1865" type="auto" subtype="natasha">1865 г.</date> осталось По казенной палате <placeName ref="#place_губернскому" type="auto" subtype="context-place-fallback">Губернскому</placeName> суду 1 129 136 1 985 695 1 983 702 1 131 129 Из сего следует, что в <date when="1864" type="auto" subtype="natasha">1864 г.</date> делопроизводство по казенной палате и губернскому суду было удовлетворительно. Об улучшении быта православного духовенства Содержание сельского духовенства в <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName> обеспечено производимым оному от казны жалованьем и отпуском хлеба из сельских экономических магазинов; кроме</p>
+      <pb n="35" />
+      <p>35 того, священно- и церковнослужителям, за исключением весьма немногих, отведена сенокосная и огородная земля и устроены дела. Занятия открытого в <date when="1863" type="auto" subtype="natasha">1863 г.</date> под председательством местного архиерея Комитета для изыскания средств улучшения и обеспечения быта православного духовенства в <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName> продолжаются и в скором времени должны быть приведены к окончанию. Благонадежность лиц Большинство лиц, занимающих должности, отличаются добросовестностью, усердием и знанием дела и заслуживают особенной похвалы и внимания правительства. Награды и взыскания Из числа служащих в <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName> по всем ведомствам 478 чиновников награды получили 6 человек. Предано суду: 4 чиновника, 3 канцелярских служителя; удален от службы без прошения 1 человек. Виды предположения В <date when="1864" type="auto" subtype="natasha">1864 г.</date> представлено...1 1 Далее текст не сохранился. Прим. ред.</p>
+      <pb n="36" />
+      <pb n="37" />
+      <p>ВЕДОМОСТИ К ОТЧЕТУ ЕНИСЕЙСКОГО ГРАЖДАНСКОГОК ОТЧЕТУ ЕНИСЕЙСКОГО ГРАЖДАНСКОГО ГУБЕРНАТОРА ЗА ГУБЕРНАТОРА ЗА 18641864 ГОД ГОД</p>
+      <pb n="38" />
+      <table type="ocr-text" subtype="row-pattern">
+        <row role="label">
+          <cell>
+            <p>Копия № 24</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>ВЕДОМОСТЬ</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>О РАСКОЛЬНИКАХ ПО РАЗНЫМ ИХО РАСКОЛЬНИКАХ ПО РАЗНЫМ ИХ ТОЛКАМ ТОЛКАМ</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>В ЕНИСЕЙСКОЙ ГУБЕРНИИВ ЕНИСЕЙСКОЙ ГУБЕРНИИ</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>ЗА ЗА 18941894 ГОД ГОД</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>НазваНие городов</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>и округов</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>Преемлющих</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>священство</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>Беспоповщичьих сект</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>Признающих</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>брак</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>Не признающих</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>брак</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>муж. жен. муж. жен. муж. жен.</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>В <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">Красноярске</placeName> — — 2 — 1 —</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>округе оного 5 — – <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейске</placeName> — — — — — — – округе оного — — 2 — 4 3 – <placeName ref="#place_achinsk" type="auto" subtype="heuristic-dictionary">Ачинске</placeName> 2 1 1 1 — — – округе оного — — 108 110 — — – <placeName ref="#place_kansk" type="auto" subtype="heuristic-dictionary">Канске</placeName> — — — — — —</p>
+          </cell>
+          <cell>
+            <p>43</p>
+          </cell>
+          <cell>
+            <p>21</p>
+          </cell>
+          <cell>
+            <p>27</p>
+          </cell>
+          <cell>
+            <p>11</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>округе оного 7 — – <placeName ref="#place_minusinsk" type="auto" subtype="heuristic-dictionary">Минусинске</placeName> 4 2 — — — — – округе оного 340 351 — — 22 19 – <placeName ref="#place_turukhansk" type="auto" subtype="heuristic-dictionary">Туруханском</placeName> крае — — 25 14 — —</p>
+          </cell>
+          <cell>
+            <p>17</p>
+          </cell>
+          <cell>
+            <p>15</p>
+          </cell>
+          <cell>
+            <p>1</p>
+          </cell>
+          <cell>
+            <p>1</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>Итого по всей губернии358 Примечание В течение <date when="1864" type="auto" subtype="natasha">1864 г.</date> обратилось в православие из сект: беспопов щинской — 2 муж. и малаканской — 2 муж. пола, всего – 4 души. Свидетельствую: Военный Губернатор <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">г. Красноярска</placeName> и <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейский</placeName>
+              <placeName ref="#place_гражданский" type="auto" subtype="context-place-fallback">Гражданский</placeName> Губернатор <persName ref="#person_замятнин" type="auto" subtype="natasha">Генерал-Майор Замятнин</persName>
+            </p>
+          </cell>
+          <cell>
+            <p>354</p>
+          </cell>
+          <cell>
+            <p>198</p>
+          </cell>
+          <cell>
+            <p>159</p>
+          </cell>
+          <cell>
+            <p>55</p>
+          </cell>
+          <cell>
+            <p>34</p>
+          </cell>
+        </row>
+      </table>
+      <pb n="39" />
+      <p>39 Молокан, духоборцев и иконоборцев Субботников и иудействующих <persName ref="#person_скопцов" type="auto" subtype="natasha">Скопцов</persName>, хлыстов, шалопутов и других придерживающихся скопчества ИТОГО Всего муж. жен. муж. жен. муж. жен. муж. жен. 8 2 — — 4 — 15 2 17 10 7 4 — 11 6 100 45 145 — — — — 2 — 2 — 2 1 1 — — 2 1 9 4 13 — — — — 1 1 4 3 7 1 — — — 1 1 109 111 220 — — — — 3 — 3 — 3 2 — — 1 3 — 30 15 45 — — — — 15 10 19 12 31 98 75 279 259 56 34 795 738 1533 39 38 — 2 37 36 101 90 191 158 122 283 262 135 89 1187 1020 2207</p>
+      <pb n="40" />
+      <table type="ocr-text" subtype="row-pattern">
+        <row role="label">
+          <cell>
+            <p>Копия № 25</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>ВЕДОМОСТЬ</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>ОБ ИНОВЕРЦАХ В ЕНИСЕЙСКОЙ ГУБЕРНИИ ОБ ИНОВЕРЦАХ В ЕНИСЕЙСКОЙ ГУБЕРНИИ</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>ЗАЗА 1864 <date when="1864" type="auto" subtype="natasha">1864 ГОД</date> ГОД</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>Звание округов</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>Христиан Нехристиан</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>римско-</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>католического</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>исповедания</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>лютеранско-</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>реформатского</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>мусульман-</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>ского</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>идолопоклон-</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>ников евреев</p>
+          </cell>
+        </row>
+        <row role="label">
+          <cell>
+            <p>муж. жен. муж. жен. муж. жен. муж. жен. муж. жен.</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>В <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">Красноярске</placeName> 170 68 52 19 33 16 — —</p>
+          </cell>
+          <cell>
+            <p>133</p>
+          </cell>
+          <cell>
+            <p>117</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>округе оного 524 79 134 79 152 11 — —</p>
+          </cell>
+          <cell>
+            <p>143</p>
+          </cell>
+          <cell>
+            <p>115</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>
+              <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейске</placeName> 41 25 5 5 42 8 — —</p>
+          </cell>
+          <cell>
+            <p>169</p>
+          </cell>
+          <cell>
+            <p>138</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>округе оного</p>
+          </cell>
+          <cell>
+            <p>245</p>
+          </cell>
+          <cell>
+            <p>39</p>
+          </cell>
+          <cell>
+            <p>9</p>
+          </cell>
+          <cell>
+            <p>1</p>
+          </cell>
+          <cell>
+            <p>65</p>
+          </cell>
+          <cell>
+            <p>2</p>
+          </cell>
+          <cell>
+            <p>102</p>
+          </cell>
+          <cell>
+            <p>47</p>
+          </cell>
+          <cell>
+            <p>94</p>
+          </cell>
+          <cell>
+            <p>23</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>
+              <placeName ref="#place_achinsk" type="auto" subtype="heuristic-dictionary">Ачинске</placeName> 10 2 5 2 3 1 — —</p>
+          </cell>
+          <cell>
+            <p>59</p>
+          </cell>
+          <cell>
+            <p>62</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>округе оного 303 18 14 — 62 23 — —</p>
+          </cell>
+          <cell>
+            <p>56</p>
+          </cell>
+          <cell>
+            <p>57</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>
+              <placeName ref="#place_kansk" type="auto" subtype="heuristic-dictionary">Канске</placeName> 16 8 1 2 1 1 — —</p>
+          </cell>
+          <cell>
+            <p>52</p>
+          </cell>
+          <cell>
+            <p>44</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>округе оного 482 139 32 18 139 36 — — – <placeName ref="#place_minusinsk" type="auto" subtype="heuristic-dictionary">Минусинске</placeName> 17 15 — 29 — — — — — —</p>
+          </cell>
+          <cell>
+            <p>120</p>
+          </cell>
+          <cell>
+            <p>84</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>округе оного – <placeName ref="#place_turukhansk" type="auto" subtype="heuristic-dictionary">Туруханском</placeName> отдельном управлении — — — — — — 1167 1004 — — Итого во всей губернии</p>
+          </cell>
+          <cell>
+            <p>242</p>
+          </cell>
+          <cell>
+            <p>131</p>
+          </cell>
+          <cell>
+            <p>206</p>
+          </cell>
+          <cell>
+            <p>261</p>
+          </cell>
+          <cell>
+            <p>22</p>
+          </cell>
+          <cell>
+            <p>13</p>
+          </cell>
+          <cell>
+            <p>3096</p>
+          </cell>
+          <cell>
+            <p>3210</p>
+          </cell>
+          <cell>
+            <p>41</p>
+          </cell>
+          <cell>
+            <p>39</p>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p>2152</p>
+          </cell>
+          <cell>
+            <p>534</p>
+          </cell>
+          <cell>
+            <p>1158</p>
+          </cell>
+          <cell>
+            <p>389</p>
+          </cell>
+          <cell>
+            <p>524</p>
+          </cell>
+          <cell>
+            <p>111</p>
+          </cell>
+          <cell>
+            <p>4365</p>
+          </cell>
+          <cell>
+            <p>4321</p>
+          </cell>
+          <cell>
+            <p>367</p>
+          </cell>
+          <cell>
+            <p>739</p>
+          </cell>
+        </row>
+      </table>
+      <pb n="41" />
+      <p>41 Примечания 1. Сверх того, на частных золотых промыслах: <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейского округа</placeName> Северной системы Южной системы <placeName ref="#place_achinsk" type="auto" subtype="heuristic-dictionary">Ачинского</placeName> и <placeName ref="#place_minusinsk" type="auto" subtype="heuristic-dictionary">Минусинского</placeName> округов <placeName ref="#place_kansk_okrug" type="auto" subtype="heuristic-dictionary">Канского округа</placeName> Итого на промыслах А всего в губернии 12 35 3 2 49 2207 6 4 — — 10 545 22 23 89 — 134 1292 4 4 — — 8 397 45 11 27 3 86 611 — — 1 — 1 112 — — 1 14 15 4314 — — — — — 4322 — — — — — 367 — — — — — 734 2. Кроме показанных по этой ведомости иноверцев находятся: а) армяно-григорианского исповедания: в <placeName ref="#place_eniseysk" type="auto" subtype="heuristic-dictionary">г. Енисейске</placeName> 1 муж. 1 жен. в округах <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейском</placeName> 7 муж. 2 жен. <placeName ref="#place_achinsk" type="auto" subtype="heuristic-dictionary">Ачинском</placeName> 6 2 <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейском</placeName> 3 — б) единоверческого: в <placeName ref="#place_eniseysk" type="auto" subtype="heuristic-dictionary">г. Енисейске</placeName> 2 муж. 1 жен. на золотых промыслах 1 — 3. В течение <date when="1864" type="auto" subtype="natasha">1864 г.</date> присоединились к православию из римско-католического исповедания 3 муж. и 7 жен., из лютеранского — 5 муж. и 7 жен. Итого 22 души. 4. В течение <date when="1864" type="auto" subtype="natasha">1864 г.</date> приняли Святое Крещение: евреев — 2 муж., 1 жен., магометян — 6 муж., 3 жен., идолопоклонников — 94 муж., 62 жен. Итого 168 душ. Свидетельствую: Военный Губернатор <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">г. Красноярска</placeName> и <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейский</placeName>
+        <placeName ref="#place_гражданский" type="auto" subtype="context-place-fallback">Гражданский</placeName> Губернатор <persName ref="#person_замятнин" type="auto" subtype="natasha">Генерал-Майор Замятнин</persName>
+      </p>
+      <pb n="42" />
+      <p>42 Копия № 26 ОБЩАЯ ТАБЕЛЬ НЕОБЫКНОВЕННЫХ, БОЛЕЕ ИЛИ МЕНЕЕ НЕОБЫКНОВЕННЫХ, БОЛЕЕ ИЛИ МЕНЕЕ ЗАМЕЧАТЕЛЬНЫХ ПРОИСШЕСТВИЙ ЗАМЕЧАТЕЛЬНЫХ ПРОИСШЕСТВИЙ ЕНИСЕЙСКОЙ ГУБЕРНИИ ЗА ЕНИСЕЙСКОЙ ГУБЕРНИИ ЗА 18641864 ГОД ГОД По городам и округам Число пожаров СГОРЕЛО ЗДАНИЙ Кораблекрушений Церквей Казенных зданий Домов крестьян: казенных, помещичьих и вообще частным лицам принадлежащих, а также фабрик, заводов и мельниц На какую сумму Число погибших людей от пожаровРуб. Коп. В <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">Красноярске</placeName> 4 — — 4 2200 — — — – округе оного 21 — — 12 2203 40 — — – <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейске</placeName> 2 — — 2 1200 — — — – округе оного 14 — — 25 5427 90 — — – <placeName ref="#place_achinsk" type="auto" subtype="heuristic-dictionary">Ачинске</placeName> — — — — — — — — – округе оного 6 — — 7 672 70 — — – <placeName ref="#place_kansk" type="auto" subtype="heuristic-dictionary">Канске</placeName> 1 — — 1 300 — — — – округе оного 19 — — 18 7461 40 2 — – <placeName ref="#place_minusinsk" type="auto" subtype="heuristic-dictionary">Минусинске</placeName> — — — — — — — — – округе оного 26 — — 23 3092 40 4 — – <placeName ref="#place_turukhansk" type="auto" subtype="heuristic-dictionary">Туруханском</placeName> крае — — — — — — — — Итого в губернии93 — — 90 22557 80 6 Примечания 1. В числе 93 пожаров было: 2 — от молнии, 21 — от неосторожности, 10 — от ветхости печей и труб, 2 — от поджогов, 53 — от неизвестных причин и 5 — от пущенных вблизи строений палов. 2. От пожаров, показанных в графе, сгорело: а) в <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">г. Красноярске</placeName> 4 надворных строения; б) в <placeName ref="#place_eniseysk" type="auto" subtype="heuristic-dictionary">г. Енисейске</placeName> — 2 флигеля; в) в <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейском округе</placeName>: 19 домов с пристройками и имуществом, 1 штофная лавочка и 3 риги с хлебом; г) в <placeName ref="#place_achinsk_okrug" type="auto" subtype="heuristic-dictionary">Ачинском округе</placeName>: 2 крестьянских дома, 1 амбар, 1 скотный двор и 2 гумна, и д) в <placeName ref="#place_minusinsk_okrug" type="auto" subtype="heuristic-dictionary">Минусинском округе</placeName>: 18 домов с имуществом, 2 инородческие юрты, 2 мельницы и 1 заимка с имуществом. 3. В числе погибших от пожаров показано в <placeName ref="#place_minusinsk_okrug" type="auto" subtype="heuristic-dictionary">Минусинском округе</placeName> 4 детей. 4. От бывших в течение лета градобитий повреждено хлеба и понесено убытков в округах: <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">Красноярском</placeName> — 195 десятин на 2 635 руб., <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейском</placeName> — огородов</p>
+      <pb n="43" />
+      <p>43 Разбитие судов на реках, каналах и озерах Градобитий Опустошения бурями ВНЕЗАПНЫЕ СМЕРТНЫЕ СЛУЧАИ Найденные младенцы Наводнения Землетрясения Убитые грозою От разных несчастных случаев От невоздержания От болезненных припадков Утонувшие Замерзшие Живые Мертвые — — — — 3 2 1 — — — — — — — 2 — — 39 7 23 14 4 — — — — — — — — — 15 4 15 3 — — — — 2 1 — 1 21 7 14 13 2 — 1 — — — — — — 2 1 3 1 — — — — — — — — 1 4 27 2 2 — — 1 — — — — 1 — 2 — — — 1 — — — — — 1 — — 18 15 9 4 1 — — — — — — — — — — — 1 — — — — — — — — 2 44 7 5 11 — — 1 — — — — — — — — — — — — — — — 2 4 1 4 133 81 66 68 11 — 3 — — на 20 руб., <placeName ref="#place_achinsk" type="auto" subtype="heuristic-dictionary">Ачинском</placeName> 185 десятин на 10 500 руб. и <placeName ref="#place_kansk" type="auto" subtype="heuristic-dictionary">Канском</placeName> 11 десятин на 400 руб. 5. <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейского округа</placeName> в <placeName ref="#place_казачинской" type="auto" subtype="context-place-fallback">Казачинской</placeName> волости разбиты в порогах реки Енисей два плота — с хлебом и строевым лесом; убытку понесено владельцами до 400 руб. При переправе рабочих, вышедших с золотых промыслов Южной системы, чрез реку Тунгуску у деревни Кулаковой от поднявшейся внезапно бури 15-го числа сентября утонуло 5 человек и 1 лошадь. Свидетельствую: Военный Губернатор <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">г. Красноярска</placeName> и <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейский</placeName>
+        <placeName ref="#place_гражданский" type="auto" subtype="context-place-fallback">Гражданский</placeName> Губернатор <persName ref="#person_замятнин" type="auto" subtype="natasha">Генерал-Майор Замятнин</persName>
+      </p>
+      <pb n="44" />
+      <p>44 СОДЕРЖАНИЕ ОТЧЕТ ЕНИСЕЙСКОГО ОТЧЕТ ЕНИСЕЙСКОГО ГРАЖДАНСКОГО ГУБЕРНАТОРА ЗА ГРАЖДАНСКОГО ГУБЕРНАТОРА ЗА 18641864 ГОД ГОД ... ... ... ... ... ... ... . ... ... ... ... ... ... ... .33 ВЕДОМОСТЬ К ОТЧЕТУ ЕНИСЕЙСКОГО ВЕДОМОСТЬ К ОТЧЕТУ ЕНИСЕЙСКОГО ГРАЖДАНСКОГО ГУБЕРНАТОРА ЗА ГРАЖДАНСКОГО ГУБЕРНАТОРА ЗА 18641864 ГОД ГОД ... ... ... ... ... ... ... ... ... ... ... ... ... ... 3737</p>
+    </body>
+  </text>
+  <standOff>
+    <listPerson>
+      <person xml:id="person_замятнин">
+        <persName>Замятнин</persName>
+      </person>
+      <person xml:id="person_рекрутский">
+        <persName>Рекрутский</persName>
+      </person>
+      <person xml:id="person_земская">
+        <persName>Земская</persName>
+      </person>
+      <person xml:id="person_лопатина">
+        <persName>Лопатина</persName>
+      </person>
+      <person xml:id="person_скопцов">
+        <persName>Скопцов</persName>
+      </person>
+    </listPerson>
+    <listPlace>
+      <place xml:id="place_krasnoyarsk">
+        <placeName>Красноярск</placeName>
+      </place>
+      <place xml:id="place_eniseysk">
+        <placeName>Енисейск</placeName>
+      </place>
+      <place xml:id="place_kansk">
+        <placeName>Канск</placeName>
+      </place>
+      <place xml:id="place_achinsk">
+        <placeName>Ачинск</placeName>
+      </place>
+      <place xml:id="place_minusinsk">
+        <placeName>Минусинск</placeName>
+      </place>
+      <place xml:id="place_turukhansk">
+        <placeName>Туруханск</placeName>
+      </place>
+      <place xml:id="place_enisei_province">
+        <placeName>Енисейская губерния</placeName>
+      </place>
+      <place xml:id="place_eastern_siberia">
+        <placeName>Восточная Сибирь</placeName>
+      </place>
+      <place xml:id="place_turukhansk_region">
+        <placeName>Туруханский край</placeName>
+      </place>
+      <place xml:id="place_enisei_okrug">
+        <placeName>Енисейский округ</placeName>
+      </place>
+      <place xml:id="place_krasnoyarsk_okrug">
+        <placeName>Красноярский округ</placeName>
+      </place>
+      <place xml:id="place_kansk_okrug">
+        <placeName>Канский округ</placeName>
+      </place>
+      <place xml:id="place_achinsk_okrug">
+        <placeName>Ачинский округ</placeName>
+      </place>
+      <place xml:id="place_minusinsk_okrug">
+        <placeName>Минусинский округ</placeName>
+      </place>
+      <place xml:id="place_troitskoe">
+        <placeName>Троицкое</placeName>
+      </place>
+      <place xml:id="place_гражданского">
+        <placeName>Гражданского</placeName>
+      </place>
+      <place xml:id="place_кавказского">
+        <placeName>Кавказского</placeName>
+      </place>
+      <place xml:id="place_сибирского">
+        <placeName>Сибирского</placeName>
+      </place>
+      <place xml:id="place_императорскому">
+        <placeName>Императорскому</placeName>
+      </place>
+      <place xml:id="place_гражданский">
+        <placeName>Гражданский</placeName>
+      </place>
+      <place xml:id="place_кяхтинской">
+        <placeName>Кяхтинской</placeName>
+      </place>
+      <place xml:id="place_нижегородской">
+        <placeName>Нижегородской</placeName>
+      </place>
+      <place xml:id="place_ирбитской">
+        <placeName>Ирбитской</placeName>
+      </place>
+      <place xml:id="place_цибульского">
+        <placeName>Цибульского</placeName>
+      </place>
+      <place xml:id="place_брянском">
+        <placeName>Брянском</placeName>
+      </place>
+      <place xml:id="place_березовском">
+        <placeName>Березовском</placeName>
+      </place>
+      <place xml:id="place_малокемчугской">
+        <placeName>Малокемчугской</placeName>
+      </place>
+      <place xml:id="place_арестантская">
+        <placeName>Арестантская</placeName>
+      </place>
+      <place xml:id="place_казачинском">
+        <placeName>Казачинском</placeName>
+      </place>
+      <place xml:id="place_успенского">
+        <placeName>Успенского</placeName>
+      </place>
+      <place xml:id="place_могилевской">
+        <placeName>Могилевской</placeName>
+      </place>
+      <place xml:id="place_новороссийского">
+        <placeName>Новороссийского</placeName>
+      </place>
+      <place xml:id="place_гляденского">
+        <placeName>Гляденского</placeName>
+      </place>
+      <place xml:id="place_владимирского">
+        <placeName>Владимирского</placeName>
+      </place>
+      <place xml:id="place_губернского">
+        <placeName>Губернского</placeName>
+      </place>
+      <place xml:id="place_дрокинской">
+        <placeName>Дрокинской</placeName>
+      </place>
+      <place xml:id="place_арбатском">
+        <placeName>Арбатском</placeName>
+      </place>
+      <place xml:id="place_мининской">
+        <placeName>Мининской</placeName>
+      </place>
+      <place xml:id="place_бугачевской">
+        <placeName>Бугачевской</placeName>
+      </place>
+      <place xml:id="place_торгашинской">
+        <placeName>Торгашинской</placeName>
+      </place>
+      <place xml:id="place_базайской">
+        <placeName>Базайской</placeName>
+      </place>
+      <place xml:id="place_белоярской">
+        <placeName>Белоярской</placeName>
+      </place>
+      <place xml:id="place_таштыпской">
+        <placeName>Таштыпской</placeName>
+      </place>
+      <place xml:id="place_саянской">
+        <placeName>Саянской</placeName>
+      </place>
+      <place xml:id="place_каратузской">
+        <placeName>Каратузской</placeName>
+      </place>
+      <place xml:id="place_суэтукской">
+        <placeName>Суэтукской</placeName>
+      </place>
+      <place xml:id="place_монокской">
+        <placeName>Монокской</placeName>
+      </place>
+      <place xml:id="place_бузуновском">
+        <placeName>Бузуновском</placeName>
+      </place>
+      <place xml:id="place_алтайском">
+        <placeName>Алтайском</placeName>
+      </place>
+      <place xml:id="place_владимирский">
+        <placeName>Владимирский</placeName>
+      </place>
+      <place xml:id="place_владимирском">
+        <placeName>Владимирском</placeName>
+      </place>
+      <place xml:id="place_батойском">
+        <placeName>Батойском</placeName>
+      </place>
+      <place xml:id="place_шилинском">
+        <placeName>Шилинском</placeName>
+      </place>
+      <place xml:id="place_еловском">
+        <placeName>Еловском</placeName>
+      </place>
+      <place xml:id="place_сухобузимском">
+        <placeName>Сухобузимском</placeName>
+      </place>
+      <place xml:id="place_устьянском">
+        <placeName>Устьянском</placeName>
+      </place>
+      <place xml:id="place_уринском">
+        <placeName>Уринском</placeName>
+      </place>
+      <place xml:id="place_тасеевском">
+        <placeName>Тасеевском</placeName>
+      </place>
+      <place xml:id="place_конторском">
+        <placeName>Конторском</placeName>
+      </place>
+      <place xml:id="place_ингашевском">
+        <placeName>Ингашевском</placeName>
+      </place>
+      <place xml:id="place_анцырском">
+        <placeName>Анцырском</placeName>
+      </place>
+      <place xml:id="place_иланском">
+        <placeName>Иланском</placeName>
+      </place>
+      <place xml:id="place_анциферовском">
+        <placeName>Анциферовском</placeName>
+      </place>
+      <place xml:id="place_губернском">
+        <placeName>Губернском</placeName>
+      </place>
+      <place xml:id="place_губернскому">
+        <placeName>Губернскому</placeName>
+      </place>
+      <place xml:id="place_губернский">
+        <placeName>Губернский</placeName>
+      </place>
+      <place xml:id="place_казачинской">
+        <placeName>Казачинской</placeName>
+      </place>
+    </listPlace>
+    <listOrg>
+      <org xml:id="org_gubernskoe_pravlenie">
+        <orgName>Губернское правление</orgName>
+      </org>
+    </listOrg>
+  </standOff>
+</TEI>
