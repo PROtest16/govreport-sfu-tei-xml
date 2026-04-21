@@ -1,0 +1,3082 @@
+{
+  "persons": [
+    {
+      "id": "person_majesty",
+      "name": "Его Императорскому Величеству",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "person_степанов",
+      "name": "Степанов",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "person_садыкова",
+      "name": "Садыкова",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "person_tarasov",
+      "name": "Тарасов",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "person_акишева",
+      "name": "Акишева",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "person_сердоликов",
+      "name": "Сердоликов",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "person_галкина",
+      "name": "Галкина",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "person_kuznetsovy",
+      "name": "Кузнецовых",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "person_rodichev",
+      "name": "Родичеву",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "person_sobolev",
+      "name": "Соболеву",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "person_kuznetsov_off",
+      "name": "Кузнецов",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "person_zakrevski",
+      "name": "Закревски",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "person_pokrovskiy",
+      "name": "Покровский",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "person_kova",
+      "name": "Кова***",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "person_александр_лавинский",
+      "name": "Александр Лавинский",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "person_kaabri",
+      "name": "Дмитрий Каабри***",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "person_barabanov",
+      "name": "А. Барабанов",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "person_vlasov",
+      "name": "Н. Власов",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "person_а_христофоров",
+      "name": "Христофоров",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_теляковский",
+      "name": "Теляковский",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_а_зейден",
+      "name": "А. Зейден",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_дурново",
+      "name": "Дурново",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_тройницкий",
+      "name": "Тройницкий",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_вилькицкий",
+      "name": "Вилькицкий",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_горемыкин",
+      "name": "Горемыкин",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_александр_лукавский",
+      "name": "Александр Лукавский",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_добротворский",
+      "name": "Добротворский",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_виггинс",
+      "name": "Виггинс",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_виггинса",
+      "name": "Виггинса",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_залевский",
+      "name": "Залевский",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_т_и_щеголева",
+      "name": "Т. И. Щеголева",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_и_с_щеголев",
+      "name": "И. С. Щеголев",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_н_к_переплетчиков",
+      "name": "Н. К. Переплетчиков",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_в_ф_хилков",
+      "name": "В. Ф. Хилков",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_т_к_матонин",
+      "name": "Т. К. Матонин",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_щеголевой",
+      "name": "Щеголевой",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_переплетчиковым",
+      "name": "Переплетчиковым",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_хилковым",
+      "name": "Хилковым",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_щеголевых",
+      "name": "Щеголевых",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_воинская",
+      "name": "Воинская",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_гадалова",
+      "name": "Гадалова",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_сибирякова",
+      "name": "Сибирякова",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_игнат",
+      "name": "Игнат",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_барон_майдель",
+      "name": "Барон Майдель",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_корнилов",
+      "name": "Корнилов",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_корнилова",
+      "name": "Корнилова",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_стрелковский",
+      "name": "Стрелковский",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_романов",
+      "name": "Романов",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_кузнецовым",
+      "name": "Кузнецовым",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_матониным",
+      "name": "Матониным",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_щеголевым",
+      "name": "Щеголевым",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "person_иван_гаврилов",
+      "name": "Иван Гаврилов",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_николай_новиков",
+      "name": "Николай Новиков",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_в_к_падалка",
+      "name": "В. К. Падалка",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_платон_бронников",
+      "name": "Платон Бронников",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_лямина",
+      "name": "Лямина",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_дарья_высовичева",
+      "name": "Дарья Высовичева",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_краснопольский",
+      "name": "Краснопольский",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_карлова",
+      "name": "Карлова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_мичурине",
+      "name": "Мичурине",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_арефьева",
+      "name": "Арефьева",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_бушуеве",
+      "name": "Бушуеве",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_подышагиных",
+      "name": "Подышагиных",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_мавриной",
+      "name": "Мавриной",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_катаева",
+      "name": "Катаева",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_корелина",
+      "name": "Корелина",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_донникова",
+      "name": "Донникова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_гофману",
+      "name": "Гофману",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_егорове",
+      "name": "Егорове",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_кудринове",
+      "name": "Кудринове",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_ивана_бурмакина",
+      "name": "Ивана Бурмакина",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_моисей_левинский",
+      "name": "Моисей Левинский",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_соломатове",
+      "name": "Соломатове",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_бугаеве",
+      "name": "Бугаеве",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_таратанове",
+      "name": "Таратанове",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_тарасову",
+      "name": "Тарасову",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_бурмакина",
+      "name": "Бурмакина",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_толстой",
+      "name": "Толстой",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_семен_максимовский",
+      "name": "Семен Максимовский",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_игнат",
+      "name": "Игнат",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_сырипольщикова",
+      "name": "Сырипольщикова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_соломатова",
+      "name": "Соломатова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_сиротинине",
+      "name": "Сиротинине",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_ситникове",
+      "name": "Ситникове",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_хращевский",
+      "name": "Хращевский",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_аграфена_ваганова",
+      "name": "Аграфена Ваганова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_фарафонт",
+      "name": "Фарафонт",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_безрукова",
+      "name": "Безрукова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_данниковой",
+      "name": "Данниковой",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_потылицыне",
+      "name": "Потылицыне",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_носове",
+      "name": "Носове",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_федор_начапинский",
+      "name": "Федор Начапинский",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_веселкове",
+      "name": "Веселкове",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_чигинцове",
+      "name": "Чигинцове",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_иванове",
+      "name": "Иванове",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_ивана_скрыпольщикова",
+      "name": "Ивана Скрыпольщикова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_сапожникова",
+      "name": "Сапожникова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_феоктистовым",
+      "name": "Феоктистовым",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_скрыпольщикова",
+      "name": "Скрыпольщикова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_иванова",
+      "name": "Иванова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_токаревым",
+      "name": "Токаревым",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_тарасовым",
+      "name": "Тарасовым",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_денисова",
+      "name": "Денисова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_фалееве",
+      "name": "Фалееве",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_сенцове",
+      "name": "Сенцове",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_алексееве",
+      "name": "Алексееве",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_желуданове",
+      "name": "Желуданове",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_беликове",
+      "name": "Беликове",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_добранине",
+      "name": "Добранине",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_бабиеве",
+      "name": "Бабиеве",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_соколова",
+      "name": "Соколова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_фалеева",
+      "name": "Фалеева",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_алексееву",
+      "name": "Алексееву",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_туголукова",
+      "name": "Туголукова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_сурикову",
+      "name": "Сурикову",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_грудининым",
+      "name": "Грудининым",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_гробовский",
+      "name": "Гробовский",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_михаил_степанов",
+      "name": "Михаил Степанов",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_давыдовым",
+      "name": "Давыдовым",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_кузубове",
+      "name": "Кузубове",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_монахове",
+      "name": "Монахове",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_волянский",
+      "name": "Волянский",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_лукьянову",
+      "name": "Лукьянову",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_лисовский",
+      "name": "Лисовский",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_дмитрий_кащенка",
+      "name": "Дмитрий Кащенка",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_марков",
+      "name": "Марков",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_абакумове",
+      "name": "Абакумове",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_зыкове",
+      "name": "Зыкове",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_вилговича",
+      "name": "Вилговича",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_василков",
+      "name": "Василков",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_пестерева",
+      "name": "Пестерева",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_свешникове",
+      "name": "Свешникове",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_кочкине",
+      "name": "Кочкине",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_масленикове",
+      "name": "Масленикове",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_налобардине",
+      "name": "Налобардине",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_арбекова",
+      "name": "Арбекова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_самковым",
+      "name": "Самковым",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_абрамова",
+      "name": "Абрамова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_новиковым",
+      "name": "Новиковым",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_михаила_шарыпова",
+      "name": "Михаила Шарыпова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_алеева",
+      "name": "Алеева",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_елена_зырянова",
+      "name": "Елена Зырянова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_влахом",
+      "name": "Влахом",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_башурова",
+      "name": "Башурова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_полигузове",
+      "name": "Полигузове",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_добрашеве",
+      "name": "Добрашеве",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_шарыпова",
+      "name": "Шарыпова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_щепетильникова",
+      "name": "Щепетильникова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_лучникову",
+      "name": "Лучникову",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_добрашевым",
+      "name": "Добрашевым",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_полигузовым",
+      "name": "Полигузовым",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_столыпина",
+      "name": "Столыпина",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_барзецова",
+      "name": "Барзецова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_туговикова",
+      "name": "Туговикова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_романа_колмагорова",
+      "name": "Романа Колмагорова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_григорий_патюков",
+      "name": "Григорий Патюков",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_надежда_горецкая",
+      "name": "Надежда Горецкая",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_веселова",
+      "name": "Веселова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_петрова",
+      "name": "Петрова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_колмагорова",
+      "name": "Колмагорова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_дохтурова",
+      "name": "Дохтурова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_евсеева",
+      "name": "Евсеева",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_кобалина",
+      "name": "Кобалина",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_коростилева",
+      "name": "Коростилева",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_григорьева",
+      "name": "Григорьева",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_попова",
+      "name": "Попова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_сыренщикова",
+      "name": "Сыренщикова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_бунова",
+      "name": "Бунова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_михайлова",
+      "name": "Михайлова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_шадрина",
+      "name": "Шадрина",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_ивана_ермолаева",
+      "name": "Ивана Ермолаева",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_стручкова",
+      "name": "Стручкова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_машукова",
+      "name": "Машукова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_авдотья_кошкарова",
+      "name": "Авдотья Кошкарова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_павел_михайлов",
+      "name": "Павел Михайлов",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_егор_козмин",
+      "name": "Егор Козмин",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_гофмана",
+      "name": "Гофмана",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_бранштейна",
+      "name": "Бранштейна",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_никулина",
+      "name": "Никулина",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_ермолаева",
+      "name": "Ермолаева",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_анастасия_гаврилова",
+      "name": "Анастасия Гаврилова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_пелагея_васильева",
+      "name": "Пелагея Васильева",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_евдокимова",
+      "name": "Евдокимова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_кузнецова",
+      "name": "Кузнецова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_stepan_strelkov",
+      "name": "Степан Стрелков",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_fedor_kuzmin",
+      "name": "Федор Кузмин",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_egor_cheremnykh",
+      "name": "Егор Черемных",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_ivan_kozmynykh",
+      "name": "Иван Козминых",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_ivan_starikov",
+      "name": "Иван Стариков",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_ivan_startsov",
+      "name": "Иван Старцов",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_ivan_shchepetunin",
+      "name": "Иван Щепетунин",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_yakov_kochnev",
+      "name": "Яков Кочнев",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_alexandra_skornyakova",
+      "name": "Александра Скорнякова",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_anashkin",
+      "name": "Анашкин",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_stepanov",
+      "name": "Степанов",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_nepomnyashchaya",
+      "name": "Непомнящая",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_nepomnyashchiy",
+      "name": "Непомнящий",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_shmulliviovich",
+      "name": "Шмулливиович",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_nikifor_gogulin",
+      "name": "Никифор Гогулин",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_mazalevskiy",
+      "name": "Мазалевский",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_pavel_vyshemirskiy",
+      "name": "Павел Вышемирский",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_khotimskiy",
+      "name": "Хотимский",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_alexander_vinokurov",
+      "name": "Александр Винокуров",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_alexander_kovrigin",
+      "name": "Александр Ковригин",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_nesterov",
+      "name": "Нестеров",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_petukhov",
+      "name": "Петухов",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "person_danilov",
+      "name": "Данилов",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    }
+  ],
+  "places": [
+    {
+      "id": "place_krasnoyarsk",
+      "name": "Красноярск",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "place_eniseysk",
+      "name": "Енисейск",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "place_kansk",
+      "name": "Канск",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "place_achinsk",
+      "name": "Ачинск",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "place_minusinsk",
+      "name": "Минусинск",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "place_turukhansk",
+      "name": "Туруханск",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "place_enisei_province",
+      "name": "Енисейская губерния",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "place_irkutsk_province",
+      "name": "Иркутская губерния",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "place_eastern_siberia",
+      "name": "Восточная Сибирь",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "place_turukhansk_region",
+      "name": "Туруханский край",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "place_enisei_okrug",
+      "name": "Енисейский округ",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "place_krasnoyarsk_okrug",
+      "name": "Красноярский округ",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "place_siberia",
+      "name": "Сибири",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "place_krasnoyarsk",
+      "name": "Красноярск",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_eniseysk",
+      "name": "Енисейск",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_kansk",
+      "name": "Канск",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_achinsk",
+      "name": "Ачинск",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_minusinsk",
+      "name": "Минусинск",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_turukhansk",
+      "name": "Туруханск",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_enisei_province",
+      "name": "Енисейская губерния",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_tomsk_province",
+      "name": "Томская губерния",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_irkutsk_province",
+      "name": "Иркутская губерния",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_eastern_siberia",
+      "name": "Восточная Сибирь",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_turukhansk_region",
+      "name": "Туруханский край",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_enisei_okrug",
+      "name": "Енисейский округ",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_krasnoyarsk_okrug",
+      "name": "Красноярский округ",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_kansk_okrug",
+      "name": "Канский округ",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_achinsk_okrug",
+      "name": "Ачинский округ",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_minusinsk_okrug",
+      "name": "Минусинский округ",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_enisey_river",
+      "name": "Енисей",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_chulym_river",
+      "name": "Чулым",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_rybinskoe",
+      "name": "Рыбинское",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_tesinskaya_volost",
+      "name": "Тесинская волость",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_angara_river",
+      "name": "Ангара",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_salyr_river",
+      "name": "Салырь",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_uluy_river",
+      "name": "Улуй",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_bolshoy_kemchug",
+      "name": "Большой Кемчуг",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_lomovataya_river",
+      "name": "Ломоватая",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_yazevaya_river",
+      "name": "Язевая",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_maly_kas_river",
+      "name": "Малый Кас",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_ostrov_sibiryakova",
+      "name": "остров Сибирякова",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_port_dikson",
+      "name": "порт Диксон",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_lukovaya_protoka",
+      "name": "Луковая протока",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_osinovskie_porogi",
+      "name": "Осиновские пороги",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_strelkovskiy_porog",
+      "name": "Стрелковский порог",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_golchikha",
+      "name": "Гольчиха",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_dudinskoe",
+      "name": "Дудинское",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_kekurskoe",
+      "name": "Кекурское",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_taseevskoe",
+      "name": "Тасеевское",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_pokrovskoe",
+      "name": "Покровское",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_uzhurskoe",
+      "name": "Ужурское",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_balakhtinskoe",
+      "name": "Балахтинское",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_nazarovskoe",
+      "name": "Назаровское",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_european_russia",
+      "name": "Европейская Россия",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_абаканского",
+      "name": "Абаканского",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_усинском",
+      "name": "Усинском",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_нахвальской",
+      "name": "Нахвальской",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_александровский",
+      "name": "Александровский",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_якутскую",
+      "name": "Якутскую",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_приамурский",
+      "name": "Приамурский",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_еловской",
+      "name": "Еловской",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "place_krasnoyarsk",
+      "name": "Красноярск",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_eniseysk",
+      "name": "Енисейск",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_kansk",
+      "name": "Канск",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_chylim",
+      "name": "Чулым",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_achinsk",
+      "name": "Ачинск",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_minusinsk",
+      "name": "Минусинск",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_turukhansk",
+      "name": "Туруханск",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_enisei_province",
+      "name": "Енисейская губерния",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "west_syberia",
+      "name": "Западной Сибири",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_tomsk_province",
+      "name": "Томская губерния",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_irkutsk_province",
+      "name": "Иркутская губерния",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_eastern_siberia",
+      "name": "Восточная Сибирь",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_turukhansk_region",
+      "name": "Туруханский край",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_enisei_okrug",
+      "name": "Енисейский округ",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_Верхнеибатском",
+      "name": "Верхнеибатском",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_kansk_okrug",
+      "name": "Канский округ",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_achinsk_okrug",
+      "name": "Ачинский округ",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_minusinsk_okrug",
+      "name": "Минусинский округ",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_solenoozerny_fortpost",
+      "name": "Соленоозерный форпост",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_enisey_river",
+      "name": "Енисей",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_tuba_river",
+      "name": "Туба",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_ket_river",
+      "name": "Кеть",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_kamensky_plant",
+      "name": "Каменский завод",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_talovaya",
+      "name": "Таловая",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_rybinskoe",
+      "name": "Рыбинское",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_tesinskaya_volost",
+      "name": "Тесинская волость",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_antsyrskaya_volost",
+      "name": "Анцырская волость",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_perm_province",
+      "name": "Пермская губерния",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_balakhtinskaya_volost",
+      "name": "Балахтинская волость",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_kazachinskaya_volost",
+      "name": "Казачинская волость",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_daurskaya",
+      "name": "Даурская",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_biysk",
+      "name": "Бийский",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_yartsovsky",
+      "name": "Ярцовский",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "place_verkhneibatsky",
+      "name": "Верхнеибатский",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    }
+  ],
+  "organizations": [
+    {
+      "id": "org_enisei_general_governance",
+      "name": "Енисейское Общее Губернское Управление",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "org_police_department",
+      "name": "Департамент полиции",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "org_chastnoe_upr",
+      "name": "Частного губернского управления",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "org_prikaz_public_welfare",
+      "name": "Приказ общественного призрения",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "org_medical_board",
+      "name": "Врачебная управа",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "org_gub_sovet",
+      "name": "Губернским советом",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "org_okr_sud_kras",
+      "name": "Красноярского окружного суда",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "org_gub_sud",
+      "name": "Губернского суда",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "org_okr_sud",
+      "name": "Окружному суду",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "org_komissiya_razbor",
+      "name": "Комиссию для разбора сих дел",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "org_zem_sud",
+      "name": "Земскому суду",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "org_gorod_uprava",
+      "name": "Городовой управы",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "org_glav_upr_vs",
+      "name": "Главное управление Восточной Сибири",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "org_kam_zavod",
+      "name": "Каменской винокуренный завод",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "org_kaz_palata",
+      "name": "Казенной палате",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "org_gubernskoe_pravlenie",
+      "name": "Губернское правление",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "org_mvd",
+      "name": "Министерство внутренних дел",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "org_dept_pol_exec",
+      "name": "Департамент полиции исполнительной",
+      "source": {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      }
+    },
+    {
+      "id": "org_prikaz_public_welfare",
+      "name": "Приказ общественного призрения",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_ministry_internal",
+      "name": "Министерство внутренних дел",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_committee_ministers",
+      "name": "Комитет министров",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_vladimir_orphanage",
+      "name": "Владимирский детский приют",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_maritime_ministry",
+      "name": "Морское министерство",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_committee_siberian_railway",
+      "name": "Комитет Сибирской железной дороги",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_red_cross",
+      "name": "Общество Красного Креста",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_ministry_education",
+      "name": "Министерство народного просвещения",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_ministry_justice",
+      "name": "Министерство юстиции",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_ministry_finance",
+      "name": "Министерство финансов",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_ministry_transport",
+      "name": "Министерство путей сообщения",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_holy_synod",
+      "name": "Святейший Синод",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_state_bank",
+      "name": "Государственный банк",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_noble_land_bank",
+      "name": "Дворянский земельный банк",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_sinelnikov_charity",
+      "name": "Синельниковское благотворительное общество",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_ship_rossiya",
+      "name": "пароход «Россия»",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_ship_graf_ignatyev",
+      "name": "пароход «Граф Игнатьев»",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_ship_moskva",
+      "name": "пароход «Москва»",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_ship_sv_nikolay",
+      "name": "пароход «Св. Николай»",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_ship_anna",
+      "name": "пароход «Анна»",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_battleship_rusalka",
+      "name": "броненосец «Русалка»",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_енисейское_губернское_управление",
+      "name": "ЕНИСЕЙСКОЕ ГУБЕРНСКОЕ УПРАВЛЕНИЕ",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_внутренних_дел_господину_енисейскому_губернатору_центральный",
+      "name": "ВНУТРЕННИХ ДЕЛ Господину Енисейскому Губернатору ЦЕНТРАЛЬНЫЙ СТАТИСТИЧЕСКИЙ КОМИТЕТ",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_прошу_губернское_правление",
+      "name": "прошу Губернское Правление",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_иркутский_генерал_губернатор_господину_енисейскому_губернато",
+      "name": "ИРКУТСКИЙ ГЕНЕРАЛ-ГУБЕРНАТОР Господину Енисейскому Губернатору КАНЦЕЛЯРИЯ",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_губернское_по_воинской_повинности_присутствие",
+      "name": "губернское по воинской повинности присутствие",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_том_числе_тюремный_комитет",
+      "name": "том числе тюремный комитет",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_где_получили_медицинский_совет",
+      "name": "где получили медицинский совет",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_течение_года_библиотека",
+      "name": "течение года библиотека",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_мужская_классическая_гимназия",
+      "name": "Мужская классическая гимназия",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_женская_гимназия",
+      "name": "Женская гимназия",
+      "source": {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      }
+    },
+    {
+      "id": "org_gubernskoe_pravlenie",
+      "name": "Губернское правление",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_prikaz_public_welfare",
+      "name": "Приказ общественного призрения",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_medical_board",
+      "name": "Врачебная управа",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_recruit_board",
+      "name": "Рекрутское присутствие",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_public_library",
+      "name": "Красноярская губернская публичная библиотека",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_irkutsk_gymnasium",
+      "name": "Иркутская гимназия",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_cossack_regiment",
+      "name": "Енисейский конный казачий полк",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_private_board",
+      "name": "Красноярская Частная Управа",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_house_of_correction",
+      "name": "Смирительный дом",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_troitsk_salt_works",
+      "name": "Троицкий солеваренный завод",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_ministry_internal",
+      "name": "Министерство внутренних дел",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_catholic_clergy",
+      "name": "Римско-Католическое духовенство",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_committee_ministers",
+      "name": "Комитет министров",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_expedition_exiles",
+      "name": "Экспедиция о ссыльных",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_omsk_battalion",
+      "name": "Омский батальон",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_siberian_line_battalion_12",
+      "name": "Сибирский линейный батальон № 12",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_vladimir_orphanage",
+      "name": "Владимирский детский приют",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_nazarovo_volost_board",
+      "name": "Назаровское волостное правление",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_vyatka_gubernia_board",
+      "name": "Вятское Губернское правление",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_tobolsk_gubernia_board",
+      "name": "Тобольское Губернское правление",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_gorodskaya_policiya",
+      "name": "Городская полиция",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_zemskaya_policiya",
+      "name": "Земская полиция",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_perm_gubernia_board",
+      "name": "Пермское губернское правление",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_sovet_glavnogo_upravleniya_vostochnoy_sibiri",
+      "name": "Совет Главного управления Восточной Сибири",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_sirotskiy_sud",
+      "name": "Сиротский суд",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_slovesnyy_sud",
+      "name": "Словесный суд",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_okruzhnoy_sud",
+      "name": "Окружной суд",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_gorodovoy_sud",
+      "name": "Городовой суд",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_zemskiy_sud",
+      "name": "Земский суд",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_enisey_kazennaya_palata",
+      "name": "Енисейская Казенная палата",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    },
+    {
+      "id": "org_stroitelnaya_komissiya",
+      "name": "Строительная комиссия",
+      "source": {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    }
+  ],
+  "metadata": {
+    "total_files": 3,
+    "processed_files": 3,
+    "files": [
+      {
+        "file": "1828_tei (2).xml",
+        "path": "1828_report/1828_tei (2).xml"
+      },
+      {
+        "file": "1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml",
+        "path": "1894_report/1894_1894_go_1894_sovremennyj_f42c4d0f1c.tei.xml"
+      },
+      {
+        "file": "1851_report_tei_with_csv_links.xml",
+        "path": "1851_report/1851_report_tei_with_csv_links.xml"
+      }
+    ]
+  }
+}
