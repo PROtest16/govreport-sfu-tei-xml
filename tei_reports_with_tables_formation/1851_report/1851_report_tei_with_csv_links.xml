@@ -101,7 +101,7 @@
   <text>
     <body>
       <pb n="1" />
-      <p>ДЕЛО С И Б И Р С КО Г О КО М И Т Е Т А № 90 Отчет <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейского</placeName> Гражданского Губернатора о состоянии <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName> в <date when="1851" type="auto" subtype="regex-fallback">1851 год</date>у со всеми следующими к сему отчету приложениями. Началось <date when="1852-07-14" type="auto" subtype="regex-fallback">14 июля 1852 года</date> Кончилось 14 ____ 1852 ____ На 285 листах</p>
+      <p>ДЕЛО СИБИРСКОГО КОМИТЕТА № 90 Отчет <placeName ref="#place_enisei_okrug" type="auto" subtype="heuristic-dictionary">Енисейского</placeName> Гражданского Губернатора о состоянии <placeName ref="#place_enisei_province" type="auto" subtype="heuristic-dictionary">Енисейской губернии</placeName> в <date when="1851" type="auto" subtype="regex-fallback">1851 год</date>у со всеми следующими к сему отчету приложениями. Началось <date when="1852-07-14" type="auto" subtype="regex-fallback">14 июля 1852 года</date> Кончилось 14 ____ 1852 ____ На 285 листах</p>
       <pb n="2" />
       <p>
         <ref target="#table_csv_table1" type="csv-table" />
