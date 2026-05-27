@@ -64,10 +64,10 @@ def inject_entities_back(working_dir, xml_input, csv_input, xml_output):
     print(f"Файл сохранен: {xml_output_path}")
 
 # --- НАСТРОЙКИ ПУТЕЙ ---
-working_directory = r"C:\Users\vladimir\Desktop\TEI\govreport-sfu-tei-xml\tei_reports_with_tables_formation\1828_report"
-input_xml = "1828_tei (2).xml"
-input_csv = "entities_list.csv" # Тот файл, который ты заполнил
-output_xml = "1828_final_marked.xml" # Итоговый файл
+working_directory = r"C:\Users\vladimir\Desktop\TEI\govreport-sfu-tei-xml\tei_reports_with_tables_formation\1851_report"
+input_xml = "1851_report_tei_with_csv_links.xml" 
+input_csv = "entities_list_1851.csv" # Тот файл, который ты заполнил
+output_xml = "1851_final_marked.xml" # Итоговый файл
 
 # ЗАПУСК
 inject_entities_back(working_directory, input_xml, input_csv, output_xml)

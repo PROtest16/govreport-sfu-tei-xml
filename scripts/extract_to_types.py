@@ -60,9 +60,9 @@ def extract_entities(working_dir, input_filename, output_filename):
 
 # --- НАСТРОЙКИ ПУТЕЙ ---
 # Используем префикс r перед строкой, чтобы Windows-путь с бэкслешами \ читался корректно
-working_directory = r"C:\Users\vladimir\Desktop\TEI\govreport-sfu-tei-xml\tei_reports_with_tables_formation\1828_report"
-input_file = "1828_tei (2).xml"
-output_file = "entities_list.csv"
+working_directory = r"C:\Users\vladimir\Desktop\TEI\govreport-sfu-tei-xml\tei_reports_with_tables_formation\1851_report"
+input_file = "1851_report_tei_with_csv_links.xml"
+output_file = "entities_list_1851.csv"
 
 # ЗАПУСК
 extract_entities(working_directory, input_file, output_file)
