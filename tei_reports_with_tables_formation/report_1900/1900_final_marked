@@ -1,0 +1,1057 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1900 Отчет о состоянии Енисейской губернии</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Prepared locally from OCR-layer PDF for TEI conversion.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>1900 Отчет о состоянии Енисейской губернии</title>
+          <idno type="report-id">9</idno>
+          <idno type="portal-url">https://govreport.sfu-kras.ru/availableReports/report/9</idno>
+          <idno type="portal-base">https://govreport.sfu-kras.ru</idno>
+          <ref target="https://govreport.sfu-kras.ru/uploads/GO_1900_sovremennyj_5a96ff0e1f.pdf" type="pdf">https://govreport.sfu-kras.ru/uploads/GO_1900_sovremennyj_5a96ff0e1f.pdf</ref>
+          <ref target="https://govreport.sfu-kras.ru/uploads/GO_1900_drevnij_b81d64074b.pdf" type="pdf-original">https://govreport.sfu-kras.ru/uploads/GO_1900_drevnij_b81d64074b.pdf</ref>
+          <note type="archive">ГАИО. Ф. 25. Оп. 8. Д. 555. Л. 90</note>
+          <note type="source">Исторический архив Иркутской области</note>
+          <note type="text-type">Печатный</note>
+          <extent>90 pages</extent>
+          <note type="portal-metadata">Metadata fields were copied from the report page at govreport.sfu-kras.ru.</note>
+        </bibl>
+        
+        <listBibl type="csv-tables">
+          <bibl xml:id="table_csv_table1">
+            <ref target="tables/table1.csv" type="csv">table1.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table2">
+            <ref target="tables/table2.csv" type="csv">table2.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table3">
+            <ref target="tables/table3.csv" type="csv">table3.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table4">
+            <ref target="tables/table4.csv" type="csv">table4.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table5">
+            <ref target="tables/table5.csv" type="csv">table5.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table6">
+            <ref target="tables/table6.csv" type="csv">table6.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table7">
+            <ref target="tables/table7.csv" type="csv">table7.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table8">
+            <ref target="tables/table8.csv" type="csv">table8.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table9">
+            <ref target="tables/table9.csv" type="csv">table9.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table10">
+            <ref target="tables/table10.csv" type="csv">table10.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table11">
+            <ref target="tables/table11.csv" type="csv">table11.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table12">
+            <ref target="tables/table12.csv" type="csv">table12.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table13">
+            <ref target="tables/table13.csv" type="csv">table13.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table14">
+            <ref target="tables/table14.csv" type="csv">table14.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table15">
+            <ref target="tables/table15.csv" type="csv">table15.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table16">
+            <ref target="tables/table16.csv" type="csv">table16.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table17">
+            <ref target="tables/table17.csv" type="csv">table17.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table18">
+            <ref target="tables/table18.csv" type="csv">table18.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table19">
+            <ref target="tables/table19.csv" type="csv">table19.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table20">
+            <ref target="tables/table20.csv" type="csv">table20.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table21">
+            <ref target="tables/table21.csv" type="csv">table21.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table22">
+            <ref target="tables/table22.csv" type="csv">table22.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table23">
+            <ref target="tables/table23.csv" type="csv">table23.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table24">
+            <ref target="tables/table24.csv" type="csv">table24.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table25">
+            <ref target="tables/table25.csv" type="csv">table25.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table26">
+            <ref target="tables/table26.csv" type="csv">table26.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table27">
+            <ref target="tables/table27.csv" type="csv">table27.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table28">
+            <ref target="tables/table28.csv" type="csv">table28.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table29">
+            <ref target="tables/table29.csv" type="csv">table29.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table30">
+            <ref target="tables/table30.csv" type="csv">table30.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table31">
+            <ref target="tables/table31.csv" type="csv">table31.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table32">
+            <ref target="tables/table32.csv" type="csv">table32.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table33">
+            <ref target="tables/table33.csv" type="csv">table33.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table34">
+            <ref target="tables/table34.csv" type="csv">table34.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table35">
+            <ref target="tables/table35.csv" type="csv">table35.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table36">
+            <ref target="tables/table36.csv" type="csv">table36.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table37">
+            <ref target="tables/table37.csv" type="csv">table37.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table38">
+            <ref target="tables/table38.csv" type="csv">table38.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table39">
+            <ref target="tables/table39.csv" type="csv">table39.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table40">
+            <ref target="tables/table40.csv" type="csv">table40.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table41">
+            <ref target="tables/table41.csv" type="csv">table41.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table42">
+            <ref target="tables/table42.csv" type="csv">table42.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table43">
+            <ref target="tables/table43.csv" type="csv">table43.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table44">
+            <ref target="tables/table44.csv" type="csv">table44.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table45">
+            <ref target="tables/table45.csv" type="csv">table45.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table46">
+            <ref target="tables/table46.csv" type="csv">table46.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table47">
+            <ref target="tables/table47.csv" type="csv">table47.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table48">
+            <ref target="tables/table48.csv" type="csv">table48.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table49">
+            <ref target="tables/table49.csv" type="csv">table49.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table50">
+            <ref target="tables/table50.csv" type="csv">table50.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table51">
+            <ref target="tables/table51.csv" type="csv">table51.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table52">
+            <ref target="tables/table52.csv" type="csv">table52.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table53">
+            <ref target="tables/table53.csv" type="csv">table53.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table54">
+            <ref target="tables/table54.csv" type="csv">table54.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table55">
+            <ref target="tables/table55.csv" type="csv">table55.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table56">
+            <ref target="tables/table56.csv" type="csv">table56.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table57">
+            <ref target="tables/table57.csv" type="csv">table57.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table58">
+            <ref target="tables/table58.csv" type="csv">table58.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table59">
+            <ref target="tables/table59.csv" type="csv">table59.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table60">
+            <ref target="tables/table60.csv" type="csv">table60.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table61">
+            <ref target="tables/table61.csv" type="csv">table61.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table62">
+            <ref target="tables/table62.csv" type="csv">table62.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table63">
+            <ref target="tables/table63.csv" type="csv">table63.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table64">
+            <ref target="tables/table64.csv" type="csv">table64.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table65">
+            <ref target="tables/table65.csv" type="csv">table65.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table66">
+            <ref target="tables/table66.csv" type="csv">table66.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table67">
+            <ref target="tables/table67.csv" type="csv">table67.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table68">
+            <ref target="tables/table68.csv" type="csv">table68.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table69">
+            <ref target="tables/table69.csv" type="csv">table69.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table70">
+            <ref target="tables/table70.csv" type="csv">table70.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table71">
+            <ref target="tables/table71.csv" type="csv">table71.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table72">
+            <ref target="tables/table72.csv" type="csv">table72.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table73">
+            <ref target="tables/table73.csv" type="csv">table73.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table74">
+            <ref target="tables/table74.csv" type="csv">table74.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table75">
+            <ref target="tables/table75.csv" type="csv">table75.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table76">
+            <ref target="tables/table76.csv" type="csv">table76.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table77">
+            <ref target="tables/table77.csv" type="csv">table77.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table78">
+            <ref target="tables/table78.csv" type="csv">table78.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table79">
+            <ref target="tables/table79.csv" type="csv">table79.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table80">
+            <ref target="tables/table80.csv" type="csv">table80.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table81">
+            <ref target="tables/table81.csv" type="csv">table81.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table82">
+            <ref target="tables/table82.csv" type="csv">table82.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table83">
+            <ref target="tables/table83.csv" type="csv">table83.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table84">
+            <ref target="tables/table84.csv" type="csv">table84.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table85">
+            <ref target="tables/table85.csv" type="csv">table85.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table86">
+            <ref target="tables/table86.csv" type="csv">table86.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_tabe87">
+            <ref target="tables/table87.csv" type="csv">table87.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table88">
+            <ref target="tables/table88.csv" type="csv">table88.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table89">
+            <ref target="tables/table89.csv" type="csv">table89.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table90">
+            <ref target="tables/table90.csv" type="csv">table90.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table91">
+            <ref target="tables/table91.csv" type="csv">table91.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table92">
+            <ref target="tables/table92.csv" type="csv">table92.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table93">
+            <ref target="tables/table93.csv" type="csv">table93.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table94">
+            <ref target="tables/table94.csv" type="csv">table94.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table95">
+            <ref target="tables/table95.csv" type="csv">table95.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table96">
+            <ref target="tables/table96.csv" type="csv">table96.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table97">
+            <ref target="tables/table97.csv" type="csv">table97.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table98">
+            <ref target="tables/table98.csv" type="csv">table98.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table99">
+            <ref target="tables/table99.csv" type="csv">table99.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table100">
+            <ref target="tables/table100.csv" type="csv">table100.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table101">
+            <ref target="tables/table101.csv" type="csv">table101.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table102">
+            <ref target="tables/table102.csv" type="csv">table102.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table103">
+            <ref target="tables/table103.csv" type="csv">table103.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table104">
+            <ref target="tables/table104.csv" type="csv">table104.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table105">
+            <ref target="tables/table105.csv" type="csv">table105.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table106">
+            <ref target="tables/table106.csv" type="csv">table106.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table107">
+            <ref target="tables/table107.csv" type="csv">table107.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table108">
+            <ref target="tables/table108.csv" type="csv">table108.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table109">
+            <ref target="tables/table109.csv" type="csv">table109.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table110">
+            <ref target="tables/table110.csv" type="csv">table110.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table111">
+            <ref target="tables/table111.csv" type="csv">table111.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table112">
+            <ref target="tables/table112.csv" type="csv">table112.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table113">
+            <ref target="tables/table113.csv" type="csv">table113.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table114">
+            <ref target="tables/table114.csv" type="csv">table114.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table115">
+            <ref target="tables/table115.csv" type="csv">table115.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table116">
+            <ref target="tables/table116.csv" type="csv">table116.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table117">
+            <ref target="tables/table117.csv" type="csv">table117.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table118">
+            <ref target="tables/table118.csv" type="csv">table118.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table119">
+            <ref target="tables/table119.csv" type="csv">table119.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table120">
+            <ref target="tables/table120.csv" type="csv">table120.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table121">
+            <ref target="tables/table121.csv" type="csv">table121.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table122">
+            <ref target="tables/table122.csv" type="csv">table122.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table123">
+            <ref target="tables/table123.csv" type="csv">table123.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table124">
+            <ref target="tables/table124.csv" type="csv">table124.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table125">
+            <ref target="tables/table125.csv" type="csv">table125.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table126">
+            <ref target="tables/table126.csv" type="csv">table126.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table127">
+            <ref target="tables/table127.csv" type="csv">table127.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table128">
+            <ref target="tables/table128.csv" type="csv">table128.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table129">
+            <ref target="tables/table129.csv" type="csv">table129.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table130">
+            <ref target="tables/table130.csv" type="csv">table130.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table131">
+            <ref target="tables/table131.csv" type="csv">table131.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table132">
+            <ref target="tables/table132.csv" type="csv">table132.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table133">
+            <ref target="tables/table133.csv" type="csv">table133.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table134">
+            <ref target="tables/table134.csv" type="csv">table134.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table135">
+            <ref target="tables/table135.csv" type="csv">table135.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table136">
+            <ref target="tables/table136.csv" type="csv">table136.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table137">
+            <ref target="tables/table137.csv" type="csv">table137.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table138">
+            <ref target="tables/table138.csv" type="csv">table138.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table139">
+            <ref target="tables/table139.csv" type="csv">table139.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table140">
+            <ref target="tables/table140.csv" type="csv">table140.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table141">
+            <ref target="tables/table141.csv" type="csv">table141.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table142">
+            <ref target="tables/table142.csv" type="csv">table142.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table143">
+            <ref target="tables/table143.csv" type="csv">table143.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table144">
+            <ref target="tables/table144.csv" type="csv">table144.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table145">
+            <ref target="tables/table145.csv" type="csv">table145.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table146">
+            <ref target="tables/table146.csv" type="csv">table146.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table147">
+            <ref target="tables/table147.csv" type="csv">table147.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table148">
+            <ref target="tables/table148.csv" type="csv">table148.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table149">
+            <ref target="tables/table149.csv" type="csv">table149.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table150">
+            <ref target="tables/table150.csv" type="csv">table150.csv</ref>
+          </bibl>
+          <bibl xml:id="table_csv_table151">
+            <ref target="tables/table151.csv" type="csv">table151.csv</ref>
+          </bibl>
+
+
+
+          </listBibl>
+        
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>OCR text was first extracted from PDF into plain text with explicit [[PAGE_BREAK:N]] markers. TEI was then built from the intermediate text with rule-based markup for persons, places, organizations, and years in the range 1800-1917. Tables were reconstructed from line structure and repeated row patterns in the plain text layer. Named-entity mode: rule-based fallback only.</p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ru">Russian</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>Initial rule-based TEI conversion from OCR text.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="1"/>
+      <p>ДЕЛО КАНЦЕЛЯРИИ ИРКУТСКОГО ВОЕННОГО ГЕНЕРАЛ-ГУБЕРНАТОРА 4-е делопроизводство Отчет и обзор <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> за <date when="1900" type="auto" subtype="regex-fallback">1900 год</date> (Копия)</p>
+      <p>Началось <date when="1901-09-27" type="auto" subtype="regex-fallback">27 сентября 1901 г.</date> Кончилось <date when="1902-01-10" type="auto" subtype="regex-fallback">10 января 1902 г.</date> На 90 листах</p>
+      <pb n="2"/>
+      <p>2 М. В. Д. ЕНИСЕЙСКИЙ ГУБЕРНАТОР ПО ГУБЕРНСКОМУ УПРАВЛЕНИЮ Отделение I Делопроизводство 1 Донесение <date when="1901-09-27" type="auto" subtype="regex-fallback">27 сентября 1901 года</date> № 7868 <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">г. Красноярск</placeName> В Канцелярию Г. <placeName ref="#place_irkutsk_province" type="Места" subtype="Адм. единицы">Иркутского</placeName> Военного Генерал-Губернатору ПРАВИТЕЛЬ КАНЦЕЛЯРИИ ИРКУТСКОГО 6 ОКТ. 1901 ВОЕННОГО ГЕНЕРАЛ-ГУБЕРНАТОРА Имею честь препроводить при сем в Канцелярию Генерал-Губернатора один экземпляр статистического обзора <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> за <date when="1900" type="auto" subtype="regex-fallback">1900 год</date>. Губернатор Плец Советник *** Делопроизводитель Курылев</p>
+      <pb n="3"/>
+      <p>3 Здесь и далее *, (***) — текст неразборчив. М. В. Д. ЕНИСЕЙСКИЙ ГУБЕРНАТОР ПО ГУБЕРНСКОМУ УПРАВЛЕНИЮ Отделение I Делопроизводство 1 Донесение <date when="1901-09-27" type="auto" subtype="regex-fallback">27 сентября 1901 года</date> № 786* <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">г. Красноярск</placeName> Господину <placeName ref="#place_irkutsk_province" type="Места" subtype="Адм. единицы">Иркутскому</placeName> Военному Генерал-Губернатору ПРАВИТЕЛЬ КАНЦЕЛЯРИИ ИРКУТСКОГО 6 ОКТ. 1901 ВОЕННОГО ГЕНЕРАЛ-ГУБЕРНАТОРА Имею честь представить при сем Вашему Высокопревосходительству копию со всеподданнейшего отчета о состоянии <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> за <date when="1900" type="auto" subtype="regex-fallback">1900 год</date>. Губернатор Плец Советник Доброхотов Передать во вт. ***</p>
+      <pb n="4"/>
+      <p>4 Копия ВСЕПОДДАННЕЙШИЙ ОТЧЕТ ЕНИСЕЙСКОГО ГУБЕРНАТОРА ЕНИСЕЙСКОГО ГУБЕРНАТОРА ЗА ЗА 19001900 ГОД ГОД Население губернии, как и в предыдущие годы, увеличилось благодаря, с одной стороны, естественному приросту, с другой — приселению извне, как то ссыльных и переселенцев; в общем же население <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> по местным данным можно считать достигшим до 640 835 мужчин и женщин. На экономической и сельскохозяйственной деятельности населения губернии, занятого преимущественно земледелием, отчетный год отразился неблагоприятно, с одной стороны, благодаря значительному недороду хлебов и трав, с другой — по случаю мобилизации войск Сибирского военного округа, когда до 9 120 запасных нижних чинов в рабочую летнюю пору были отвлечены от полевых работ, каковое обстоятельство в связи с уменьшением, как последствием мобилизации, заработков среди рабочего населения, призванного из запаса на действительную службу, имело влияние и на уменьшение поступления окладных сборов. Хотя в минувшем году площадь посева для хлебов озимых, яровых и для картофеля была увеличена против <date when="1899" type="auto" subtype="regex-fallback">1899 г.</date>, однако хлеба собрано было менее, чем в <date when="1899" type="auto" subtype="regex-fallback">1899 г.</date>: озимого на 93 739 пудов и ярового на 1 480 793 пуда, а с одной десятины собрано в сложности лишь 36 пудов разного хлеба; картофеля же собрано как с отдельной десятины, так и со всего пространства несколько более, чем в <date when="1899" type="auto" subtype="regex-fallback">1899 г.</date>, а именно — на 43 253 пуда. Таким образом, урожай всех хлебов в отчетном году оказался в общем ниже среднего, а урожай картофеля — выше среднего; тем не менее в принятии каких-либо чрезвычайных мер для продовольствия населения губернии надобности не представилось, и недостатка в хлебе не оказалось ввиду</p>
+      <pb n="5"/>
+      <p>5 как уменьшения спроса на сбыт такового, так и того обстоятельства, что за мелководьем много хлеба прежних урожаев осталось несплавленным в <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">Красноярск</placeName>; но главным образом продовольствие населения обеспечивалось значительными запасами хлеба, хранящегося в экономических магазинах, откуда и были выдаваемы ссуды на посевы и на продовольствие некоторым сельским обществам, пострадавшим от недорода. К <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> в 486 экономических магазинах находилось налицо запасного хлеба, озимого и ярового, 391 215 четвертей, в ссудах и недоимках — 61 568 четвертей. В отчете за <date when="1899" type="auto" subtype="regex-fallback">1899 г.</date> я имел счастие всеподданнейше докладывать ВАШЕМУ ИМПЕРАТОРСКОМУ ВЕЛИЧЕСТВУ о благодетельном значении экономических магазинов, а потому и ныне, как и в предыдущие годы, строгий постоянный надзор за благоустройством сих магазинов, наличностью в оных запасов хлеба и освежением его составляет одну из главнейших забот местной губернской администрации и крестьянских начальников. Кроме запасов хлеба, продовольствие населения губернии обеспечивается продовольственными капиталами: 1) губернским — 75 053 руб. с % на эту сумму, в размере 20 000 руб.; 2) мещанскими — 31 596 руб.; 3) крестьянскими — 87 278 руб. и 4) капиталом общественной запашки — 179 866 руб. При сравнении поступления окладных сборов <date when="1899" type="auto" subtype="regex-fallback">1899 г.</date> с поступлением <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> видно, что, во-первых , по губернии в <date when="1899" type="auto" subtype="regex-fallback">1899 г.</date> на погашение общей суммы срочных и рассроченных недоимок и окладов поступило 70 %, а в <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> — 68 %, и, во-вторых, общий остаток срочной и несрочной недоимки за <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> увеличился на 22 %. Несвоевременность и неудовлетворительность поступления окладных сборов помимо приведенных причин, общих для всех уездов губернии, — недорода хлебов и мобилизации — вызваны и другими причинами, так например: по <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярскому</placeName> уезду — неурожаем хлебов <date when="1898" type="auto" subtype="regex-fallback">1898 г.</date> и напряжением экономических сил населения от пополнения громадной хлебной недоимки в последние два года; по <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейскому</placeName> уезду — малым ловом белки, временным отсутствием сбыта пушнины и уменьшением извозного промысла; по <placeName ref="#place_kansk" type="Места" subtype="Адм. единицы">Канскому</placeName> уезду — уменьшением заработков</p>
+      <pb n="6"/>
+      <p>6 на отхожих промыслах и отсутствием извоза вследствие проведения железной дороги, а равно плохим урожаем кедровых орехов. К числу условий, препятствующих успеху поступления окладных сборов, следует отнести также и удаленность от волостных правлений и уездной администрации многих селений, не пользующихся поэтому должным наблюдением за исправным взиманием сборов. А потому в отчетном году в одном из уездов губернии было осуществлено разделение волостей с наибольшим населением и достигнуто более равномерное распределение селений по волостным районам этого уезда. Всех казенных доходов в <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> поступило 3 428 905 руб., в том числе питейно -акцизных — 2 125 459 руб.; казенных расходов произведено 2 973 180 руб., более чем в <date when="1899" type="auto" subtype="regex-fallback">1899 г.</date> на 356 326 руб. При этом осмеливаюсь всеподданнейше донести ВАШЕМУ ИМПЕРАТОРСКОМУ ВЕЛИЧЕСТВУ, что ввиду переживаемого населением губернии экономического кризиса, вызванного, с одной стороны, неурожаем последних лет, а с другой, коренным изменением быта вследствие проведения железной дороги, уничтожением или сокращением извозного промысла, я нахожу пока преждевременным изыскивать какиелибо меры, клонящиеся к усилению сборов с населения. Торгово-промышленная деятельность в городах <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> за отчетный год заметно упала, главной причиной чему послужили: в городе <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">Красноярске</placeName> — значительное уменьшение в передвижении частных грузов по железной дороге по случаю перевозки войск на Восток; в городе <placeName ref="#place_achinsk" type="Места" subtype="Насел. пункты">Ачинске</placeName>, где торговля поддерживалась раньше от движения грузов и пассажиров по пролегаемому через город тракту, — прекращение по оному движения вследствие открытия такового по железной дороге; в городе <placeName ref="#place_enisei_okrug" type="Места" subtype="Насел. пункты">Енисейске</placeName> экономические и бытовые условия жизни городского обывателя еще более осложнились к худшему вследствие сокращения добычи золота, составляющей главный источник промышленности; торговая деятельность остальных городов — <placeName ref="#place_kansk" type="Места" subtype="Насел. пункты">Канска</placeName> и <placeName ref="#place_minusinsk" type="Места" subtype="Насел. пункты">Минусинска</placeName> — ничем существенным от предшествовавшего <date when="1899" type="auto" subtype="regex-fallback">1899 г.</date> не отличалась.</p>
+      <pb n="7"/>
+      <p>7 Упадок торговли в городах отразился неблагоприятным образом и на финансовой стороне городского хозяйства, успех которого всецело зависит от богатства торгово-промышленной жизни края. Кроме земледелия, важнейшее занятие населения губернии составляет скотоводство, которое развивается главным образом на юге губернии, где для крестьян служит наиболее доходной статьей хозяйства после земледелия, а у инородцев составляет исключительное их занятие. Промыслы — рыболовство и звероловство — преобладают почти исключительно в северной части губернии, собственно в <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейском</placeName> уезде и <placeName ref="#place_turukhansk" type="Места" subtype="Адм. единицы">Туруханском</placeName> крае, где, являясь постоянным существенным занятием жителей, как инородцев, так и русских, служат единственным обеспечением их существования. В южных уездах губернии промыслами этими занимаются в виде подспорья хозяйству. В области лесного хозяйства были приложены старания и заботы как к ограждению лесов от пожаров, самовольных порубок и иных нарушений лесного устава, так и к наиболее рациональной эксплуатации казенных дач; к сожалению, бережливое отношение к лесным богатствам края слабо прививается сибирскому старожилу и исстари установившийся обычай пускания палов для уничтожения прежней растительности на крестьянских землях продолжает служить весьма частою причиною лесных пожаров, которые еще более неизбежны в лесах, лежащих вдали от населенных мест губернии, ибо открытый и бесконтрольный доступ туда для местного населения с целью производства охоты, рыбной ловли, сбора кедровых орехов и прочее, а также отсутствие проездных путей, препятствующее скорому прибытию на место пожара окрестного населения, создают благоприятные для сего условия. Надо ожидать благоприятных результатов от предположенных в видах предупреждения лесных пожаров мер, заключающихся в установлении выдачи билетов для побочного пользования в казенных дачах, устройстве в них стражнических домов и в проложении дорог. Более реальные результаты достигнуты Управлением государственных имуществ в отношении охраны казенных</p>
+      <pb n="8"/>
+      <p>8 лесов от самовольных порубок , каковые в отчетном году встречались значительно реже, нежели в предыдущие годы. В эксплуатации казенных дач нельзя не отметить движения вперед по пути рационального лесного хозяйства, выразившегося в переходе от рубки леса по урочищам к выборочной рубке по лесосекам и делянкам, чем достигается возможность надзора за заготовщиками и предупреждается истощение дач. К концу отчетного года была предпринята Управлением государственными имуществами в интересах рационального использования лесных угодий, а равно предоставления крестьянам заработка, заготовка лесных материалов для нужд железной дороги. Заведывание казеннооброчными статьями выразилось, главным образом, в возобновлении почти повсеместно утраченных границ оброчных участков, образованных в прежние годы, и их оценке, в приведении в известность тех статей, которые оказались уже замежеванными в переселенческие участки, и в значительном образовании новых оброчных статей. На разработку золотых приисков в <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> отчетный год отразился неблагоприятно. Добыто золота 179 пудов 36 фунтов 2 золотника 4 доли, менее чем в <date when="1899" type="auto" subtype="regex-fallback">1899 г.</date> на 8 пудов 30 фунтов 91 золотник 30 долей; в общем, замечается постепенный упадок золотопромышленности вследствие выработки прежних богатых площадей, а вновь заявленные площади, хотя и отводятся, но не разрабатываются и даже не разведываются по отсутствию лиц, владеющих достаточными капиталами. Действия съездов золотопромышленников за 4-летнее свое существование хотя и принесли некоторую пользу, но они сильно парализуются настоящей редакцией 35 и 36 статей Положения о съездах именно необязательностью исполнения золотопромышленниками постановлений съездов. В положении техники золота хотя и можно отметить некоторые попытки к введению разных технических усовершенствований, в целях развития горного дела, как, например, применение и постановку в некоторых приисках Южно-<placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейского</placeName> и Ачинско -<placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинского</placeName> горных округов «Толчеи», «Драг», «Экскаватора» и прочее, но отсутствие у золотопро -</p>
+      <pb n="9"/>
+      <p>9 мышленников крупных капиталов в значительной степени задерживает оживление этого дела на пути дальнейшего его развития, каковое возможно при условии, если местная золотопромышленность привлечет иностранные капиталы. Частное товарогрузовое движение Сибирской железной дороги в пределах губернии, в сравнении с прошлым отчетным годом, значительно уменьшилось, будучи вызвано неотложными потребностями военного времени, весьма значительными транспортами войск, лошадей и всяких воинских грузов. Перевозка войск и приостановка с 10 июля минувшего года действия льготного тарифа для переселенцев отразились и на передвижении последних, которых водворилось менее, чем в <date when="1899" type="auto" subtype="regex-fallback">1899 г.</date> Спрос со стороны переселенцев на свободные казенные земли продолжает возрастать с каждым годом, и в отчетном году в <placeName ref="#place_achinsk" type="Места" subtype="Адм. единицы">Ачинский</placeName> и <placeName ref="#place_kansk" type="Места" subtype="Адм. единицы">Канский</placeName> уезды прибыло много ходоков для подыскания незанятых участков. Были случаи и обратного переселения из числа уже осевших на поселках переселенцев; причина этому, как и в прежние годы: частью тоска по родине, отдаленность храмов, суровость климата и мошка, а главное — недостаток материальных средств. Большинство переселенцев привозят с собою мало денег, и таким образом сторублевое пособие, выдаваемое правительством в течении 2–3 лет как подспорье в хозяйстве, идет у переселенцев преимущественно на продовольствие, вследствие чего, когда истекает льготное время по платежу податей, переселенцы все еще остаются неустроившимися . В борьбе с этим надлежало бы или увеличить размер пособий, или допускать к переселению из Европейской России лишь тех крестьян, которые не только предъявят, но и представят наличное обеспечение в известной сумме с обратным получением таковой на месте прибытия в Сибири, которое бы свидетельствовало о достаточной правомощности к устройству с некоторым пособием от казны нового хозяйства в Сибири. Это тем более необходимо, что лучшие свободные земли, обращенные на устройство переселенческих участков, уже заселены, а вновь образованные ныне переселенческие участки являются как бы худшими в том смысле, что устройство</p>
+      <pb n="10"/>
+      <p>10 в них переселенцами хозяйств потребует от них больших затрат как в отношении личной энергии, так и в отношении материальных средств; об этом полагаю войти с представлением к главному начальнику края к концу <date when="1901" type="auto" subtype="regex-fallback">1901 г.</date> по собрании сведений об устройстве переселенцами своих хозяйств на этих новых участках. Работы <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейской</placeName> партии по образованию переселенческих участков в отчетном году коснулись таежных районов <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярского</placeName>, <placeName ref="#place_achinsk" type="Места" subtype="Адм. единицы">Ачинского</placeName>, <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинского</placeName> и <placeName ref="#place_kansk" type="Места" subtype="Адм. единицы">Канского</placeName> уездов и заключались в окончательном отграничении участков, образованных в <date when="1899" type="auto" subtype="regex-fallback">1899 г.</date>, с распланированием в них селений. В нескольких таежных районах было произведено предварительное обследование огромных лесных пространств, обнаружившее пригодность некоторых частей этих районов для заселения. <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейский</placeName> землеустроительный отряд, начавший свои действия в <date when="1898" type="auto" subtype="regex-fallback">1898 г.</date>, производил в минувшем <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> с должным успехом землеустроительные работы в нескольких волостях <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинского</placeName> и <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярского</placeName> уездов. Дело церковного и школьного строительства в переселенческих поселках на средства, отпущенные из фонда Имени ИМПЕРАТОРА АЛЕКСАНДРА III, продолжалось и в отчетном году, но, к сожалению, не может идти в уровень с желаниями переселенцев — строились храмы и при них дома для приюта и школы в пяти селениях; в четырех селениях на средства того же фонда заготовлялся материал для сооружения в каждом из них церквей. Успехи по народному образованию выразились в отчетном году открытием вновь 14 училищ Министерства народного просвещения и 16 церковноприходских школ и школ грамоты, но это не удовлетворяет стремления населения к школе — около ста сельских обществ возбудили ходатайства об открытии у них одноклассных училищ; <orgName ref="#org_но_министерство" type="Организации" subtype="Гос. Органы">но Министерство</orgName> народного просвещения могло удовлетворить только 21 ходатайство с отпуском необходимых средств. Действие в губернии новых судов хотя и имеет некоторое воспитательное значение, приучая население к законности, но ссыльный элемент все же имеет огромное значение на размер преступности, и надежды на лучшее в этом отношении буду -</p>
+      <pb n="11"/>
+      <p>11 щее надо ожидать от дарованной ВАШИМ ИМПЕРАТОРСКИМ ВЕЛИЧЕСТВОМ милости — прекращения ссылки. По устройству Обь-<placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейского</placeName> канала: в отчетном году потребовалось 729 человек рабочих, 223 000 руб. на плату им, инвентарь и другие расходы. Из эпидемий в отчетном году преобладающими болезнями были: брюшной тиф, скарлатина, грипп и коклюш, при чем гриппа зарегистрировано 4 060 случаев. При образовании сельской врачебной части в <date when="1897" type="auto" subtype="regex-fallback">1897 г.</date> число врачей и фельдшеров назначено было соответственно коренному населению губернии; в настоящее же время, благодаря усиленному переселению, число жителей и новых поселков в губернии, разбросанных притом на громадном расстоянии от резиденции врачебного персонала, значительно увеличилось и недостаток в участковых сельских врачах стал ощущаться заметнее. Для возбуждения ходатайства о более соответственном интересам населения распределении врачебных участков и по возможности увеличении числа их собираются подготовительные сведения. В особых условиях находятся в <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> на севере — <placeName ref="#place_turukhansk_region" type="Места" subtype="Адм. единицы">Туруханский край</placeName> и на юге — Усинский пограничный округ. В первом, по его обширности и малонаселенности, трудную для управления задачу составляет своевременная помощь населению в случае голода. Для этого необходимо содержать от правительства продовольственные запасы мукой на местах, которые и содержатся в определенных пунктах. По ВСЕМИЛОСТИВЕЙШЕМУ ВАШЕГО ИМПЕРАТОРСКОГО ВЕЛИЧЕСТВА манифесту <date when="1894-11-14" type="auto" subtype="regex-fallback">14 ноября 1894 г.</date> прощены населению долги по прежним ссудам из хлебозапасного капитала, и в отчетном году возвращена в тот же капитал равная этим долгам сумма — 238 382 руб. Наличность этого капитала служит полным обеспечением населения северной части <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> от возможности бедствий вследствие голода. Для общего поднятия этого края необходимо организовать срочное субсидированное пароходство между городом <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейском</placeName> и устьем реки Енисея. Последние предложения</p>
+      <pb n="12"/>
+      <p>12 товарищества пароходства по реке Енисею обратили внимание господина главного начальника края генерал-лейтенанта Пантелеева , и в настоящее время предложенные условия служат предметом соглашения для дальнейшего направления дела в установленном порядке. Неудовлетворительность путей сообщения, соединяющих Усинский пограничный округ с остальной губернией через <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинский</placeName> уезд, останавливает заселение этого округа, заключающегося всего в 5 селениях с двумя тысячами жителей, и ставит на очередь вопрос о необходимости проложения колесной дороги к этим селениям из соседнего <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинского</placeName> уезда на протяжении 150–170 верст. С разрешения господина иркутского военного генерал-губернатора генерал-лейтенанта Пантелеева предполагается приступить к устройству колесной дороги первоначально в виде опыта путем натуральной повинности усинских поселений и прилегающих волостей <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинского</placeName> уезда. События в Китае вызвали в минувшем году ВЫСОЧАЙШЕЕ ВАШЕГО ИМПЕРАТОРСКОГО ВЕЛИЧЕСТВА повеление о мобилизации Приамурского и Сибирского военных округов. Несмотря на всю неожиданность мобилизации и на разбросанность селений, расположенных на громадной территории губернии, призыв запасных нижних чинов в <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> прошел весьма успешно. Запасные чины являлись ранее сроков, определенных утвержденными расписаниями , вследствие правильной разработки планов движения запасных, удовлетворительного ознакомления с этими планами подлежащих должностных лиц, быстрого оповещения распоряжений о мобилизации, энергичной деятельности полицейских чинов, проявленного запасными чинами патриотизма и, наконец, вследствие благоприятного летнего времени для перевозки запасных чинов на подводах. Во многих случаях, особенно в городах, призываемые, отказываясь от пользования 24-часовым сроком на устройство домашних дел, являлись в полицейские учреждения и в Управления воинских начальников с ходатайствами о зачислении их на военную службу спустя несколько часов по-</p>
+      <pb n="13"/>
+      <p>13 сле оповещения распоряжения о мобилизации. В то же время не было зарегистрировано ни одного случая уклонения от явки на военную службу или промедления в прибытии запасных чинов на сборные пункты без основательных и законных на то причин. Все возможные случайности, касавшиеся продовольствия запасных чинов в пути, удовлетворения населения за подводы, выставленные для перевозки запасных чинов на сборные пункты, условий привлечения горнопромышленников к доставке запасных чинов из горных округов до ближайших населенных пунктов уездов, продовольствия в пути, а также необходимости постепенного образования мобилизационного фонда для предупреждения затруднений в денежных средствах, были заблаговременно предусмотрены и предупреждены. В настоящее время вопросы, возбужденные мною по перечисленным предметам, вызванные практикой двух минувших мобилизаций, имевших место в <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName>, направлены для разрешения в установленном порядке через господина иркутского военного генерал-губернатора генерал-лейтенанта Пантелеева . С достаточным успехом представилось возможным приобрести в назначенный краткий срок для формировавшегося <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярского</placeName> сибирского пехотного полка лошадей и все обозные предметы. На покупку их в мое распоряжение было предоставлено 105 647 руб., из коих 36 440 руб. 62 коп. были затрачены на покупку 710 обозных лошадей, 18 712 руб. 77 коп. уплачено за телеги и прочие предметы, а 50 493 руб. 61 коп. в виде сбережения возвращены в казну. Одновременно с призывом запасных чинов и с формированием полкового обоза были привлечены подведомственные мне гражданские чины к удовлетворению и других потребностей, вызванных военными обстоятельствами, как то: к расквартированию чинов <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярского</placeName> сибирского пехотного полка во время мобилизации и демобилизации; ко всевозможному содействию войсковым частям, останавливавшимся в <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">г. Красноярске</placeName> на дневки при следовании в Забайкалье и далее на Восток, и в особенности к организации в городе <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">Красноярске</placeName> в обширных размерах хлебопечения и заготовления</p>
+      <pb n="14"/>
+      <p>14 сухарей по заказам интендантского ведомства, а также по призрению семейств нижних чинов, призванных на военную службу. Во всех случаях удовлетворения приведенных потребностей достигнуты были благоприятные результаты вследствие полного согласия между подведомственными мне чинами гражданского ведомства и военными властями. Помимо сформирования, по распоряжению военного ведомства, в <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинском</placeName> уезде из местного казачьего населения трех дружин, командирования из <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">Красноярска</placeName> казачьей полусотни и высылки из них части в <placeName ref="#place_усинский" type="Места" subtype="Адм. единицы">Усинский</placeName> округ мною для успокоения пограничного населения <placeName ref="#place_усинского" type="Места" subtype="Адм. единицы">Усинского</placeName> округа и <placeName ref="#place_kansk" type="Места" subtype="Адм. единицы">Канского</placeName> уезда была исходатайствована доставка военным ведомством 750 казенных винтовок-берданок, которые и розданы были благонадежным жителям христианам ближайших к Китаю пограничных местностей. Повергая настоящий всеподданнейший отчет на благовоззрение ВАШЕГО ИМПЕРАТОРСКОГО ВЕЛИЧЕСТВА, имею счастие засвидетельствовать, что население ВЫСОЧАЙШЕ вверенной мне ВАШИМ ИМПЕРАТОРСКИМ ВЕЛИЧЕСТВОМ губернии проникнуто верноподданническими чувствами любви и преданности к Престолу и Отечеству. Подлинный подписал: <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейский</placeName> Губернатор Плец</p>
+      <p>С подолинным верно: Советник Доброхотов Водитель Курылев</p>
+      <pb n="15"/>
+      <p>15 СТАТИСТИЧЕСКИЙ ОБЗОР ЕНИСЕЙСКОЙ ГУБЕРНИИГУБЕРНИИ ЗА ЗА 19001900 ГОДГОД КРАСНОЯРСК КРАСНОЯРСК ТИПОГРАФИЯ ЕНИСЕЙСКОГО ГУБЕРНСКОГО УПРАВЛЕНИЯТИПОГРАФИЯ ЕНИСЕЙСКОГО ГУБЕРНСКОГО УПРАВЛЕНИЯ</p>
+      <pb n="16"/>
+      <p>16 ОГЛАВЛЕНИЕ СТАТЕЙ ОБЗОРА ЕНИСЕЙСКОЙ ГУБЕРНИИ ЗА ОБЗОРА ЕНИСЕЙСКОЙ ГУБЕРНИИ ЗА 19001900 ГОДГОД Страницы I. Естественные и производительные силы губернии и экономическая деятельность населения: а) Земледелие – – – – – б) Обеспечение народного продовольствия – – – в) Промыслы городского и сельского населения и г) Промышленность заводская и фабричная – – – – д) Лесоустройство – – – – е) Торговля – – – – – 4 ж) Движение населения – – – – II. Подати и повинности: а) Окладные взыскания – – – б) Земские сборы – – – – – 29 в) О казенных доходах и расходах по казначействам <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> за <date when="1900" type="auto" subtype="regex-fallback">1900 год</date> г) Отправление денежных повинностей– д) Городские доходы и расходы е) Акцизные сборы – – – 3 ж) Отправление натуральных повинностей – – з) Воинская повинность III. Общественное благоустройство и благочиние: а) Казенные и общественные здания – – –6 б) Сухопутные сообщения: дороги, мосты, перевозы и почты в) Водные сообщения г) Народная нравственность д) Ссыльные, этапы, тюрьмы и ссыльнокаторжные ж) Пожары</p>
+      <pb n="17"/>
+      <p>17 IV. Народное здравие и общественное призрение: а) Врачи б) Аптеки в) Оспопрививание г) Больницы и дома умалишенных д) Эпидемии и эпизоотии е) Насильственные и случайные смерти ж) Богадельни и другие благотворительные учреждения V. Народное образование: а) Учебные и воспитательные заведения б) Музеи VI. Движение переселения по <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> и образование переселенческих участков Ведомости об образовании переселенческих участков по 4 уездам. Приложения: Ведомость о посеве и урожае хлеба № 1 “ о фабриках и заводах № 2 “ о движении населения № 3 “ о поступлении сборов и недоимок № 4 “ о числе и роде преступлений № 5 “ о пожарах № 6 “ о насильственных и случайных смертях № 7 “ о числе учебных заведений и учащихся № 8</p>
+      <pb n="18"/>
+      <p>18 СТАТИСТИЧЕСКИЙ ОБЗОР ЕНИСЕЙСКОЙ ГУБЕРНИИ ЕНИСЕЙСКОЙ ГУБЕРНИИ ЗАЗА 19001900 ГОД ГОД I. ЕСТЕСТВЕННЫЕ И ПРОИЗВОДИТЕЛЬНЫЕ СИЛЫ ГУБЕРНИИ I. ЕСТЕСТВЕННЫЕ И ПРОИЗВОДИТЕЛЬНЫЕ СИЛЫ ГУБЕРНИИ И И ЭКОНОМИЧЕСКАЯ ДЕЯТЕЛЬНОСТЬ НАСЕЛЕНИЯЭКОНОМИЧЕСКАЯ ДЕЯТЕЛЬНОСТЬ НАСЕЛЕНИЯ А. Земледелие (Приложением этой статьи служит ведомость № 1.) Главнейшее занятие сельского населения <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> — земледелие. Сеется из озимых хлебов рожь, а из яровых — пшеница, овес, ярица , ячмень, гречиха, просо, полба; есть несколько хозяйств в <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинском</placeName> и <placeName ref="#place_achinsk" type="Места" subtype="Адм. единицы">Ачинском</placeName> уездах, где сеется озимая пшеница, но культура ее еще не распространилась ввиду рискованности сохранить озимые всходы пшеницы в малоснежные зимы. Общее количество засеваемого в губернии хлеба увеличивается с каждым почти годом. Уезды <placeName ref="#place_kansk" type="Места" subtype="Адм. единицы">Канский</placeName> и <placeName ref="#place_achinsk" type="Места" subtype="Адм. единицы">Ачинский</placeName> по распределению посевов разного рода хлеба весьма сходны между собою, что обусловливается сходством климатических и почвенных условий. Затем по количеству посева озимого хлеба следуют уезды: <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинский</placeName>, <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейский</placeName> и <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярский</placeName>. В <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинском</placeName> и <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярском</placeName> уездах посевы яровых хлебов особенно преобладают, так как озимый хлеб вследствие малоснежности зим часто вымерзает. В <placeName ref="#place_krasnoyarsk_okrug" type="Места" subtype="Адм. единицы">Красноярском округе</placeName> посевы овса развиты более, чем в других уездах; посевы яровой пшеницы преобладают в <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинском</placeName> уезде; вообще же должно заметить, что пшеница и ярица сеются в губернии почти в равном, относительно,</p>
+      <pb n="19"/>
+      <p>19 количестве. Культура картофеля, сравнительно с предшествовавшими годами, развивается постепенно и правильно во всех уездах губернии. Всего чаще подвержены неурожаю хлеба в <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейском</placeName> уезде, где местные неурожаи настолько часты и вместе с тем обширны, что влияют на среднюю по уезду. В остальных уездах неурожаи бывают периодически вследствие неблагоприятных метеорологических условий в периоды вегетации хлебов, и если эти неблагоприятные условия действуют по всей губернии, то получается недород хлебов. Вообще земледелие во всей губернии в том виде, в каком оно существует в настоящее время, подвержено риску вследствие неблагоприятных климатических условий. Урожаи всех хлебов подвергаются значительным колебаниям. Яровым вредят долго продолжающиеся весенние заморозки и холодные утренники в конце лета, бездождие и засухи весною и летом, а в южной части губернии, кроме этого, в значительной мере вредят насекомые: кобылка, червяк и полевые грызуны. Яровые более подвержены неурожаям, чем озимые. Из данных за время с 1879 по <date when="1899" type="auto" subtype="regex-fallback">1899 г.</date> видно, что земледелие от неурожаев более всего терпит, как выше сказано, в <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейском</placeName> уезде, затем в <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинском</placeName>, несмотря на плодородие почвы его, далее в <placeName ref="#place_achinsk" type="Места" subtype="Адм. единицы">Ачинском</placeName>, <placeName ref="#place_kansk" type="Места" subtype="Адм. единицы">Канском</placeName> и <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярском</placeName> уездах. В <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярском</placeName> уезде вследствие густоты населения и наступающего «утеснения» в земле земледелие ведется тщательнее, чем в других округах, чем и объясняется большее постоянство урожаев. В <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинском</placeName> уезде неурожаи редко бывают повсеместными: в сухое лето неурожаю подвержены лишь посевы степной полосы, в дождливое лето — лишь посевы южной подтаежной полосы; но средняя полоса, переходная между этими двумя, в том и другом случае обеспечивает себе обычный средний сбор хлебов. В средней полосе губернии, т. е. в уездах <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярском</placeName>, <placeName ref="#place_kansk" type="Места" subtype="Адм. единицы">Канском</placeName>, <placeName ref="#place_achinsk" type="Места" subtype="Адм. единицы">Ачинском</placeName> (северной части) и <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейском</placeName>, распространена двухпольная и отчасти трехпольная система полеводства. Но главная система, до сих пор преобладающая в губернии, а в былое время, в начале развития края, бывшая единственною — есть переложная. При господстве ее обрабатываются «залоги», т. е. земля из-под леса, который</p>
+      <pb n="20"/>
+      <p>20 срубают, редко продают, а чаще, сложив в кучи, жгут на месте, иногда оставляя даже невыкорчеванными пни. После этого залог вспахивают и засевают и, сняв два, три и более подряд хороших урожаев, без всякого удобрения эту землю пускают под пар и, смотря по качеству ее, на год, два или же более продолжительный срок обращают в залежь, после чего она снова поступает в разработку. Во многих местностях губернии яровые хлеба часто засеваются на жниво из-под озимой ржи, снятой в то же лето без новой глубокой вспашки; эти посевы на жниво очень развиты там, где господствует и теперь переложная система: залог из-под вырубленного леса часто дает хороший урожай даже в течение нескольких лет. По 4 земледельческим уездам в среднем около 8 % всей площади запашки засевается прямо на жниво . В местностях, где господствует переложная система, не может быть и речи о какой-либо правильности хозяйства: где много годной для обработки земли под лесом, там дело сводится к распахиванию все новых и новых земель, которые, после истощения их, забрасываются в залежь. Такое хозяйство там наиболее выгодно для населения и продуктивно. В местностях же, где начинается уже чувствоваться утеснение в земле, хозяйство, постепенно приближаясь к типу трехпольного, приобретает более правильные формы. Переложное хозяйство способствует обезлесению края, влекущему за собой уменьшение влаги и частые засухи, а вследствие этого и более частые неурожаи. Поля редко удобряются навозом, который обыкновенно сжигают или, вывозя из деревень, сваливают на берегах рек, отчего грязнится и заражается вода их; травосеяние также не развито, хотя могло бы принести немалую пользу при повторяющихся часто засухах. Преобладающие земледельческие орудия до сих пор еще первобытного общераспространенного типа, таковы: соха довольно грубой работы, на юге — сабан или малороссийский плуг и соха- колесуха, служащая для вспашки полей, обыкновенные бороны, с железными и зачастую с деревянными зубьями, для бороньбы ; молотят же хлеб цепами и катками-молотягами . Лишь в последнее время, с приливом переселенцев и с увеличением утеснения в земле, в губернии начинает делаться</p>
+      <pb n="21"/>
+      <p>21 кое-что, способствующее распространению среди крестьянского населения более рациональных способов полеводства и улучшению сельскохозяйственной техники. Но делается это медленно, так как в <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> нет сельскохозяйственных школ или каких-либо агрономических учреждений, которые шли бы на встречу назревающим потребностям местного хозяйства. Осенью 1899 и весною <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> было посеяно хлеба:</p>
+<ref target="#table_csv_table1" type="csv-table"/>
+<p>Посевы были менее предыдущего года на 198 085 четвертей. Количество собранного хлеба было:</p>
+<ref target="#table_csv_table2" type="csv-table"/>
+<p>По сравнению урожая отчетного года с минувшим оказывается более (+) или менее (–):</p>
+      <pb n="22"/>
+<ref target="#table_csv_table3" type="csv-table"/>
+      <p>22 Посевы хлебов в <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> вообще производят озимых с конца июля до начала сентября, а яровых — со 2-й половины апреля до конца июня. Столь продолжительное время посевов зависит, главным образом, от климатических условий состояний погоды. Так, по <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярскому</placeName> уезду с начала весны погода была холодная и ветреная и только с первых чисел мая установилась благоприятная для произрастания хлебов, благодаря чему всходы хлебов первоначально были довольно хорошие, но затем вследствие бездождия и знойных дней, продолжавшихся почти до июля месяца, хлеб приостановился в росте и частию начал желтеть. Появившеюся на полях кобылкою причинен значительный вред хлебам, но благодаря начавшимся с июля месяца обильным дождям хлеба в некоторых местах хотя и поправились, но не вполне достаточно. После дождей выросла подсада от не взошедших своевременно семян, которая ко времени жатвы не успела созреть, пригодна лишь на корм для скота. По <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейскому</placeName> уезду сравнительно более ранние посевы озимых хлебов с конца июля и начала августа, а более поздние посевы яровых весною, т. е. с конца апреля. Во время произрастания тех и других хлебов стояла в течение целого месяца засуха, которая сильно повредила всходам даже и в низких местах, а на местах высоких весь хлеб почти высох, но благодаря выпавшим сильным дождям хлеб в некоторых местах хотя и поправился, но зато часть его погибла от градобития.</p>
+      <pb n="23"/>
+      <p>23 По <placeName ref="#place_kansk" type="Места" subtype="Адм. единицы">Канскому</placeName> уезду посевы озимых хлебов производились со второй половины июля и почти весь август, а яровых — с апреля до 2 половины июня. Посев первых был при вполне благоприятной погоде, благодаря чему всходы вышли из-под снега сравнительно хорошими, но затем вследствие бывших с начала весны холодов и засухи дальнейший рост их шел неудовлетворительно, но с половины июля начавшие перепадать дожди несколько поправили хлеба, успевшие уже к тому времени сильно пострадать от засухи. Под влиянием означенных выше физических явлений озимые хлеба вышли удовлетворительными. Посев же яровых хлебов производился при совершенно плохой погоде: стояли сильные холода, ветры, дожди со снегом, что в значительной степени препятствовало посевам, которые были окончены на 17 дней позднее минувшего года. Произрастание хлебов вследствие неблагоприятной погоды шло неотрадно , и в значительной степени хлеба поросли сорными травами, а когда начались сильные дожди, то в них появилась так называемая подсада, которая, благодаря частым дождям и теплой погоде, так густо и быстро росла, что почти везде перегнала и заглушила первый хлеб, но на половину не успела созреть, а тем временем созревший ранее хлеб осыпался. Значительное количество яровых хлебов, ввиду его недоброкачественности и сильной засоренности травами, скошено на литовку для корма скота. По <placeName ref="#place_achinsk" type="Места" subtype="Адм. единицы">Ачинскому</placeName> уезду посев яровых хлебов начался с половины апреля и продолжался до второй половины июня. При начале посевов погода стояла теплая и благоприятная, но затем начались сухие холодные ветра, что и задержало всходы хлеба; кроме того, сильные ветра на открытых и возвышенных местах обнажили посевы, почему вновь был подсев и перепахивание полей. Кроме того, бывший 2 июня иней в некоторых волостях погубил часть всходов. От выпавших в июле месяце дождей засыхавшая растительность оживилась, но зато вызвала на полях рост сорных трав. В общем выводе урожай получился ниже среднего. Из хлебов на корне погибло от разных неблагоприятных причин в уездах: <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярском</placeName> — 2 582 дес . на сумму 69 455 руб. 92 коп., <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейском</placeName> — 13 224 дес ., <placeName ref="#place_kansk" type="Места" subtype="Адм. единицы">Канском</placeName> — 1 277 дес.</p>
+      <pb n="24"/>
+      <p>24 на сумму 16 510 руб., <placeName ref="#place_achinsk" type="Места" subtype="Адм. единицы">Ачинском</placeName> — 5 983 дес. на сумму до 51 244 руб. и <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинском</placeName> — 12 800 дес. на сумму 73 420 руб. Жатва и уборка хлебов в некоторых уездах началась с 20 июля и продолжалась до 10 октября. Средние цены на рабочий труд были следующие : рабочему платилось в год на хозяйском содержании от 75 до 120 руб., работнице — от 35 до 70 руб. Поденная плата во время посева хлеба: а) на хозяйском содержании: работнику с лошадью — 1 руб. 40 коп., пешему — 75 коп., работнице — 30 коп.; б) на своем содержании: работнику с лошадью — от 1 руб. 50 коп. до 2 руб. 20 коп., пешему — от 75 коп. до 90 коп., работнице — 50 коп.; во время уборки хлебов и сена: а) на хозяйском содержании: работнику с лошадью — 90 коп., пешему — 55 коп. и работнице — 40 коп. и б) на своем содержании: работнику с лошадью — 1 руб. 50 коп., пешему — 80 коп. и работнице — 60 коп. Средние цены за пуд хлеба были:</p>
+<ref target="#table_csv_table4" type="csv-table"/>
+      <pb n="25"/>
+      <p>25 Обеспечение народного продовольствия К <date when="1900-01-01" type="auto" subtype="regex-fallback">1 января 1900 г.</date> по возвращении части хлеба, выданного на весенний посев, в 486 экономических сельских магазинах находилось налицо запасного хлеба: озимого и ярового — 391 215 четв., менее <date when="1899" type="auto" subtype="regex-fallback">1899 г.</date> на 46 612 четв ., в ссудах и недоимках — озимого и ярового 61 568 четв ., более чем в <date when="1899" type="auto" subtype="regex-fallback">1899 г.</date> на 21 794 четв., а именно:</p>
+<ref target="#table_csv_table5" type="csv-table"/>
+<p>Как видно, запасами хлеба в экономических магазинах наиболее обеспечено население <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинского</placeName>, <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярского</placeName> и <placeName ref="#place_achinsk" type="Места" subtype="Адм. единицы">Ачинского</placeName> уездов; наиболее же нуждаются <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейский</placeName> и <placeName ref="#place_kansk" type="Места" subtype="Адм. единицы">Канский</placeName> уезды, что показывает наивысший процент количества ссуженного хлеба к общему количеству его, числящемуся в магазинах, а за ним следуют уезды: <placeName ref="#place_kansk" type="Места" subtype="Адм. единицы">Канский</placeName> и <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейский</placeName>.</p>
+      <pb n="26"/>
+      <p>26 Жители станков <placeName ref="#place_turukhansk_region" type="Места" subtype="Адм. единицы">Туруханского края</placeName>, расположенных от г. <placeName ref="#place_turukhansk" type="Места" subtype="Насел. пункты">Туруханска</placeName> вниз по р. Енисею до Толстого Носа, запасают хлеб для своего продовольствия летом с пароходов и судов, прибывающих в низовья р. Енисея из г . <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">Красноярска</placeName> и Енискейска , а зимой, при недостатке запасов, покупают у частных торговцев в селе Дудинском или же берут заимообразно из казенных хлебозапасных магазинов; жители же станков вверх по р. Енисею от г. <placeName ref="#place_turukhansk" type="Места" subtype="Насел. пункты">Туруханска</placeName> покупают хлеб в <placeName ref="#place_eniseysk" type="Места" subtype="Насел. пункты">г. Енисейске</placeName> чрез своих общественников, наиболее состоятельных, плавающих ежегодно, с открытием навигации, на своих судах в названный город для сбыта пушнины. В навигацию <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> жители <placeName ref="#place_turukhansk_region" type="Места" subtype="Адм. единицы">Туруханского края</placeName> хотя и запасались по своим средствам хлебом, но беднейшее население и особенно инородцы не могли обойтись без займа хлеба из казенных магазинов. Закупка хлеба на средства казны в казенные хлебозапасные магазины <placeName ref="#place_turukhansk_region" type="Места" subtype="Адм. единицы">Туруханского края</placeName> в отчетном году не производилась. В городских общественных магазинах налицо и в ссуде состояло запасного хлеба 5 520 четв ., а именно: в г. <placeName ref="#place_kansk" type="Места" subtype="Насел. пункты">Канске</placeName> — 730 четв ., <placeName ref="#place_achinsk" type="Места" subtype="Насел. пункты">Ачинске</placeName> — 1 658 четв . и <placeName ref="#place_minusinsk" type="Места" subtype="Насел. пункты">Минусинске</placeName> — 1 356 четв. Сверх того, в <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">г. Красноярске</placeName> в магазине, принадлежащем казачьему населению, состояло хлеба 711 четв . Урожай <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> по губернии был вообще удовлетворительный и на продовольствие жителей и обсеменение полей достаточный. Поэтому не предстоит надобности принимать какие-либо меры к обеспечению жителей губернии продовольствием; также не предстоит надобности в снабжении продовольствием и жителей <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейского</placeName> уезда, так как <placeName ref="#place_eniseysk" type="Места" subtype="Насел. пункты">г. Енисейск</placeName> и его уезд запасают хлеб сплавом из <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинского</placeName> уезда; в случае же крайней необходимости сельские общества с подлежащего разрешения покупают семена на свои деньги, хранящиеся на книжках Государственного банка и вырученные от продажи в прежнее время хлебных запасов из экономических магазинов. Кроме запасов хлеба, продовольствие населения губернии обеспечивается продовольственными капиталами: 1) губернским, который до <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> хранился под книжкой Государственного банка за № 17863 в сумме 75 053 руб.</p>
+      <pb n="27"/>
+      <p>27 29 коп. и процентными бумагами на 20 000 руб.; сведений об оборотах этими капиталами не имеется, потому что они находятся в ведении <orgName ref="#org_ministry_internal" type="Организации" subtype="Гос. Органы">Министерства внутренних дел</orgName>; 2) мещанскими, хранящимися в <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярском</placeName> отделении Государственного банка по книжкам и частью в сберегательных кассах, а именно: <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">Красноярска</placeName> — 4 381 руб. 48 коп., <placeName ref="#place_enisei_okrug" type="Места" subtype="Насел. пункты">Енисейска</placeName> — 5 324 руб. 461/2 коп., <placeName ref="#place_kansk" type="Места" subtype="Насел. пункты">Канска</placeName> — 2 631 руб. 72 коп., <placeName ref="#place_achinsk" type="Места" subtype="Насел. пункты">Ачинска</placeName> — 1 123 руб. 36 коп. и <placeName ref="#place_minusinsk" type="Места" subtype="Насел. пункты">Минусинска</placeName> — 18 135 руб. 15 коп., всего в сумме 31 596 руб. 17 1/2 коп.; 3) крестьянскими: <placeName ref="#place_kansk" type="Места" subtype="Адм. единицы">Канского</placeName> уезда 47 278 руб. 50 коп., <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейского</placeName> уезда до 40 000 руб., каковые суммы хранятся частью под книжками <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярского</placeName> отделения Государственного банка, частью — в сберегательных кассах; 4) капиталом общественной запашки для выдачи ссуд крестьянам. В. Промыслы городского и сельского населения и г) Промышленность заводская и фабричная (Приложением к этой статье служит ведомость № 2.) Жители <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">г. Красноярска</placeName> занимаются мелочною торговлею и разными ремеслами, между которыми преобладают: плотничное, сапожное и кузнечное, а отчасти земледелием, но только в ограниченных размерах. Обыватели <placeName ref="#place_eniseysk" type="Места" subtype="Насел. пункты">г. Енисейска</placeName> занимаются торговлею, золотопромышленностью и коммерческими предприятиями; среднее же и более бедное население города — извозничеством, рыболовством, плотничеством, кузнечными и другими работами, а также работами на золотых промыслах и на пароходах. Население промышленного г. <placeName ref="#place_kansk" type="Места" subtype="Насел. пункты">Канска</placeName> преимущественно занято хлебопашеством и скотоводством, а отчасти торговлею, работами на золотых промыслах и другими мелкими ремеслами. В г. <placeName ref="#place_achinsk" type="Места" subtype="Насел. пункты">Ачинске</placeName> жители, не обеспеченные достаточными средствами к жизни, частью занимаются хлебопашеством, ломовым извозничеством и в ограниченном размере разными ремеслами. Наконец, у жителей г. <placeName ref="#place_minusinsk" type="Места" subtype="Насел. пункты">Минусинска</placeName> промыслы заключаются преимущественно в хлебопашестве и скотоводстве. Так как г. <placeName ref="#place_minusinsk" type="Места" subtype="Насел. пункты">Минусинск</placeName> расположен у р. Енисея, то по этой реке на пароходах, барках, плотах и лодках хлеб и скот сплавляются в <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">г. Красноярск</placeName>, <placeName ref="#place_enisei_okrug" type="Места" subtype="Насел. пункты">Енисейск</placeName> и <placeName ref="#place_turukhansk_region" type="Места" subtype="Адм. единицы">Туруханский край</placeName>. Скот сгоняется отсюда и в остальные уезды <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейской</placeName>
+      </p>
+      <pb n="28"/>
+      <p>28 губернии и даже в г. <placeName ref="#place_irkutsk_province" type="Места" subtype="Насел. пункты">Иркутск</placeName>. Кроме того, здесь промышляют перевозкою тяжестей, торговлею разными товарами, привозимыми с ярмарок. Имеются заведения: кожевенные, овчинные, мыловаренные, салотопенные, свечные и проч., производство которых с каждым годом увеличивается. Кроме земледелия, скотоводство составляет важнейшее занятие населения губернии. Всего в <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName>, по последним сведениям, считается приблизительно до 1 596 460 голов, в том числе: лошадей 425 927, рогатого скота 426 028, овец 598 690, свиней 104 428, коз 13 559, оленей 26 594 и собак для езды 1 234. В <placeName ref="#place_turukhansk" type="Места" subtype="Адм. единицы">Туруханском</placeName> крае на 3 503 души обоего пола крестьянского и иных сословий и на 7 682 души обоего пола инородческого населения приходится лошадей 857, коров 767, оленей 26 080 и собак для езды 1 234. Скотоводство развивается главным образом на юге губернии, преимущественно, как выше сказано, в <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинском</placeName> уезде, и сделалось у минусинских крестьян наиболее доходной статьей хозяйства после земледелия, а у инородцев составляет уже издавна исключительное их занятие; такое развитие скотоводства на юге губернии обусловлено лучшими там климатическими условиями, обилием степных пространств, дающих прекрасный корм скоту летом и даже в зимние месяцы вследствие малоснежности зим; существующее экстенсивное степное скотоводство инородцев и отчасти и крестьян возможно там только потому, что скот содержится на подножном корму круглый год. Южное скотоводство имеет целью и результатом не только удовлетворение потребностей домашнего хозяйства и продажу скота на убой или для нужд населения местного края, но и снабжение им северных округов губернии и преимущественно золотых приисков, следовательно, торг с ними гуртами скота практикуется в больших размерах: всем этим оно существенно отличается от скотоводства других северных округов, которое исключительно удовлетворяет нуждам местного населения. Кроме двух главнейших отраслей сельского хозяйства — земледелия и скотоводства — население занимается в незначительном размере огородничеством и культурою на бахчах; бахчевничество существует лишь в <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинском</placeName> уезде; ого -</p>
+      <pb n="29"/>
+      <p>29 родничеством же занимаются даже до крайних северных пределов земледелия в <placeName ref="#place_turukhansk" type="Места" subtype="Адм. единицы">Туруханском</placeName> крае. Пчеловодство составляет существенную отрасль сельского хозяйства населения губернии и развивается постепенно. В отчетном году было 51 562 улья и добытого меда 10 859 пудов 16 фунт. и воска 1 326 пудов 27 фунт. Из промыслов, воспособляющих сельскому хозяйству крестьянского населения и неразрывно с ним связанных, следует упомянуть еще о лесных и кустарных. Истребление лесов в широких размерах, будучи последствием экстенсивности сельского хозяйства, прежде ничем не ограничивалось, и рубка леса населением производилась, не соображаясь с требованиями местностей, часто в тех именно лесах, истребление которых может быть гибельно для всего края, как это и доказывается истреблением сосновых боров в <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинском</placeName> уезде, обнажением вследствие этого песчаного слоя и образованием движущихся песков. В последнее время предпринимаемое охранение лесов положило некоторые пределы произвольному лесоистреблению. Лес употребляется на постройки, дрова и на разного рода поделки; курят смолу и сдирают кожу для дубления. Кустарная промышленность мало развита и направлена на добывание и выделывание продуктов первой необходимости в повседневном домашнем быте, как то: изделий из льна и конопли (холста и неводов), шерсти ( сукон , войлока, валенок) и шкур, продуктов перегонки дерева и обожженной извести; к получению различных необходимейших поделок из дерева (посуды разного рода, саней, телег, дуг, колес, нарт и т. п.). В отчетном году населением губернии выделано изделий: из льна и конопли на 29 000 руб., из шерсти на 33 810 руб. 79 коп., из дерева на 42 201 руб. 90 коп., обработано овчин и шкур разных зверей на 6 485 руб. 75 коп., добыто смолы, дегтю и извести на 6 825 руб. 50 коп. и травяных изделий (ковриков) на 25 руб.; а всего выделано и добыто на сумму до 118 348 руб. 94 коп. Одним из важнейших промыслов значительного большинства населения губернии был извоз; он давно составляет характерную черту местного быта, предоставляя заработок в течение целого года; извозом занимались как крестьяне, так и многие из горожан. Большой сибирский тракт давал прежде</p>
+      <pb n="30"/>
+      <p>30 значительный заработок притрактовому населению, особенно в <placeName ref="#place_kansk" type="Места" subtype="Адм. единицы">Канском</placeName> уезде, где пролегает более половины этого тракта в губернии. Но по установлении железнодорожного сообщения через <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейскую губернию</placeName> извозный промысел почти совершенно прекратился. Промыслы — рыболовство и звероловство — преобладают почти исключительно в северной части губернии; из них рыболовство является главнейшим промыслом крестьянского и инородческого населения северной части <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейского</placeName> уезда и <placeName ref="#place_turukhansk_region" type="Места" subtype="Адм. единицы">Туруханского края</placeName>; в четырех южных уездах рыболовство служит подспорьем другим занятиям и источником собственного продовольствия. По имеющимся сведениям, в течение <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> по губернии добыто рыбы красной и белой и икры на сумму до 139 171 руб. Звероловством занимаются на всем пространстве губернии с тем лишь различием, что в северной части губернии, собственно в <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейском</placeName> уезде и <placeName ref="#place_turukhansk" type="Места" subtype="Адм. единицы">Туруханском</placeName> крае, промысел этот является постоянным существенным занятием жителей как инородцев, так и русских, и вместе с рыболовством служит единственным обеспечением их существования; в средней южной полосе губернии звероловством занимаются в виде подспорья другим промыслам, на крайнем же юге губернии им специально промышляют в тайге по отрогам Саян многие инородцы и некоторые из русских крестьян. Звериный промысел в губернии в <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> выразился добычею на сумму 169 832 руб. 70 коп. На золотых промыслах, расположенных в районе губернии, в отчетном году находилось рабочих 8 882; менее предыдущего года на 718 чел. Добыто золота 179 п. 36 ф. 2 з. 4 д.; менее же предыдущего года на 8 п. 30 ф. 91 з. 30 д. Работы производились на промыслах. Число приисков:</p>
+<ref target="#table_csv_table6" type="csv-table"/>
+      <pb n="31"/>
+      <p>31 Промыто песков, пудов:</p>
+<ref target="#table_csv_table7" type="csv-table"/>
+<p>Добыто золота:</p>
+<ref target="#table_csv_table8" type="csv-table"/>
+<p>Сложное содержание в 100 пуд. песку:</p>
+<ref target="#table_csv_table9" type="csv-table"/>
+<p>На приисках находилось:</p>
+<ref target="#table_csv_table10" type="csv-table"/>
+      <pb n="32"/>
+      <p>32 Военная стража на промыслах состояла из урядников и казаков <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярской</placeName> военной сотни, которых находилось на промыслах, человек:</p>
+<ref target="#table_csv_table11" type="csv-table"/>
+<p>Из того числа нанятых людей:</p>
+<ref target="#table_csv_table12" type="csv-table"/>
+<p>В продолжение летних работ:</p>
+<ref target="#table_csv_table13" type="csv-table"/>
+<p>Случаев скоропостижной и неестественной смерти было:</p>
+<ref target="#table_csv_table14" type="csv-table"/>
+      <pb n="33"/>
+      <p>33 На осенние и зимние работы осталось служащих и рабочих, число:</p>
+<ref target="#table_csv_table15" type="csv-table"/>
+<p>По отметкам приисковых управлений, побеги рабочих и неявка зависит частью от лености, нравственной испорченности и семейных обстоятельств. Естественные богатства <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> хотя и обширны, но до сих пор не способствовали развитию заводской деятельности вследствие малонаселенности губернии и малокультурности населения ее, отсутствия свободных капиталов и большого спроса на заводские изделия. Всех действующих заводов в <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> значится 750; но эта цифра не дает истинного понятия о действительном развитии заводской промышленности, так как большинство заводов не что иное, как небольшие ремесленные заведения в роде кожевенных, маслобойных (растительных масел) заводов, отчасти кирпичных, имеющих вообще характер кустарных производств для местных потребностей с незначительными денежными оборотами. Винокурение, начавшееся со времени учреждения в губернии акцизного управления, быстро развилось благодаря золотопромышленности и в настоящее время составляет важнейшую статью всей заводской промышленности. На всех заводах в губернии находилось 2 272 рабочих и выделывалось разных продуктов на 2 659 225 руб., в том числе на заводах винокуренных, занимавших первое место по производительности, — 1 642 770 руб., затем чугунолитейные — 199 000 руб., кожевенные — 157 022 руб., солеваренные — 103 389 руб., пивомедоваренные — 92 000 руб., водочные — 91 000 руб., стеклоделательные — 83 200 руб., салотопенные, свечные и мыловаренные — 67 643 руб., экипажные и кузнечные — 56 520 руб., лесопильный — 52 568 руб., крупчатные — 42 624 руб.,</p>
+      <pb n="34"/>
+      <p>34 кирпичные — 27 965 руб., маслобойные — 16 919 руб., канатные и веревочные — 9 790 руб., гончарные — 6 895 руб., прочие заводы не превышают 5 т. производительности. Фабрик в губернии нет. Изделия этих заводов вообще служат для местного потребления, только железные изделия отчасти вывозят в соседние губернии, <placeName ref="#place_irkutsk_province" type="Места" subtype="Адм. единицы">Иркутскую</placeName> и <placeName ref="#place_tomsk_province" type="Места" subtype="Адм. единицы">Томскую</placeName>, и сбываются в <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинском</placeName> уезде и <placeName ref="#place_усинском" type="Места" subtype="Адм. единицы">Усинском</placeName> крае жителям северной Монголии — сойотам — в обмен на разный скот. В отчетном году винокуренные заводы потребили хлеба менее предшествовавшего года на 42 267 пуд., и получено вина в полугаре менее же на 78 350,93 ведра. Количество перекуренных винокуренными заводами припасов и винокуренного вина было следующее:</p>
+<ref target="#table_csv_table16" type="csv-table"/>
+<p>Д. Лесустройство Работы по образованию заказников, начатые чинами лесоустройства в <date when="1895" type="auto" subtype="regex-fallback">1895 г.</date>, продолжались и в <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> Работы заключались в осмотре лесов вообще и в более подробном исследовании ценных лесных дач. В <placeName ref="#place_achinsk" type="Места" subtype="Адм. единицы">Ачинском</placeName> уезде отводились в 3 лесных дачах участки выборки для хвойных лесов и сплошные лесосеки для продажи лиственичного леса.</p>
+      <pb n="35"/>
+      <p>35 В <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярском</placeName> уезде производилось подробное исследование КимбирскоВеснинского заказника, расположенного в пределах <placeName ref="#place_нахвальской" type="Места" subtype="Адм. единицы">Нахвальской</placeName> волости и изъятого из свободного пользования обывателей в заказ <date when="1899" type="auto" subtype="regex-fallback">1899 г.</date> Общая площадь заказника 45 952 дес. При исследовании обращалось главное внимание на сосновые леса, которым составлялась подробная опись и оценка с целью определения размера, возможного по состоянии лесонасаждений, ежегодного отпуска сосновых лесных материалов и установление рациональной охраны для ценных сосновых участков. Подробные же исследования производились в Подъеменском заказнике <placeName ref="#place_еловской" type="Места" subtype="Адм. единицы">Еловской</placeName> волости, взятого в заказ в <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> Общая площадь Подъеменского заказника 44 991 дес . В течение <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> поступило доходов от лесов 217 023 руб., от оброчных статей 10 644 руб. 29 коп.; израсходовано на содержание управления 24 367 руб. 24 коп., лесных чинов — 56 671 руб. 18 коп., стражи — 31 017 руб. 67 коп. Случаев нарушения лесного устава было на сумму 10 336 руб. 98 коп.; истреблено пожарами на 9 568 руб. и выдано лесорубочных билетов на 5 018 руб. В конце года (с ноября месяца) открыта хозяйственная заготовка лесных материалов, которая привлекла к участию до 2 000 чел. местного населения. Е. Торговля В городах <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> в отчетном году выдано было для торговых предприятий 1-го разряда на торговые заведения годовых 18; на складочные помещения годовых 12, полугодовых 1; на развозный торг: годовых 165, полугодовых 32, на разносный торг: годовых 85, полугодовых 24; сословных купеческих свидетельств: I гильдии 3, II — 164; бесплатных билетов: на складочные помещения 1-го разряда 53, выдаваемых на основании п. 45 ст. 6 полож . 33; II разряда: на торговые заведения в местностях 3 класса годовых 137, полугодовых 8; IV класса годовых 1 000, полугодовых 30; на складочные к ним помещения 3 класса годовых 14; IV класса годовых 100, полугодовых 4, бесплатных билетов 1 383; III разряда: на торговые заведения в местностях III класса</p>
+      <pb n="36"/>
+      <p>36 годовых 383, полугодовых 50. IV класса годовых 1 875, полугодовых 145, на складочные к ним помещения 3-го класса годовых 7; IV класса годовых 44, полугодовых 2, бесплатных билетов 606; IV разряда: 3 класса годовых 237, полугодовых 44; IV класса годовых 718, полугодовых 185; свидетельств для промышленных предприятий повсеместно: IV разряда годовых 6; V разряда годовых 17, полугодовых 7; VI разряда 1-го класса годовых 3; 3 разряда годовых 16, полугодовых 1, 4 разряда годовых 16; VII разряда 1-го класса годовых 4, 3 класса годовых 13, полугодовых 1, 4 класса годовых 119, полугодовых 15; VIII разряда 3 класса годовых 69 , полугодовых 9; 4 класса годовых 279, полугодовых 15; для паровых судов 15; на подряды и поставки 1; бесплатные билеты на складочные помещения к промышленным предприятиям 130; на личные промысловые занятия IV разряда 3; 4 классов: годовых 38, полугодовых 2; V разряда для приказчиков I класса 1 разряда торговых и I, II и III разрядов промышленных предприятий повсеместно: годовых 21 , полугодовых 2; II разряда торговых и IV разряда промышленных предприятий 2, 3 и 4 классов годовых 295, полугодовых 46; III разряда торговых, и V, и VI разрядов промышленных предприятий 2, 3 и 4 классов годовых 658, полугодовых 152; VII и VIII разрядов промышленных предприятий 2, 3 и 4 классов: годовых 17, полугодовых 2; VII разряда для приказчиков 2 класса 1 разряда торговых и I, II и III разрядов промышленных предприятий повсеместно годовых 88, полугодовых 11; II разряда, IV и V разрядов промышленных предприятий повсеместно: годовых 471 и полугодовых 57. Всего промысловых свидетельств и билетов выдано 10 161; более предыдущего года на 339. Из числа выданных торговых свидетельств и билетов приходится на уезды: <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярский</placeName> 2 603, <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейский</placeName> 1 814, <placeName ref="#place_achinsk" type="Места" subtype="Адм. единицы">Ачинский</placeName> 1 275, <placeName ref="#place_kansk" type="Места" subtype="Адм. единицы">Канский</placeName> 1 515, <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинский</placeName> 2 954 и <placeName ref="#place_turukhansk_region" type="Места" subtype="Адм. единицы">Туруханский край</placeName> 266. Всех ярмарок в губернии было 22. Обороты более важных ярмарок в <placeName ref="#place_achinsk" type="Места" subtype="Адм. единицы">Ачинском</placeName> уезде были: Филипповской и Никольской (<placeName ref="#place_шарыповской" type="Места" subtype="Адм. единицы">Шарыповской</placeName> волости), Никольской (<placeName ref="#place_балахтинской" type="Места" subtype="Адм. единицы">Балахтинской</placeName> волости) и Рождественской (<placeName ref="#place_подсосенской" type="Места" subtype="Адм. единицы">Подсосенской</placeName> волости). В <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинском</placeName> уезде на шести ярмарках:</p>
+      <pb n="37"/>
+      <p>37 Рождественской, Покровской, Знаменской , Георгиевской, Крещенской и Введенской — привезено товара на 385 248 руб., а продано товара на 147 158 руб. Привоз составляли мануфактурные, колониальные, галантерейные товары и виноградные вина; а вывоз: хлеб, железо, кожи, овчина, конский волос и щетина. Ж. Движение населения (Приложением к этой статье служит ведомость № 3.) По сведениям о населении губернии, полученным по примеру прежних лет от полицейских управлений, к <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> состояло:</p>
+<p>а) В городах:</p>
+<ref target="#table_csv_table17" type="csv-table"/>
+<p>б) В уездах:</p>
+<ref target="#table_csv_table18" type="csv-table"/>
+<p>*) В этом числе заключаются и находившиеся в <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> на промыслах.</p>
+      <pb n="38"/>
+<p>38 в) По сословиям:</p>
+<ref target="#table_csv_table19" type="csv-table"/>
+            <pb n="39"/>
+<ref target="#table_csv_table20" type="csv-table"/>
+<p>На 100 душ мужчин приходится женщин в городах 66,
+в уездах — 82. г) По вероисповеданиям:</p>
+<ref target="#table_csv_table21" type="csv-table"/>
+           <p>Число раскольников составляет 1/22 православных. Иноверцы составляют 1/24 часть всего населения губернии.</p>
+      <pb n="40"/>
+      <p>40 В течение отчетного года было: 1. Родившихся:</p>
+<ref target="#table_csv_table22" type="csv-table"/>
+<p>а) законнорожденных  в городах: 1321 муж., 1315 жен.  округах: 14581 муж., 14000 жен.  гу бернии : 15902 муж., 15315 жен. б) незаконнорожденных  в городах: 168 муж., 168 жен.  округах: 1493 муж., 1452 жен.  гу бернии : 1661 муж., 1620 жен. Итого:  в городах: 1489 муж., 1483 жен.  округах: 16074 муж., 15452 жен.  гу бернии : 17563 муж., 16935 жен. 2. Умерших:</p>
+<ref target="#table_csv_table23" type="csv-table"/>
+<p>3. Браков: а) в городах — 488 б) уездах — 4518 Итого в губернии: 5006.</p>
+      <pb n="41"/>
+      <p>41 II. ПОДАТИ И ПОВИННОСТИII. ПОДАТИ И ПОВИННОСТИ (Приложением этой статьи служит ведомость № 4.) А. Окладные взыскания По подушной и оброчной податям, по сборам на межевание, на пособие в пожарных случаях и по экономическому капиталу движение было следующее: к <date when="1900-01-01" type="auto" subtype="regex-fallback">1 января 1900 г.</date> оставалось в недоимке 70 308 руб. 491/2 коп., в отчетном году причислено недоимок 6 819 руб. 38 коп., исключено недоимок 9 047 руб. 58 коп., за причислениями и исключениями причиталось к поступлению в отчетном году недоимок 68 080 руб. 29 коп. и оклада 6 997 руб. В счет платежей в отчетном году поступило по казначействам своей губернии оклада и недоимок 9 999 руб. 391/2 коп., зачтено за поступлением в прежние годы по своей и по другим губерниям оклада 41 руб. 741/2 коп., осталось в недоимке к <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> всего 65 036 руб. 15 коп. Кроме того, оставалось в недоимке к тому же 1 января налога с недвижимых имуществ и пени с налога 2 483 руб. 94 коп., на отчетный год причислено 728 руб. 87 коп., исключено 538 руб. 19 коп., за причислениями и исключениями причиталось к поступлению недоимок 2 674 руб. 62 коп. и оклада 18 000 руб.; в счет платежей отчетного года поступило по казначействам своей губернии в отчетном году оклада и недоимок 19 280 руб. 14 коп., осталось в недоимках к <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> 1 394 руб. 48 коп., а также по государственной оброчной подати: оставалось к <date when="1900-01-01" type="auto" subtype="regex-fallback">1 января 1900 г.</date> недоимок 53 048 руб. 79 коп., по отчетный год причислено 36 руб. 86 коп., исключено 3 руб. 31/2 коп., за причислениями и исключениями причиталось к поступлению недоимок всего 53 082 руб. 611/2 коп. и оклада 351 228 руб. 111/2 коп., в счет платежей отчетного года поступило по казначействам своей губернии в отчетном году оклада и недоимок 335 325 руб. 24 коп., зачтено за поступлением в прежние годы по своей и другим губерниям 695 руб. 47 коп., осталось в недоимках к <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> 68 289 руб. 52 коп., оброчной платы оставалось в недоимке 43 283 руб. 861/4 коп., причислено 791 руб. 96 коп., исключено 543 руб. 64 коп., за причислениями и исключениями причиталось к поступлению в отчетном году недоимок всего 43 532 руб.</p>
+      <pb n="42"/>
+      <p>42 181/4 коп. и оклада 24 270 руб. 65 коп., в счет платежей отчетного года поступило по казначействам своей губернии в отчетном году оклада и недоимок 24 239 руб. 98 коп. и зачтено за поступлением в прежние годы по своей и по другим губерниям 649 руб. 16 коп., осталось в недоимках к <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> 42 913 руб. 691/4 коп., государственной поземельной подати: оставалось в недоимке к <date when="1900-01-01" type="auto" subtype="regex-fallback">1 января 1900 г.</date> 616 руб. 79 коп., за причислениями и исключениями причиталось к поступлению недоимок 616 руб. 79 коп. и оклада 1 212 руб. 70 коп.; в счет платежей отчетного года поступило по казначействам своей губернии в отчетном году оклада и недоимок 1113 руб. 62 коп., осталось в недоимках к <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> 715 руб. 87 коп. Б. Земкие сборы Губернских земских сборов к <date when="1900-01-01" type="auto" subtype="regex-fallback">1 января 1900 г.</date> оставалось в недоимке 78 626 руб., в отчетном году причислено 6 511 руб. 30 коп., исключено 3 942 руб. 46 коп., за причислениями и исключениями причиталось к поступлению недоимок 81 194 руб. 84 коп. и оклада 324 192 руб. 51 1/2 коп.; в счет платежей отчетного года поступило по казначействам своей губернии в отчетном году оклада и недоимок 278 161 руб. 43/4 коп., зачтено за поступлением в прежние годы по своей и по другим губерниям оклада 454 руб. 11 1/2 коп., осталось в недоимках к <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> 126 772 руб. 191/4 коп. Частных земских повинностей к <date when="1900-01-01" type="auto" subtype="regex-fallback">1 января 1900 г.</date> оставалось в недоимке 4 834 руб. 85 1/4 коп., к тому причислено 43 руб. 40 3/4 коп., исключено 136 руб. 49 1/4 коп., за причислениями и исключениями причиталось к поступлению недоимок 4 741 руб. 76 3/4 коп., в счет платежей отчетного года поступило по казначействам своей губернии в отчетном году недоимок 193 руб. 66 коп., осталось в недоимках к <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> 4 548 руб. 10 3/4 коп., ясачного сбора с кочевых и бродячих инородцев в уездах к <date when="1900-01-01" type="auto" subtype="regex-fallback">1 января 1900 г.</date> числилось недоимок 3 564 руб. 97 коп., исключено в отчетном году 581 руб. 87 коп., за причислениями и исключениями причиталось к поступлению недоимок 2 983 руб. 10 коп. и оклада</p>
+      <pb n="43"/>
+      <p>43 2 536 руб. 10 коп., в счет платежей отчетного года поступило по казначействам своей губернии в отчетном году оклада и недоимок 764 руб. 39 коп. и зачтено за поступлением в прежние годы по своей и по другим губерниям 545 руб. 17 коп., осталось в недоимках к <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> 4 209 руб. 64 коп. Вообще же по всем вышеперечисленным податям и земским сборам с недоимками прежних лет причиталось в <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> к поступлению (за причислениями и исключениями) недоимок 256 906 руб. 21 коп. и оклада 728 437 руб. 8 коп., всего 985 343 руб. 29 коп.; в отчетном году поступило 671 463 руб. 631/4 коп., осталось в недоимке к <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> 313 879 руб. 651/4 коп. Из общей суммы недоимок самая значительная недоимка числится по государственной оброчной подати за лицами, состоящими в категории круговых плательщиков и за ссыльными разных категорий. В. О казенных доходах и расходах по казначействам <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> за <date when="1900" type="auto" subtype="regex-fallback">1900 год</date> Всех казенных доходов в <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> поступило 3 428 905 руб. 43 коп. Сумма эта составилась из следующих доходов: 1) подушных, оброчных и проч. окладных сборов 412 437 руб. 96 коп.; 2) питейно -акцизных и за казенное вино 2 125 459 руб. 87 коп.; 3) от оброчных статей 103 252 руб. 56 коп.; 4) неокладных сборов 787 755 руб. 4 коп. Казенных расходов произведено в <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> 2 973 180 руб. 17 коп. по нижеследующим ведомствам: по сметам государственного кредита 5 559 руб. 96 коп., по ведомству Святейшего синода 133 986 руб. 67 коп., по Министерству Императорского двора 645 руб. 27 коп., по Военному министерству 291 995 руб. 21 коп., по Министерству финансов 331 438 руб. 6 коп., по Министерству земледелия и государственных имуществ 299 763 руб. 60 коп., по <orgName ref="#org_ministry_internal" type="Организации" subtype="Гос. Органы">Министерству внутренних дел</orgName> 500 479 руб. 19 коп., высших государственных учреждений 10 руб., по Министерству народного просвещения 148 355 руб. 84 коп., по Министерству юстиции 430 954 руб. 21 коп., по Министерству путей сообщения ( чрезвыч . расходы) 1 002 руб. 12 коп., фонд вспомогательных предприятий Сибир-</p>
+      <pb n="44"/>
+      <p>44 ской железной дороги 436 324 руб. 28 коп., чрезвычайные расходы по военным обстоятельствам 392 465 руб. 76 коп. Доходы превысили расходы на 455 725 руб. 26 коп. По сведению этому не показаны суммы, составляющие кассовые обороты по доходу 3 125 196 руб. 7 коп. и по расходу 3 580 921 руб. 33 коп. Г. Отправление денежных повинностей Постоянные повинности В <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> было отбыто в <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> обывателями денежных повинностей. I. Дорожная повинность На устройство и содержание дорог, мостов, плотин (дамб), гатей и перевозов 2 800 руб. II. Содержание местного гражданского управления Содержание статистических комитетов 1 608 руб. 29 коп., квартирные деньги или наем квартир судебным следователям 1 400 руб., квартирные деньги или наем квартир мировым судьям 14 895 руб. 91 коп., квартирные деньги исправникам и их помощникам 3 600 руб., наем домов для становых приставов 3 472 руб. 21 коп., подводная повинность и расходы, ее заменяющие, — 10 386 руб., итого 36 569 руб. 5 коп. III. Содержание крестьянских учреждений Содержание чиновников по крестьянским делам и канцелярские расходы присутствий по крестьянским делам 64 670 руб. 22 коп. IV. Содержание врачебной и ветеринарной частей Содержание сельско -врачебной части 112 010 руб. 24 коп., содержание ветеринарного персонала 5 560 руб. 40 коп., выдача вознаграждения за убиваемый скот и истребленные предметы и другие расходы по ветеринарной части 150 руб., итого 119 998 руб. 20 коп. V. Воинская повинность Содержание уездных по воинской повинности присутствий 2 505 руб. 65 коп. VI. Начальное народное образование Пособие церковноприходским школам 14 900 руб. VII. Этапная повинность 3 934 руб. 90 коп.</p>
+      <pb n="45"/>
+      <p>45 IX. Запасная сумма 11 067 руб. 29 коп. Итого постоянной повинности в год 256 44 5 руб. 31 коп. Д. Городские доходы и расходы</p>
+<ref target="#table_csv_table24" type="csv-table"/>
+<p>В ведении городских управлений состояли следующие капиталы: 1) <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярского</placeName>: а) потомственной почетной гражданки Т. И. Щеголевой и сына ее <persName ref="#person_щеголева" type="Люди" subtype="Сословия (Купцы и прочее)">И. С. Щеголева</persName> на содержание стипендиатов ремесленного училища 96 100 руб.; б) стипендии генерал- майора Замятина 6 994 руб. 44 коп.; в) продовольственного капитала для бедных 4 381 руб. 48 коп.; г) общего благотворительного капитала 7 781 руб. 71 коп.; д) Т. И. и И. С. Щеголевых на содержание <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярской</placeName> богадельни на 59 кроватей 124 100 руб.; е) Т. И. Щеголевой на содержание сиропитательного дома 99 651 руб. 93 коп.; ж) ее же на вспомоществование пострадавшим от пожара 21 205 руб. 77 коп.; з) Щеголевых и Переплетчикова на устройство бесплатной столовой 8 300 руб.; и) Императора Александра II — 1 351 руб. 12 коп.; и) пожертвованный Н. К. Переплетчиковым на содержание в <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">Красноярске</placeName> мещанской женской школы 1 200 руб.; к) капитал, пожертвованный В. Ф. Хилковым — 2 138 руб. 16 коп. и Т. К. Матонным 955 руб. 87 коп.; л) городской публичной библиотеки, пожертвованный Н. К. Переплетчиковым и В. А. Даниловым, — 555 руб. 96 коп.; м) на содержание</p>
+      <pb n="46"/>
+      <p>46 народных училищ в <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">г. Красноярске</placeName> 10 525 руб. 1 коп.; н) городской лечебницы 16 100 руб.; о) городского сада 605 руб. 23 коп.; п) городского музея 1852 руб. 25 коп.; р) театра 2 803 руб. 65 коп. и запасного городского 18 837 руб. 91 коп. Из числа поименованных капиталов: городской употребляется на городские расходы, а на % с прочих капиталов содержится ремесленное училище, сиропитательный дом, богадельня и стипендиат в <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярской</placeName> мужской гимназии; проценты с благотворительных капиталов раздаются бедным единовременно пред Св. Пасхою и Рождеством Христовым, и постоянное пособие производится лицам беднейшим по усмотрению членов комитета Синельниковского благотворительного общества. Продовольственный капитал имеет значение запасного капитала, на который в неурожайные годы закупается хлеб для продажи бедным жителям по умеренным ценам, и на предмет урегулирования цен на хлеб от произвольного повышения таковых скупщиками. 2) <placeName ref="#place_achinsk" type="Места" subtype="Адм. единицы">Ачинского</placeName> городского капитала 6 937 руб. 481/2 коп., продовольственного капитала 1 123 руб. 36 коп., капитала богадельни 2 269 руб. 501/2 коп., капитала детского приюта 583 руб. 36 коп., страхового сбора 6 руб., партикулярных сумм, принадлежащих разным местам и лицам, — 350 руб. 44 коп., пожертвованных мясоторговцами на лечебницу 357 руб. 45 коп.; капитала на начальное образование 90 руб. 90 коп. и капитала на устройство бесплатной народной читальни 226 руб. 71 коп. 3) <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинского</placeName> — 18 135 руб. 15 коп., каковой капитал хранится в городском общественном банке и в сберегательной кассе. 4) <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейского</placeName> — 150 р. Обороты городских общественных банков в отчетном году были следующие: <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейского</placeName> до 360 731 руб. 69 коп., <placeName ref="#place_kansk" type="Места" subtype="Адм. единицы">Канского</placeName> — 283 843 руб. 38 коп. и <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинского</placeName> — 388 594 руб. 31 коп. Чистой прибыли получено в 1-м банке 1 173 руб. 75 коп., во 2-м — 228 руб. 53 коп. и 3-м — 11 084 руб. 26 коп. Е. Акцизные сборы Акцизного сбора в течение отчетного года поступило: подушных, оброчных и проч. окладных сборов 412 437 руб. 96 коп.; питейно -акцизных и за казенное вино 2 125 459 руб. 87 коп., от оброчных статей 103 252 руб. 56 коп. и неокладных</p>
+      <pb n="47"/>
+      <p>47 сборов 787 755 руб. 4 коп., всего 3 428 915 руб. 43 коп., более предыдущего года на 218 590 руб. 69 коп. В губернии находилось действующих винокуренных заводов 9, водочных 1, пивомедоваренных 2, оптовых винных и пивных складов 100, трактирных заведений 18, ренсковых погребов 86, портерных и пивных лавок 47, буфетов 25 и питейных домов 537. Погребов для русских виноградных вин 7. Ж. Отправление натуральных повинностей</p>
+<ref target="#table_csv_table25" type="csv-table"/>
+<p>З. Воинская повинность Воинская повинность отбывалась населением на основании Высочайше утвержденного Положения <date when="1874-01-01" type="auto" subtype="regex-fallback">1 января 1874 г.</date> По разверстке назначено к приему на службу — 1 124.</p>
+      <pb n="48"/>
+      <p>48 Для пополнения этого числа новобранцев состояло: а) по призывным спискам (ст. 122 уст.) — 4 329; б) по дополнительным спискам А (ст. 180, 389 и 390) — 0; в) по дополнит. Б (ст. 151) — 220. Итого: 4 549. В числе внесенных в призывные списки заключалось: а) имевших право на льготу по семейному положению:  1-го разряда — 1 132;  2-го разряда — 845;  3-го разряда — 248; Всего: 2 225. б) по вероисповеданию: 1) христиан — 4 267; 2) евреев — 37; 3) магометан — 25. в) по сословиям: 1) лиц, внесенных в ревизские сказки, а равно приписанных к обществам после ревизии (ст. 112 уст.) — 4 261; 2) лиц, изъятых от внесения в X народную перепись, а также вышедших после ревизии из податного состояния (ст. 113 уст.) — 68. В числе лиц, внесенных в дополнительный список Б, заключалось получивших отсрочку: 1) по имущественному положению (ст. 60) — 1; 1) на окончание образования (ст. 61–63) — 6; 2) по невозмужалости для поправления здоровья (ст. 47):  в 1-й разряд — 144;  во 2-й разряд — 50. По примечанию 1- му к ст. 60 уст. о воин. повин . — 19. Итого: 220. Из лиц, внесенных в призывные списки: а) получили отсрочку: 1) по имущественному положению (ст. 60) — 0; 2) на окончание образования (ст. 61, 63) — 17;</p>
+      <pb n="49"/>
+      <p>49 б) освобождено от жеребья (ст. 62), как заявивших желание исполнить воинскую повинность в качестве вольноопределяющихся — 5; в) Освобождено совсем от воинской повинности (ст. 79) — 1. При осмотре и приеме для пополнения назначенного числа новобранцев: I) Признано совсем неспособными к военной службе (ст. 182 п. 1): а) Из внесенных в призывные списки: 1) христиан — 315; 2) евреев — 2; 3) магометан — 2; б) Из числившихся по списку Б — 32. II. Признано годными к зачислению в ратники ополчения 2-го разряда (ст. 176): а) Из внесенных в призывные списки: 1) христиан — 183; 2) магометан — 2; б) Из числившихся по списку Б — 45. III. Назначено отсрочек по невозмужалости для излечения болезней (ст. 47): а) Из внесенных в призывные списки: 1) христиан — 120; б) Из числа числившихся по списку Б — 50. IV. Отсрочено вследствие нахождения под следствием и судом (ст. 169) — 5. V. Отправлено на испытание (ст. 170) — 110. Назначено к переосвидетельствованию (ст. 172): а) Из внесенных в призывные списки — 1; б) Из числа числившихся по списку Б — 1. VI. Не явилось к исполнению призыва: 1) христиан — 107; 2) евреев — 0; 3) магометан — 0. По списку Б — 7. Принято в войска: а) Из внесенных в призывные списки — 1042; б) Из внесенных в дополнительный список Б, поступление коих в войска было отсрочено:</p>
+      <pb n="50"/>
+      <p>50 На основании 47 ст. уст.: По истечении 1) отсрочки — 51; 2) отсрочки — 10; 3) на основании 60, 61, 63, 84 — 18. В с е г о принято: 1 121. Осталось в недоборе: 2) евреев — 2; 3) магометан — 1. В числе принятых заключается: a) Имевших право на льготу: 1) III разряда — 24; 2) II разряда — 12; б) Женатых — 332. Из них одиночек, семейство которых состоит только из жены и детей (цирк. Мин. вн. дел. <date when="1874-05-30" type="auto" subtype="regex-fallback">30 мая 1874 г.</date> № 32) — 8: в) Имеющих право на сокращенные сроки службы: 1) по 1 пунк . 84 ст. уст. — 0; 2) по 2 пунк . 84 ст. уст. — 21; 3) по 3 пунк . 84 ст. уст. — 61; г) Умеющих читать и писать или только читать — 267; Итого: 349. д) Зачисленных по приеме в запас на основании 80 ст. уст. — 3; е) Способных к службе:  строевой — 1 100;  нестроевой — 18; ж) Мерою роста: 1) в 2 арш . 21/2 вершка — 4; 2) до 2 арш . 3 верш . включительно — 24; 3) “ 2 “ 4 — 101; 4) “ 2 “ 5 — 247; 5) “ 2 “ 6 — 340; 6) “ 2 “ 7 — 255; 7) “ 2 “ 8 — 115; 8) “ 2 “ 9 — 25; 9) “ 2 “ 10 — 6; 10) “ 2 “ 11 — 1;</p>
+      <pb n="51"/>
+      <p>51 з) По сословиям: 1) лиц, внесенных в ревизские сказки, а равно приписанных к обществам после ревизии, — 1 111; 2) лиц, изъятых от внесения в Х народную перепись, а также вышедших после ревизии из податного состояния — 10; и) По происхождению: 1) русских (великороссов, малороссиян и белорусов ) — 1 105; 2) поляков — 3; 3) литовцев, жмудяков и латышей — 4; 4) эстов и прочих финских племен — 4; 5) евреев — 15; 6) татар — 5; и) По вероисповеданию: 1) православных и единоверцев — 1 086; 2) раскольников — 18; 3) прочих христиан — 8; 4) евреев — 4; 5) магометан — 5. Из числа принятых новобранцев: а) отправлено с места призыва в лечебные заведения (ст. 23 наставл . присутствиям ) — 10; б) отправлено с места призыва по назначению в войска — 6; в) распущено по домам, на основ. 177 ст. уст. — 1 102; Итого: 1 118. За пополнением контингента, при освидетельствовании (ст. 176 уст.) прочих призывавшихся лиц: I. Зачислено в ратники ополчения 1-го разряда: 1) христиан — 965; 2) евреев — 15; 3) магометан — 7. II. Зачислено в ратники ополчения 2-го разряда: 1) христиан — 1 197; 2) евреев — 12; 3) магометан — 5. III. Признано совсем неспособными: 1) христиан — 131;</p>
+      <pb n="52"/>
+      <p>52 2) евреев — 3; 3) магометан — 1. Не явилось к освидетельствованию: 1) христиан — 93; 2) евреев — 0; 3) магометан — 1. Итого: 2 430. II. О действиях присутствий по воинской повинности в течение отчетного года: Принято на замену состоящих на службе по 58 ст. уст. — 1. Принято на службу, на основании 173 ст. уст.: а) подлежащих переосвидетельствованию — 0; б) находившихся в лечебных заведениях на испытании — 42; в) не явившихся по призыву — 15; г) состоящих под следствием и судом — 2. Зачислено в запас из лиц, не внесенных в призывные списки <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> — 1. Итого: 60. Принято на службу на основании 180 и 181 ст. уст.: а) по дополнительному жеребью — 22; б) без жеребья — 0. Возвращено с действительной службы по семейному положению на основании 56 ст. уст. — 9. Привлечено к ответственности за нарушение законов о воинской повинности: а) по 384 ст. уст. — 3; б) по 386 ст. уст. — 3; в) по 387 ст. уст. — 1; г) по 389 ст. уст. — 1. Итого: 8. Определен возраст по наружному виду, по 159 ст. уст. — 417. Из них включено в призывные списки — 292. Причислено на основании 138, 139 и 140 ст. уст. в призывные участки — 7.</p>
+      <pb n="53"/>
+      <p>53 Отчислено от призывных участков на основании 138, 139 и 140 ст. уст. — 0. Выдано свидетельств о приписке к призывным участкам: а) лицам, означенным в 113 ст. уст. — 85; б) прочим лицам, обязанным по ст. 115 устава получить эти свидетельства — 0. Итого: 85. Выдано свидетельств о явке к исполнению воинской повинности, на основ. 182 ст. уст.: а) об освобождении от службы навсегда — 560; б) о зачислении в ратники ополчения 1-го разряда — 1 144; в) о зачислении в ратники ополчения 2-го разряда — 1 521; г) временных — 1960. Итого: 3 420. Поступило жалоб в уездные и городские воинские присутствия (ст. 244 уст.) на неправильности в призывных списках — 51. Из них признано уважительными — 24. Поступило жалоб в <orgName ref="#org_губернское_по_воинской_повинности_присутствие" type="Организации" subtype="Гос. Органы">губернское по воинской повинности присутствие</orgName> (ст. 228 уст.): а) на неправильности в призывных списках — 0; б) по определению неспособности к труду — 0; в) по назначению льгот — 11; г) по определению возраста по наружному виду — 0; д) по определению годности к службе — 8. Итого: 19. Из них признано уважительными: а) по назначению льгот — 1; б) по определению годности к службе — 3. Итого: 4. Израсходовано по призыву, приему на службу и на содержание городских и пяти уездных присутствий : а) от казны 1 803 руб. 79 коп. и б) из земских сборов 3 502 руб. 76 коп., а всего 5 306 руб. 55 коп.</p>
+      <pb n="54"/>
+      <p>54 III. ОБЩЕСТВЕННОЕ БЛАГОУСТРОЙСТВО И БЛАГОЧИНИЕ А. Казенные и общественные здания В отчетном году закончены работы по постройке зданий для городских больниц <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярской</placeName> и <placeName ref="#place_achinsk" type="Места" subtype="Адм. единицы">Ачинской</placeName> и переустроено здание <placeName ref="#place_kansk" type="Места" subtype="Адм. единицы">Канской</placeName> городской больницы, на что израсходовано 48 207 руб. 81 коп.; построена кухня при <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинском</placeName> уездном казначействе с расходом 790 руб.; ремонтированы: здание <placeName ref="#place_kansk" type="Места" subtype="Адм. единицы">Канского</placeName> казначейства за 4 500 руб. и здание <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейской</placeName> казенной палаты стоимостью 5 600 руб. 18 коп.; произведена часть работ по ремонту здания <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинского</placeName> уездного полицейского управления — в 700 руб. Построены: три моста через протоки р. Суры ( Инзы ) в <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинском</placeName> уезде стоимостью 2 444 руб. 75 коп.; мост через р. Мельничную в <placeName ref="#place_eniseysk" type="Места" subtype="Насел. пункты">г. Енисейске</placeName> — 1 985 руб. Всего израсходовано 64 227 руб. 74 коп. Б. Сухопутные сообщения: дороги, мосты, перевозы и почты В районе <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> в <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> было постоянных учреждений: почтово-телеграфных контор 7; почтово-телеграфных отделений 6; почтовых отделений 8; железнодорожных почтовых отделений 3; почтовых отделений при волостных правлениях 4. Почтовых станций состояло 31. По Красноярско -<placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейскому</placeName> тракту 16, по Ачинско -<placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинскому</placeName> тракту 15; на одной станции содержалось лошадей 5 пар, на одной 4 и на 29 станциях 58 пар, на которых в течение года выпущено 21 285 лошадей под отвоз почт и проезжающих. Жалоб на почтовых станциях заявлено в течение отчетного года 136, из них подтвердилось произведенными расследованиями 72. Протяжение телеграфных линий: а) в <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> на главной сибирской линии в пределах <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName>, проложенной вдоль полотна Сибирской железной дороги, заключалось: линии 584 вер ., проводов 2920 вер ., в том числе 1 566 вер. проводов от станции Тайшет до границы <placeName ref="#place_tomsk_province" type="Места" subtype="Адм. единицы">Томской губернии</placeName> подвешено к столбам железнодорожного телеграфа. Соединительные ветви: б) между почтово-телеграфными учреждениями и одноименными станциями Сибирской желез -</p>
+      <pb n="55"/>
+      <p>55 ной дороги <placeName ref="#place_kansk" type="Места" subtype="Насел. пункты">Канск</placeName>, <placeName ref="#place_rybinskoe" type="Места" subtype="Насел. пункты">Рыбинское</placeName>, <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">Красноярск</placeName> и <placeName ref="#place_achinsk" type="Места" subtype="Насел. пункты">Ачинск</placeName> было линий 371/2 вер ., проводов 63 1/2 вер .; в) между <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярском</placeName> и <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейском</placeName>: линий 330 вер ., проводов 330 вер .; г) между <placeName ref="#place_achinsk" type="Места" subtype="Адм. единицы">Ачинском</placeName> и <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинском</placeName>: линий 330 и проводов 330 вер .; д) между Корелиной и Балахтой 70 верст. Протяжение линии красноярской телефонной сети состояло: к <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> линии 17,55 верст и проводов 188,738 верст. Абонентов и переговорных пунктов 149. В. Водные сообщения Главное движение судоходства совершается по р. Енисею, протекающему во всех уездах губернии, кроме <placeName ref="#place_kansk" type="Места" subtype="Адм. единицы">Канского</placeName>. От <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">г. Красноярска</placeName> до <placeName ref="#place_eniseysk" type="Места" subtype="Насел. пункты">г. Енисейска</placeName> и <placeName ref="#place_minusinsk" type="Места" subtype="Насел. пункты">Минусинска</placeName> поддерживалось пароходное сообщение пароходами <persName ref="#person_гадалова" type="Люди" subtype="Сословия (Купцы и прочее)">Н. Н. Гадалова</persName> «Сибиряк» и «Дедушка», которыми сделано между <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярском</placeName>, <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейском</placeName> и <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинском</placeName> 28 рейсов и перевезено пассажиров и разного груза всего на сумму до 80 000 руб. <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейской</placeName> компанией пароходства и торговли почетного гражданина Александра Петровича Кытманова, коллежского асессора Александра Игнатьевича и ветеринара Петра Игнатьевича Кытмановых пароходами «<placeName ref="#place_enisey_river" type="Места" subtype="Географические точки">Енисей</placeName>» и «Игнатий» сделано по Енисею по два рейса: первым пароходом один рейс до Гольчихи , а второй — до Бреховских островов. На обоих пароходах перевезено груза: пушных товаров, рыбы и проч., а также пассажиров на сумму 89 715 руб. Вывозимый из <placeName ref="#place_enisei_okrug" type="Места" subtype="Насел. пункты">Енисейска</placeName> до Бреховских островов груз заключался в разных припасах и товарах, принадлежащих разным лицам на сумму 13 025 руб. По р. Ангаре пароходы «<placeName ref="#place_enisey_river" type="Места" subtype="Географические точки">Енисей</placeName>» и «Игнатий» в <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> не рейсировали ; из <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">Красноярска</placeName> же вывозной товар заключался преимущественно в привозном российском товаре, как то: мануфактурном, бакалейном, москательном, галантерейном, скобяном и проч.; доставляемый же в <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">Красноярск</placeName> груз заключался в китайских чаях: байховом и кирпичном, рыбе, пушнине, соли, зерновом и молотом хлебе. В <placeName ref="#place_turukhansk" type="Места" subtype="Адм. единицы">Туруханском</placeName> крае пароходы правильных рейсов не делали и ходили в низовья Енисея за рыбой, пушниной и для торговли мануфактурными, галантерейными и другими товарами.</p>
+      <pb n="56"/>
+      <p>56 В г. <placeName ref="#place_achinsk" type="Места" subtype="Насел. пункты">Ачинске</placeName> пароходное сообщение в отчетном году существовало по р. Енисею только в пределах <placeName ref="#place_даурской" type="Места" subtype="Адм. единицы">Даурской</placeName> волости и по р. <placeName ref="#place_chulym_river" type="Места" subtype="Географические точки">Чулыму</placeName> от устья его, находящегося в <placeName ref="#place_tomsk_province" type="Места" subtype="Адм. единицы">Томской</placeName> губ., и до села Бирилюсского. Бывшее в предшествовавшие годы движение пароходов из <placeName ref="#place_tomsk_province" type="Места" subtype="Адм. единицы">Томской</placeName> губ. до г. <placeName ref="#place_achinsk" type="Места" subtype="Насел. пункты">Ачинска</placeName> по случаю мелководья в <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> р. <placeName ref="#place_chulym_river" type="Места" subtype="Географические точки">Чулыма</placeName> прекратилось; вследствие этого тяжелые товары, получавшиеся в прежние годы водным путем, ныне были доставлены по железной дороге, от чего и цены на товары и предметы первой необходимости возвысились. Сплав хлеба и проч. с Даурской пристани производился на барках и плотах вниз по течению реки в <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">г. Красноярск</placeName> и <placeName ref="#place_enisei_okrug" type="Места" subtype="Насел. пункты">Енисейск</placeName> , представляя собою удобство сбыта произведений сельского хозяйства в другие уезды губернии. На устраиваемом по ВЫСОЧАЙШЕМУ повелению, последовавшему в 27 день июля <date when="1882" type="auto" subtype="regex-fallback">1882 г.</date>, Обь-<placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейском</placeName> водном канале в отчетном году сделано следующее. По сооружению Обь-<placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейского</placeName> водного пути за время с <date when="1900-01-01" type="auto" subtype="regex-fallback">1 января 1900 г.</date> по <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> произведены следующие работы: 1) На 179 версте, ст. Георгиевский: а) подготовительные работы и заготовка строительных материалов; б) постройка жилых и хозяйственных помещений и в) начаты постройкою шлюз и плотина. 2) На 190 версте, ст. Александровский : закончены вполне постройкою шлюз и плотина. Кроме всех вышеуказанных работ, в течение года производился по всему пути обыкновенный ремонт гидротехнических сооружений, пути, зданий, дорог и проч. К <date when="1900-01-01" type="auto" subtype="regex-fallback">1 января 1900 г.</date> на работах состояло рабочих 248 чел., к 1 июня увеличено до 410 чел. В июне вновь нанято и отправлено 319 чел., так что в начале лета было на работах 729 чел., из них постоянных: 5 старших и 33 младших сторожей при двух шлюзных десятниках. Летние работы закончились 20 сентября. На зимние работы оставлено было 391 чел. рабочих, из которых к <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> осталось 329 чел. На уплату рабочим и служащим и на приобретение разного инвентарного имущества, материалов, инструментов, фуража и проч. израсходовано 223 000 руб.</p>
+      <pb n="57"/>
+      <p>57 Работы в <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> по улучшению судоходных условий р. Ангары прекращены фактически уже к <date when="1899-01-01" type="auto" subtype="regex-fallback">1 января 1899 г.</date>, а казенное судоходство по названной реке закончилось с навигацией <date when="1898" type="auto" subtype="regex-fallback">1898 г.</date>, после чего контора заведывающего работами по р. Ангаре была переведена к <date when="1900-01-01" type="auto" subtype="regex-fallback">1 января 1900 г.</date> в С.-Петербург для сведения по работам окончательной отчетности; все же оставшееся от пароходства и работ имущество, впредь до предстоящей ликвидации его, сдано на хранение агенту заведывающего работами Дорофееву , жительствующему в с. Стрелке <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейского</placeName> уезда. Г. Народная нравственность (Приложением к этой статье служит ведомость № 5.) В отчетном году окружным судом рассмотрено 4 433 преступления и дел, к ним относящихся, по коим суждено 4 663 муж. и 533 жен ., всего 5 196 чел. По статьям уложения о наказаниях совершено 1 051 преступление, из этого общего числа падает на дела: о краже 265, о нарушении постановлений о питейном сборе, табачном сборе, об акцизе на сахар, нефтяном масле и спичек 180; о нанесении увечья, ран и других повреждений здоровью 114; о преступлениях по службе государственной и общественной 68; об оскорблении и явном неуважении к присутственным местам и чиновникам при отправлении должности 65; о смертоубийстве 59; об уклонении от воинской повинности 47; о грабеже 42; о бродяжестве 33; о самовольном присвоении власти и составлении подложных указов или предписаний и др. исходящих от правительства бумаг 17; о преступлениях против веры и постановлений церкви 13; о нарушении уставов монетных 13; о сопротивлении распоряжениям правительства и неповиновении установленным от оного властям 12; о преступлениях против общественной нравственности и нарушении ограждающих оную постановлений 12; о составлении подложных видов на жительство и проживание с видом подложным 11; о святотатстве 10; о зажигательстве 10; об угрозах 9; о разбое 8; о нарушении уставов торговых 7; о взломе тюрем, уводе и побеге находящихся под стражею или надзором 6; о возбуждении к начатию или продолжению противозаконных исков</p>
+      <pb n="58"/>
+      <p>58 и тяжб, о ложных доносах, лжесвидетельствах и ложных показаниях на повальных обысках 6; о преступлениях против чести и целомудрия женщин 6; о преступлениях и проступках по договорам и др. обязательствам 6; о клевете и распространении оскорбительных для чести сочинений, оскорблений или слухов 5; по прочим разрядам закононарушений число преступлений не превышает 4 % общего числа. По мировому уставу: о краже 1 593; о преступлениях против порядка управления 792; о нарушении устава о паспортах 544; о нарушении порядка и спокойствия 511; об оскорблении чести 471; об угрозах и насилии 333; о нарушении правил осторожности от пожаров 270; о похищении и повреждении чужого леса 234; о мошенничестве, обманах и присвоении чужого имущества 175; о порядках против личной безопасности 112; о проступках против общественного благоустройства 108; о самовольном пользовании чужим имуществом и повреждении оного 81; о проступках против народного здравия 66; о нарушении устава строительного 50; о нарушении уставов почтового и телеграфного 2. Кроме того, полицейскими управлениями было суждено по формальной полицейской расправе ссыльнопоселенцев 12 955 муж. и 612 жен ., преимущественно за бродяжество и кражу. Д. Ссыльные, этапы, тюрьмы и ссыльнокаторжные Всех ссыльных в <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> 58 106 муж. и 5 566 жен.; в течение <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> ссыльных поступило в губернию 397 муж. и 16 жен.; в том числе ссыльнопоселенцев 294 муж. и 13 жен ., водворяемо-рабочих 5 муж., сосланных на житье 20 муж. и административно-ссыльных 78 муж. и 3 жен. Все эти ссыльные распределены по губернии следующим образом:</p>
+<ref target="#table_csv_table26" type="csv-table"/>
+      <pb n="59"/>
+<ref target="#table_csv_table27" type="csv-table"/>
+      <p>59 Сверх того, с преступниками добровольно прибыло семейств: с ссыльнопоселенцами 24 муж., 60 жен., 63 дет. и административно-ссыльными 10 муж., 21 жен., 21 дет. Всего 34 муж., 81 жен. и детей 84. Передвижение ссыльных в пределах губернии производится по железной и грунтовым дорогам от <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">г. Красноярска</placeName> до <placeName ref="#place_eniseysk" type="Места" subtype="Насел. пункты">г. Енисейска</placeName> и <placeName ref="#place_minusinsk" type="Места" subtype="Насел. пункты">Минусинска</placeName> этапным порядком; в пункты же, расположенные в стороне от почтовых трактов, — натуральною повинностью сельского населения губернии. К отчетному году оставалось в тюрьмах арестантов: подсудимых 1 189 муж., 82 жен.; пересыльных и срочных 473 муж., 51 жен., всего 1 662 муж., 133 жен. В <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> поступило 16 365 муж., 2 279 жен., выбыло 16 488 муж., 2 341 жен. К <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> осталось подсудимых 1 046 муж., 83 жен., пересыльных и срочных 493 м., 116 жен. Всех содержащихся в тюрьмах в течение года было в <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">Красноярске</placeName> 11 186 муж., 2001 жен., <placeName ref="#place_enisei_okrug" type="Места" subtype="Насел. пункты">Енисейске</placeName> — 2 286 муж., 101 жен., <placeName ref="#place_kansk" type="Места" subtype="Насел. пункты">Канске</placeName> — 1 746 муж., 25 жен., <placeName ref="#place_achinsk" type="Места" subtype="Насел. пункты">Ачинске</placeName> — 2 299 муж., 109 жен. и <placeName ref="#place_minusinsk" type="Места" subtype="Насел. пункты">Минусинске</placeName> — 2 105 муж., 253 жен.; всего — 19 622 муж., 2 489 жен.; кроме сего, в течение года перебывало арестованных в 44 волостных правлениях губернии 8 930 муж., 516 жен. В <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">г. Красноярске</placeName> арестанты размещались в каменном тюремном замке и деревянных зданиях пересыльной тюрьмы. Здание тюремного замка в отношении прочности удовлетворительно, но не соответствует числу содержащихся в нем арестантов. Срочные и подсудимые арестанты содержались отдельно от пересыльных. Все содержащиеся, смотря по роду преступлений, распределяются и по отдельным камерам. Больница, баня и прачечная находятся в особых зданиях. Для большего</p>
+      <pb n="60"/>
+      <p>60 обеспечения порядка в тюрьме, удаленной от города, имеется особое двухэтажное здание для квартир надзирателей с наиболее необходимыми хозяйственными службами. В видах же улучшения медицинской части учреждена должность особого штатного врача с обязательством жить при тюрьме в квартире. В тюрьме устроена общая столовая. Хозяйственною частью и продовольствием арестантов заведывали директора тюремного комитета. Мясные продукты, провиант и комиссариатские припасы поставлялись с торгов подрядчиками, а прочие предметы заготовлялись хозяйственным способом чрез директоров. Все арестанты получали доброкачественную пищу, улучшавшуюся по случаю больших праздников; жалоб на неудовлетворительность пищи не было. Одежда строилась арестантским трудом из материалов, выписанных из России при содействии Главного тюремного управления. Для нравственного исправления арестантов еженедельно по субботам и воскресеньям, в двунадесятые праздники и табельные дни священником тюремной церкви отправлялось богослужение с общим песнопением всеми арестантами избранных молитв; в устроенной при тюрьме школе священником разъяснялись содержащимся тексты Св. Писания и читались жития святых; грамотные арестанты снабжались книгами духовно-нравственного содержания из тюремной библиотеки. Знающие мастерство занимались портняжным, сапожным, столярным и другими ремеслами в отдельном деревянном здании. Все хозяйственные работы по острогу исполнялись арестантами. Пересыльная тюрьма хотя выстроена в <date when="1885" type="auto" subtype="regex-fallback">1885 г.</date> в трех 2-этажных деревянных зданиях, но ни по удобству, ни по вместимости не соответствует своему назначению и требует ежегодно большого ремонта. При тюрьме находятся: кухня, амбар, подвал и каменная кладовая. Для предупреждения распространения эпидемических болезней среди арестантов вообще, и по бывшим примерам среди пересыльных в особенности, вместе с другими мерами имеется камера для дезинфекции вещей и холерные бараки. Арестантский труд применялся при всех хозяйственных работах на потребности тюрьмы, а равно и в тех случаях, когда в тюрьме содержались арестанты, знающие какое-либо</p>
+      <pb n="61"/>
+      <p>61 мастерство: плотничное, столярное и проч. Этими арестантами произведены постройка обмундирования арестантов и другие работы по заказам частных лиц, постройка и ремонт тюремных зданий. Для привлечения к труду арестантов, не знающих мастерства, построена мастерская для тканья холста, организован ассенизационный обоз и положено начало арестантскому кирпичному заводу. Производительность последнего предположено направить преимущественно к сооружению вообще казенных зданий, насколько это окажется возможным, и к городскому благоустройству. Общая сумма арестантских заработков определилась по тюрьмам:  <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярской</placeName> — 9 421 руб. 921/2 коп.;  <placeName ref="#place_achinsk" type="Места" subtype="Адм. единицы">Ачинской</placeName> — 1 371 руб. 64 коп.;  <placeName ref="#place_kansk" type="Места" subtype="Адм. единицы">Канской</placeName> — 433 руб. 78 коп.;  <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинской</placeName> — 692 руб. – коп.;  <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейской</placeName> — 668 руб. 29 коп. Для помещения детей преступников отдельно от родителей существует в <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">г. Красноярске</placeName> приют для арестантских детей, дом для которого построен в <date when="1885" type="auto" subtype="regex-fallback">1885 г.</date> на средства тюремного комитета и пожертвованные разными лицами деньги. В приюте этом в течение отчетного года находились 26 мальчиков и 27 девочек, всего 53 чел. Тюремные помещения в <placeName ref="#place_eniseysk" type="Места" subtype="Насел. пункты">г. Енисейске</placeName> удовлетворительны, в <placeName ref="#place_kansk" type="Места" subtype="Насел. пункты">Канске</placeName> же, и особенно <placeName ref="#place_achinsk" type="Места" subtype="Насел. пункты">Ачинске</placeName> и <placeName ref="#place_minusinsk" type="Места" subtype="Насел. пункты">Минусинске</placeName>, ветхи и по числу содержащихся оказываются тесными. Неудобство это, по возможности, устранялось чрез разные приспособления и поправки на счет казны и сумм тюремных отделений. Относительно нравственного исправления арестантов и проч. соблюдались те же меры, как и в губернской тюрьме. Движение сумм тюремного комитета было следующее: В комитете К <date when="1900-01-01" type="auto" subtype="regex-fallback">1 января 1900 г.</date> оставалось 12 965 руб. 16 коп. В <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> поступило всего казенных и частных 54 299 руб. 52 коп. В <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> израсходовано 55 323 руб. 91 коп. Осталось к <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> 11 938 руб. 77 коп.</p>
+      <pb n="62"/>
+      <p>62 В четырех отделениях К <date when="1900-01-01" type="auto" subtype="regex-fallback">1 января 1900 г.</date> оставалось 15 658 руб. 891/4 коп. В <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> поступило всего казенных и частных 34 965 руб. 711/2 коп. В <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> израсходовано 38 689 руб. 57 коп. Осталось к <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> 11 935 руб. 33/4 коп. В <orgName ref="#org_том_числе_комитет" type="Организации" subtype="Гос. Органы">том числе комитет</orgName> и его отделения имели в долгах: к <date when="1900-01-01" type="auto" subtype="regex-fallback">1 января 1900 г.</date> 14 620 руб. 931/2 коп., а к <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> долга состоит 11 161 руб. 87 коп., так что наличный капитал комитета с отделениями должен считаться к <date when="1901" type="auto" subtype="regex-fallback">1901 г.</date> в сумме 12 711 руб. 93 3/4 коп. Расходы были следующие: на содержание наличного состава служащих и канцелярские потребности 24 048 руб. 67 коп.; 2) на содержание арестантов и тюремных учреждений 59 174 руб. 30 коп. и 3) на содержание приюта арестантских детей в <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">г. Красноярске</placeName>, пособия посторонним учреждениям и лицам, уплату долгов, недоимок, начетов и проч. 6 611 руб. 60 коп., на содержание кирпичноделательного завода при <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярском</placeName> тюремном замке 2 942 руб. 13 коп. и на содержание ассенизационного обоза при той же тюрьме 1 238 руб. 78 коп., а всего 94 015 руб. 48 коп. Движение сумм экономического поселенческого капитала в течение отчетного года было следующее: к <date when="1900-01-01" type="auto" subtype="regex-fallback">1 января 1900 г.</date> оставалось: а) наличными деньгами 89 руб. 191/2 коп. и б) один билет 5 % с выигрышами займа Дворянского земельного банка в 100 руб., итого 189 руб. 191/2 коп. В течение отчетного года поступило: 1) с поселенцев 15 коп. сбора на основании 384 и 389 ст. ХIV т. уст. о ссыльн . — 1 550 руб. 1 коп.; 2) с золотопромышленников на основании 332 ст. XIV т. уст. о ссыльн . и 63 ст. правил о найме рабочих на частные золотые промысла за поселенцев, бывших у них на приисках, в экономический капитал по 1 руб. 50 коп. и на устройство оседлости по 1 руб. за каждого рабочего — 5 233 руб. 17 коп.; 3) деньги, оставшиеся после умерших ссыльных и вырученные чрез продажу их имущества, на основании 431 ст. XIV т. уст. о ссыльн ., 574 руб. 48 коп., тоже 1 билет 2 внутреннего 5 % с выигрышами займа № 46 — 100 руб.; 4) оставшиеся не выданными в пособие ссыльных за смертью их и по другим причинам — 849 руб. 41/2 коп.; 5) в возврат ссуд, выданных</p>
+      <pb n="63"/>
+      <p>63 в <date when="1899" type="auto" subtype="regex-fallback">1899 г.</date> ссыльным на посев хлебов, — 1 059 руб. 6 коп.; 6) % по билету за № 46 — 16 руб. 42 коп. Итого в приходе 9 382 руб. 471/2 коп., а с остатком — 9 571 руб. 67 коп. За то же время израсходовано: 1) выдано в пособие на пропитание поселенцам, подлежащим, на основании 395, 396 и 397 ст. XIV т. уст. о ссыльных, призрению в богадельне — 8 441 руб. 79 коп.; 2) уплачено врачебному отделению <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейского</placeName> губернского управления за призрение ссыльных в богадельне общественного призрения 753 руб. 51 коп.; 3) возвращено разным лицам за похороны ссыльнопоселенцев 49 руб. 71 коп.; 4) выдано на воспитание детей ссыльных 12 руб.; 5) возвращены как неправильно поступившие в экономический поселенческий капитал 95 коп.; 6) перечислено в губернский земский сбор за отправку в г. Самару для лечения от водобоязни поселенца <persName ref="#person_вахуркина" type="Люди" subtype="Сословия (Купцы и прочее)">Вахуркина</persName> 19 руб.; 7) употреблено на застрахование билета за № 46 — 3 руб. 15 коп., итого в расходе 9280 руб. 11 коп. Затем к <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> осталось: а) наличными деньгами 91 руб. 56 коп.; б) один билет 5 % с выигрышами займа Дворянского земельного банка 100 руб.; в) один билет 2-го внутреннего с выигрышами займа 100 руб. Итого 291 руб. 56 коп. Ж. Пожары (Приложением к этой статье служит ведомость № 6.) В течение отчетного года было в губернии пожаров 510; более предыдущего года на 103; причиненный ими убыток простирался до 107 863 руб. 25 коп., менее предшествовавшего года на 138 756 руб. 75 коп. Жертвами пожаров большею частью были овины с хлебом и надворные постройки. IV.IV. НАРОДНОЕ ЗДРАВИЕ НАРОДНОЕ ЗДРАВИЕ И ОБЩЕСТВЕННОЕ ПРИЗРЕНИЕИ ОБЩЕСТВЕННОЕ ПРИЗРЕНИЕ А. Врачи Всех врачей по <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> военного и гражданского ведомств в <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> состояло 59 и ветеринаров 10. Распределение их по городам было следующее: в <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">Красноярске</placeName> — 17</p>
+      <pb n="64"/>
+      <p>64 и 3 ветеринарных, <placeName ref="#place_enisei_okrug" type="Места" subtype="Насел. пункты">Енисейске</placeName> — 5 и 3 ветеринарных, <placeName ref="#place_kansk" type="Места" subtype="Насел. пункты">Канске</placeName> — 5 и 1 ветеринарный, <placeName ref="#place_achinsk" type="Места" subtype="Насел. пункты">Ачинске</placeName> — 3 и 1 ветеринарный, <placeName ref="#place_minusinsk" type="Места" subtype="Насел. пункты">Минусинске</placeName> — 2 и 1 ветеринарный и <placeName ref="#place_turukhansk" type="Места" subtype="Насел. пункты">Туруханске</placeName> — 1 врач; в уездах: <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярском</placeName> — 3 врача, <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейском</placeName> — 5, <placeName ref="#place_achinsk" type="Места" subtype="Адм. единицы">Ачинском</placeName> — 5, <placeName ref="#place_kansk" type="Места" subtype="Адм. единицы">Канском</placeName> — 5, <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинском</placeName> — 7 и <placeName ref="#place_усинском" type="Места" subtype="Адм. единицы">Усинском</placeName> крае — 1 и 1 ветеринарный. Из этого числа при врачебном отделении 3; городовых 2 (в <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">Красноярске</placeName> и <placeName ref="#place_enisei_okrug" type="Места" subtype="Насел. пункты">Енисейске</placeName> ); в других городах губернии городовых врачей нет: больничных 7, училищных 2, тюремных 1, военных 3, железнодорожных 3, переселенческих 2, городских 4 по приглашению думы, участковых 24, на золотых промыслах 2 и вольнопрактикующих в городах 8, ветеринаров 10. Б. Аптеки В <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> по <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> во всех городах, кроме заштатного города <placeName ref="#place_turukhansk" type="Места" subtype="Насел. пункты">Туруханска</placeName>, имелось 9 аптек: из них нормальных 5 и сельских 4. Нормальные: в <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">Красноярске</placeName> 2, <placeName ref="#place_enisei_okrug" type="Места" subtype="Насел. пункты">Енисейске</placeName> , <placeName ref="#place_achinsk" type="Места" subtype="Насел. пункты">Ачинске</placeName> и <placeName ref="#place_minusinsk" type="Места" subtype="Насел. пункты">Минусинске</placeName> по 1. Сельские : в г. <placeName ref="#place_kansk" type="Места" subtype="Насел. пункты">Канске</placeName>, с. <placeName ref="#place_rybinskoe" type="Места" subtype="Насел. пункты">Рыбинском</placeName>
+        <placeName ref="#place_kansk" type="Места" subtype="Адм. единицы">Канского</placeName> уезда, с. Абаканском <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинского</placeName> уезда и с. Балахтинском <placeName ref="#place_achinsk" type="Места" subtype="Адм. единицы">Ачинского</placeName> уезда. Общий оборот аптек и число поступивших в них рецептов был следующий:</p>
+<ref target="#table_csv_table28" type="csv-table"/>
+      <pb n="65"/>
+      <p>65 В. Оспопрививание Описанная в минувшем году система вознаграждения оспопрививателей по 10 коп. за каждое привитие продолжала существовать и в отчетном году; вследствие увеличения числа оспопрививателей и количество привитых детей значительно увеличилось, так, число привитых равняется уже 28 478; в <date when="1899" type="auto" subtype="regex-fallback">1899 г.</date> оно достигало только до 21 634. Несмотря однако же на значительное увеличение числа привитых оспою детей, случаи заболевания натуральною оспою все-таки появлялись, но, благодаря именно усиленному привитию, не имели эпидемического характера, а ограничились теми селениями, куда заносилась болезнь вновь прибывающими новоселами. Большее число заболеваний натуральной оспою падает на <placeName ref="#place_achinsk" type="Места" subtype="Адм. единицы">Ачинский</placeName> и <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинский</placeName> уезды, в первом было 135 заболеваний с 9 смертными случаями, а во втором — 280 с 16 смертными случаями. Г. Больницы и дома умалишенных Во всех городах <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> имеют городские больницы ведомства общественного призрения , а именно: в <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">г. Красноярске</placeName> на 125, <placeName ref="#place_enisei_okrug" type="Места" subtype="Насел. пункты">Енисейске</placeName> на 45, <placeName ref="#place_kansk" type="Места" subtype="Насел. пункты">Канске</placeName> на 40, <placeName ref="#place_achinsk" type="Места" subtype="Насел. пункты">Ачинске</placeName> и <placeName ref="#place_minusinsk" type="Места" subtype="Насел. пункты">Минусинске</placeName> на 35 кроватей каждая, а всего 280 кроватей в губернии для всего гражданского населения, равного 640 835 чел., такое количество кроватей далеко не может почитаться достаточным для губернии. Все больницы помещаются в собственных зданиях: в <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">Красноярске</placeName> — каменном, а прочие — в новых деревянных. При <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярской</placeName> больнице состоит единственный для всей губернии дом умалишенных на 20 кроватей. Но больных бывает всегда вдвое и более против положенного числа кроватей. Больные в настоящее время размещены: женщины в довольно просторном, заново отремонтированном отдельном деревянном корпусе; мужчины в отдельном двухэтажном каменном флигеле , находящемся на главном дворе богоугодных заведений (где прежде помещались женское и родовспомогательное отделения). Это помещение для психических больных мужчин тесно и мало удобно, за неимением достаточного места для гулянья больных, а также и ввиду того, что находится на меже с частным домом — что беспокойно как для</p>
+      <pb n="66"/>
+      <p>66 призреваемых , так и для соседей-жильцов. Прежние помещения для душевнобольных пришли в совершенную ветхость и за невозможностию их ремонтировать совершенно закрыты и надобностям больницы служить не могут. При доме умалишенных не имеется врача-психиатра, и поэтому призрение и врачевание больных не может быть вполне удовлетворительным. Общее число содержащихся в доме умалишенных в <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> было 169, из них умерло 26 человек. Дело призрения душевнобольных находится в очень неудовлетворительном состоянии. В <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">г. Красноярске</placeName> и <placeName ref="#place_kansk" type="Места" subtype="Насел. пункты">Канске</placeName> имеются военные лазареты; в других же городах губернии заболевшие нижние воинские чины помещаются в больницы общественного призрения . В <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">Красноярске</placeName>, <placeName ref="#place_enisei_okrug" type="Места" subtype="Насел. пункты">Енисейске</placeName> , <placeName ref="#place_achinsk" type="Места" subtype="Насел. пункты">Ачинске</placeName> и <placeName ref="#place_minusinsk" type="Места" subtype="Насел. пункты">Минусинске</placeName> функционировали городские амбулаторные лечебницы, обставленные весьма хорошо, и в них, кроме подачи медицинского совета, больные снабжаются бесплатно медикаментами. При <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярской</placeName> лечебнице имеется хирургический барак на 8 кроватей, очень хорошо обставленный, где оказывается помощь бедным больным бесплатно. В нем получили пособие 92 больных, которым было сделано 112 операций. Для проходящих переселенцев в г. <placeName ref="#place_achinsk" type="Места" subtype="Насел. пункты">Ачинске</placeName> и ст. Ольгинской имеются больнички с постоянными кроватями и содержанием на средства специального фонда вспомогательных предприятий Сибирской железной дороги. В <placeName ref="#place_turukhansk" type="Места" subtype="Адм. единицы">Туруханском</placeName> крае больные пользуются бесплатным лекарством от врача так же, как и сельское население в прочих уездах губернии. В существующей при обществе врачей в <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">г. Красноярске</placeName> женской фельдшерской школе находилось 67 учениц; из которых окончили курс и получили звание фельдшериц 20. Число пользованных в городских больницах в отчетном году было следующее:</p>
+<ref target="#table_csv_table29" type="csv-table"/>
+      <pb n="67"/>
+<ref target="#table_csv_table30" type="csv-table"/>
+      <p>67 Кроме городских больниц, в городах существуют еще тюремные больницы на средства <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейского</placeName> губернского попечительного общества о тюрьмах и его отделений: <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярская</placeName> на 150 кроватей, <placeName ref="#place_kansk" type="Места" subtype="Адм. единицы">Канская</placeName> на 40, <placeName ref="#place_achinsk" type="Места" subtype="Адм. единицы">Ачинская</placeName> на 35, <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинская</placeName> на 33 и <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейская</placeName> на 26. Число пользованных в тюремных больницах в отчетном году было следующее:</p>
+<ref target="#table_csv_table31" type="csv-table"/>
+<p>Сельское население губернии пользовалось даровыми лекарствами из имеющихся на 15 фельдшерских пунктах сельских аптечек, а приисковые рабочие — из частных аптек золотопромышленников. Аптеки и аптекарские магазины в отчетном году были обревизованы все, и никаких злоупотреблений или нарушений правил аптекарского устава не обнаружено. Д. Эпидемии и эпизоотии В <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> преобладающими заразными эпидемическими болезнями в <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> были: грипп 4 060, коклюш 1 716, брюшной тиф 2 216, дизентерия 554, скарлатина 793, корь 238 и др . Всех больных острозаразными болезнями было 14 140 с 318 смертными случаями. Наибольшая заболеваемость означенными болезнями наблюдалась</p>
+      <pb n="68"/>
+      <p>68 в <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинском</placeName> и <placeName ref="#place_achinsk" type="Места" subtype="Адм. единицы">Ачинском</placeName> уездах, а наименьшая — в <placeName ref="#place_kansk" type="Места" subtype="Адм. единицы">Канском</placeName> и <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейском</placeName>. Во 2-м участке <placeName ref="#place_kansk" type="Места" subtype="Адм. единицы">Канского</placeName> уезда был занесен новоселами сыпной тиф, который однако же ограничился одним только селением. Больных этим тифом было всего 27 человек с 2 смертными случаями. В 3-м участке <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейского</placeName> уезда продолжал существовать оставшийся еще от прошлого <date when="1899" type="auto" subtype="regex-fallback">1899 г.</date> брюшной тиф почти в течение всего года; всех больных этою болезнею в участке зарегистрировано 296 чел . с 15 смертными случаями. В отчетном году на домашних животных существовали следующие болезни: сибирская язва, оспа овец, эмфизематозный карбункул, чесотка, лишай, мокнущий лишай, сап, дифтерит и бешенство. Этими болезнями заболело в 54 пунктах с оставшимися от предыдущего года всего 1 133 головы, из них выздоровело 633, пало и убито 525. В числе заболевших животных было 259 лошадей, 368 голов крупного рогатого скота, 499 овец и 7 свиней. Е. Насильственные и случайные смерти (Приложением к этой статье служит ведомость № 7.) Смертоубийств в отчетном году в <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> было 123, а жертвами — муж. 105 и жен . 18; самоубийц — муж. 58, жен . 11; скоропостижно умерших — муж. 107 и жен . 18; найдено мертвых тел — муж. 28, жен . 7; жертвами случайной смерти — муж. 259, жен . 24; всего же от неестественной смерти умерло 537 муж. и 84 жен . Ж. Богадельни и другие благотворительные учреждения На счет бывшего <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейского</placeName> приказа общественного призрения , кроме 5 городовых больниц, содержалось в <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">Красноярске</placeName>: а) богадельня на 20 кроватей и 29 запасных для лиц разного звания, в которой содержалось 23 муж., 8 жен ., и богадельня для инвалидов на 20 же кроватей, в которой никто не призревался и б) родовспомогательное отделение с приютом для детей, по 6 кроватей для рожениц и детей, на содержание которых вместе с <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярскою</placeName> городскою</p>
+      <pb n="69"/>
+      <p>69 больницею израсходовано 34 298 руб. 61 коп.; на уездные же больницы израсходовано: в <placeName ref="#place_enisei_okrug" type="Места" subtype="Насел. пункты">Енисейске</placeName> — 6271 руб. 42 коп.; <placeName ref="#place_kansk" type="Места" subtype="Насел. пункты">Канске</placeName> — 7 486 руб. 54 коп., <placeName ref="#place_achinsk" type="Места" subtype="Насел. пункты">Ачинске</placeName> — 5 540 руб. 41 коп. и <placeName ref="#place_minusinsk" type="Места" subtype="Насел. пункты">Минусинске</placeName> — 5 586 руб. 161/2 коп. В красноярской Щеголевской богадельне, учрежденной в <date when="1875" type="auto" subtype="regex-fallback">1875 г.</date>, в течение отчетного года средним числом содержалось 60 чел. разного звания лиц бедных и престарелых; содержание их обошлось в 4 167 руб. 68 коп. Богадельня эта содержится на проценты с основного капитала всего 124 000 руб., пожертвованного Т. П. Щеголевой и И. С. <persName ref="#person_токаревой" type="Люди" subtype="Сословия (Купцы и прочее)">Токаревой</persName> . В <date when="1874" type="auto" subtype="regex-fallback">1874 г.</date> в <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">Красноярске</placeName> учреждено Синельниковское общество благотворителей и попечения сирот по уставу, утвержденному <date when="1875-05-24" type="auto" subtype="regex-fallback">24 мая 1875 г.</date> министром внутренних дел. По уставу, утвержденному управляющим <orgName ref="#org_ministry_internal" type="Организации" subtype="Гос. Органы">Министерством внутренних дел</orgName>
+        <date when="1884-07-07" type="auto" subtype="regex-fallback">7 июля 1884 г.</date>, открыто в <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">г. Красноярске</placeName> общество попечения о начальном образовании. В <date when="1885" type="auto" subtype="regex-fallback">1885 г.</date> открыта городскою думою бесплатная лечебница для приходящих, помещающаяся с <date when="1888" type="auto" subtype="regex-fallback">1888 г.</date> в собственном каменном доме, устроенном на пожертвованный почетным гражданином Л. П. <persName ref="#person_кузнецовым" type="Люди" subtype="Сословия (Купцы и прочее)">Кузнецовым</persName> капитал. При лечебнице имеется Александровский хирургический барак. Заведения эти находятся в заведовании общества врачей. <date when="1899-02-12" type="auto" subtype="regex-fallback">12 февраля 1899 г.</date> в <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">г. Красноярске</placeName> открыт общественный музей и библиотека, <date when="1882-01-14" type="auto" subtype="regex-fallback">14 января 1882 г.</date> открыт при <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярской</placeName> городской управе ломбард по уставу, утвержденному г. министром внутренних дел <date when="1898-09-13" type="auto" subtype="regex-fallback">13 сентября 1898 г.</date>; ломбард помещается в здании городской управы. В декабре <date when="1898" type="auto" subtype="regex-fallback">1898 г.</date> открыта городскою думою общественная чайная, которая помещается на базарной площади. В <placeName ref="#place_eniseysk" type="Места" subtype="Насел. пункты">г. Енисейске</placeName> существует одна богадельня приблизительно на 25 чел., содержится на средства города; призреваются в ней престарелые мещане. В г. <placeName ref="#place_achinsk" type="Места" subtype="Насел. пункты">Ачинске</placeName> на средства городского общества содержится богадельня и ночлежный дом; в первой призревалось до 15 чел. муж. и 10 жен., а во второй — правильной организации не имелось. В г. <placeName ref="#place_kansk" type="Места" subtype="Насел. пункты">Канске</placeName> для бедных престарелых жителей содержится на счет городских средств особый для их приюта дом. Сельских богаделен 14, именно: одна в <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярском</placeName> уезде в селе Кекурском <placeName ref="#place_нахвальской" type="Места" subtype="Адм. единицы">Нахвальской</placeName> волости, где отведено деревянное здание для</p>
+      <pb n="70"/>
+      <p>70 помещения престарелых и безродных, которые содержатся на % с капитала, пожертвованного умершим купцом Матониным ; одна в <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейском</placeName> уезде — в селе Анциферовском — содержится на % с капитала, завещанного в пользу ее умершим коммерции советником Кытмановым; в <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> призревалось в ней 5 чел. В <placeName ref="#place_achinsk" type="Места" subtype="Адм. единицы">Ачинском</placeName> 4 богадельни — в с. Балахтинском, Назаровском, Ужурском и <persName ref="#person_шарыповском" type="Люди" subtype="Сословия (Купцы и прочее)">Шарыповском</persName>, в которых призревались престарелые: дряхлые крестьяне, отставные солдаты и ссыльнопоселенцы. Крестьяне и солдаты призревались на средства, ассигнуемые сельскими обществами, а ссыльнопоселенцы — на отпускаемое денежное от казны пособие и на доброхотные приношения. В <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинском</placeName> уезде 6 богаделен: в с. Новоселовском, Абаканском, <placeName ref="#place_tesinskaya_volost" type="Места" subtype="Адм. единицы">Тесинском</placeName> , Каратузском , Шушенском и Бейском . В <placeName ref="#place_kansk" type="Места" subtype="Адм. единицы">Канском</placeName> уезде 2 богадельни: в <placeName ref="#place_rybinskoe" type="Места" subtype="Насел. пункты">селе Рыбинском</placeName> и Тасеевском , которые отопляются и освещаются на счет общества, а содержание призреваемых доставляется благотворителями. Кроме сего, к числу благотворительных заведений относится <placeName ref="#place_александровский" type="Места" subtype="Насел. пункты">Александровский</placeName> дом призрения бедных детей в <placeName ref="#place_eniseysk" type="Места" subtype="Насел. пункты">г. Енисейске</placeName>, построенный в память события <date when="1866-04-04" type="auto" subtype="regex-fallback">4 апреля 1866 г.</date> В течение года призревалось в нем 20 чел. детей бедных мещан и других сословий, на что употреблено 1 760 руб. В ведении бывшего <orgName ref="#org_prikaz_public_welfare" type="Организации" subtype="Гос. Органы">Приказа общественного призрения</orgName> состоят к <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> следующие капиталы:</p>
+<ref target="#table_csv_table32" type="csv-table"/>
+      <pb n="71"/>
+<ref target="#table_csv_table33" type="csv-table"/>
+      <p>71 Примечание: 1) по капиталу 1-го разряда: К <date when="1900-01-01" type="auto" subtype="regex-fallback">1 января 1900 г.</date> в наличности состояло 119 929 руб. 991/4 коп., в течение отчетного <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> поступило 63 144 руб. 80 коп., и всего в приходе с остаточными — 183 074 руб. 791/4 коп., из них за то же время произведено в расход 59 318 руб. 21 коп. Затем к 1 числу января месяца <date when="1901" type="auto" subtype="regex-fallback">1901 г.</date> состоит 123 756 руб. 58 1/4 коп., из них: а) в основном капитале: в 4% конвертированных облигациях бывшего Главного общества российских железных дорог на 75 000 руб., в 4 % государственной ренте (именной) на 38 900 руб. и на предъявителя 3 800 руб., и книжкою сберегательной кассы на 39 руб. 15 коп. и б) в расходном капитале: 4% государственной рентой 200 руб. и наличными деньгами 5 817 руб. 431/4 коп. В суммах прихода 63 144 руб. 80 коп. и расхода 59 318 руб. 21 коп. заключаются 200 руб., переданные на покупку 4% государственной ренты, и 39 руб. 15 коп., внесенные на книжку сберегательной кассы. 2) по капиталу 2-го разряда строительному: К <date when="1900-01-01" type="auto" subtype="regex-fallback">1 января 1900 г.</date> состояло 113 638 руб. 50 1/2 коп., за время отчетного года поступило: а) действительного прихода в % по купонам 3 514 руб. 64 коп. и б) по кассовым</p>
+      <pb n="72"/>
+      <p>72 оборотам: вырученные от продажи из общего остатка % бумаг 39 246 руб. 19 коп. и поступило остатка от выданного аванса 36 руб., а всего в приходе с остаточными 156 435 руб. 331/2 коп., из них в течение того же отчетного года израсходовано: а) на постройку больниц и ремонт их 35 765 руб. 94 коп. и б) продано % бумаг на 38 700 руб. и, наконец, предъявлено к обмену и продаже % бумаг на 72 000 руб., каковая сумма, за исключением курсовой стоимости в день продажи или обмена % бумаг, и ожидается к поступлению в <date when="1901" type="auto" subtype="regex-fallback">1901 г.</date>, и всего в расходе 146 465 руб. 94 коп. Затем к <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> в наличности состоит наличными деньгами 9969 руб. 391/2 коп. 3) по тому же капиталу 2-го разряда инородческому: К <date when="1900-01-01" type="auto" subtype="regex-fallback">1 января 1900 г.</date> состояло 3730 руб. 35 коп., в течение отчетного года поступило: а) действительного прихода в % по купонам 62 руб. 70 коп.; б) приобретено покупкою 4 % государственной ренты на 700 руб.; в) поступило: остатки от покупки этих % бумаг 3 руб. 47 коп. и от продажи 31/2 % листов Дворянского земельного банка 644 руб. 26 коп., а всего в приходе с остаточными — 5 140 руб. 78 коп., из них за то же время израсходовано: а) продано 3 1/2 % листов Дворянского земельного банке на 700 руб.; б) передано в отделение банка для покупки 4 % государственной ренты наличными деньгами 700 руб., итого в расходе — 1 400 руб. Затем к <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> в наличности состоит 3 740 руб. 78 коп., из них: а) в 4% государственной ренте 2 700 руб. и б) в 31/2 % листе Дворянского земельного банка 1 000 руб. и наличными деньгами 40 руб. 78 коп. 4) по тому же капиталу 2-го разряда кружечному в пользу богоугодных заведений: К <date when="1900-01-01" type="auto" subtype="regex-fallback">1 января 1900 г.</date> состояло и тоже на <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> состоит 1 369 руб. 8 1/4 коп., из них: а) 4 % государственной рентой 1 300 руб. и наличными деньгами 69 руб. 81/4 коп. 5) по капиталу 3 разряда апелляционному: К <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> состояло 591 руб. 45 1/2 коп., к ним в течение отчетного года поступило: а) действительного прихода 57 руб. 87 коп.; б) остатка от покупки % бумаг 33 руб. 22 коп. и в) приобретено покупкою 4 % государственной ренты на 300 руб., а всего в приходе с остаточными —</p>
+      <pb n="73"/>
+      <p>73 982 руб. 541/2 коп., из них за это же время передано в отделение Государственного банка для покупки 4 % государственной ренты наличными деньгами 330 руб. Затем к <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> в наличности состоит 652 руб. 541/2 коп., из них: а) 4 % государственной рентой 600 руб. и б) наличными деньгами 52 руб. 541/2 коп. 6) по капиталу 4-го разряда Молотилина : К <date when="1900-01-01" type="auto" subtype="regex-fallback">1 января 1900 г.</date> состояло 604 руб. 34 коп., к ним в течение отчетного года поступило % 22 руб. 80 коп.; а всего в приходе с остаточными — 627 руб. 14 коп., каковая сумма и состоит в наличности на <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date>, из них: в 4 % государственной ренте 600 руб. и наличными деньгами 27 руб. 14 коп. 7) по тому же капиталу 4-го разряда, пожертвованному на сооружение церкви при красноярских богоугодных заведениях. К <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> в наличности состояло 1 980 руб. 60 коп., к ним в течение отчетного года поступило: а) действительного прихода в % 73 руб. 15 коп.; б) остатки от покупки 4 % государственной ренты 3 руб. 15 коп.; в) приобретено на наличные деньги покупкою 4 % государственной ренты 100 руб., а всего в приходе с остаточными — 2 156 руб. 90 коп., из них за это же время передано в отделение Государственного банка для покупки 4 % государственной ренты 100 руб. Затем к <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> в наличности состоит 2 056 руб. 90 коп., из них: в 4 % государственной ренте 2 000 руб. и наличными деньгами 56 руб. 90 коп. V.V. НАРОДНОЕ ОБРАЗОВАНИЕ НАРОДНОЕ ОБРАЗОВАНИЕ А. Учебные и воспитательные заведения (Приложением к этой статье служит ведомость № 8.) Учебных заведений в губернии к <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> числилось 309, учащихся в них было 9 652 муж. и 4 358 жен. п., всего — 14 010 чел., более чем в предшествовавшем году на 2 348 учащихся. В общее число учебных заведений входило:</p>
+      <pb n="74"/>
+      <p>74 а) 71 сельских начальных с 3 329 учащимися обоего пола, 2352 муж. п. и 977 жен. п.; б) 126 церковноприходских школ и 53 школ грамотности с 5 457 учащимися. Если сравнить положение народного образования в <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> за предшествовавшие 5 лет отчетным <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date>, то оказывается, что в <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> всех учебных заведений было 309, а учащихся во всех учебных заведениях — 14 010 чел . обоего пола, причем при населении губернии в <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> около 607 851 чел. одно низшее учебное заведение приходилось на 4 308 чел. На средства частных лиц существуют Кекурское, <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярское</placeName> ремесленное Щеголевой и Каратузское . В материальном отношении училища обеспечены недостаточно. К числу воспитательных заведений относятся: приют арестантских детей, о котором упомянуто в ст. о тюрьмах, и красноярское Щеголевское ремесленное училище, содержимое на % с капитала, пожертвованного потомственною почетною гражданкою Т. И. Щеголевой , 87 200 руб., сыном ее И. С. Щеголевым 4 000 руб., красноярским мещанином Н. К. Переплетчиковым 200 руб. и ремесленным обществом 100 руб., всего 91 500 руб. Училище помещается в каменном здании, пожертвованном Щеголевой . В училище обучаются пансионеры и своекоштные. Пансионеры , а также и прислуга, помещаются на всем готовом содержании в самом здании училища. Существующее число школ в губернии далеко не удовлетворяет потребности в образовании. Б. Музеи В <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName> три музея — в <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">Красноярске</placeName>, <placeName ref="#place_minusinsk" type="Места" subtype="Насел. пункты">Минусинске</placeName> и <placeName ref="#place_enisei_okrug" type="Места" subtype="Насел. пункты">Енисейске</placeName> ; при музее имеются библиотеки. Общее состояние музеев к <date when="1901-01-01" type="auto" subtype="regex-fallback">1 января 1901 г.</date> характеризуется следующими данными: <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярский</placeName> музей имеет предметов: в сельскохозяйственном отделе 559, в естественно-историческом — 7 585, этнографическом — 623, археологическом — 3 384, промышленном — 701, нумизматическом — 1 271, всего — 14 123; более прошлого <date when="1899" type="auto" subtype="regex-fallback">1899 г.</date> на 937. <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинский</placeName> музей имел предметов естественно-исторического отдела 19 012, антропологического — 573, этнографиче -</p>
+      <pb n="75"/>
+      <p>75 ского — 2 404, археологического — 13 561; горнопромышленного — 1 131; промышленного — 2 099, сельскохозяйственного — 2 914, образовательного — 9 237, г. <placeName ref="#place_minusinsk" type="Места" subtype="Насел. пункты">Минусинска</placeName> — 462, нумизматического — 2 469, в лаборатории и рабочем кабинете — 262, всего — 54 074, более предшествовавшего года на 2 573. В общественной библиотеке было сочинений 15 849, в 20 064 томах, на сумму 28 208 руб. <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейский</placeName> музей имеет предметов местных естественноисторического отдела 9 525, антропологического — 3 036, технического — 1 589, книг , чертежей, планов, картин и проч. — 2 042, и неместных произведений и монет 2 818, число предметов музея в текущем году увеличилось. <placeName ref="#place_krasnoyarsk" type="Места" subtype="Адм. единицы">Красноярский</placeName> музей, за неимением еще средств, вполне достаточных на постройку собственного здания на отведенном городскою думою месте, временно помещается в наемном здании; <placeName ref="#place_minusinsk" type="Места" subtype="Адм. единицы">Минусинский</placeName> музей — в специально построенном для него здании. VI.ДВИЖЕНИЕ ПЕРЕСЕЛЕНИЯ ПО ЕНИСЕЙСКОЙ ГУБЕРНИИ И ОБРАЗОВАНИЕ ПЕРЕСЕЛЕНЧЕСКИХ УЧАСТКОВ Движение переселенцев производилось в <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date> от <placeName ref="#place_tomsk_province" type="Места" subtype="Насел. пункты">Томска</placeName> до городов <placeName ref="#place_achinsk" type="Места" subtype="Насел. пункты">Ачинска</placeName>, <placeName ref="#place_krasnoyarsk" type="auto" subtype="heuristic-dictionary">Красноярска</placeName> и <placeName ref="#place_kansk" type="Места" subtype="Насел. пункты">Канска</placeName> по Сибирской железной дороге; до <placeName ref="#place_minusinsk" type="Места" subtype="Насел. пункты">Минусинска</placeName> же — тележным передвижением. Город <placeName ref="#place_achinsk" type="Места" subtype="Насел. пункты">Ачинск</placeName> был трактом, где велась правильная регистрация всех проходящих переселенцев как в другие города <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName>, так и дальше в <placeName ref="#place_eastern_siberia" type="Места" subtype="Географические точки">Восточную Сибирь</placeName>. Размер движения переселенцев виден из прилагаемых при сем ведомостей. Случаи обратного движения переселенцев, хотя и наблюдались в <date when="1900" type="auto" subtype="regex-fallback">1900 г.</date>, но были сравнительно редки и обуславливались, как и в минувшие годы, трудностью устройства самостоятельного хозяйства, отсутствием заработков около поселков новоселов, еще не окрепших в хозяйстве, недостаточностью получаемого переселенцами пособия и проч.</p>
+      <pb n="76"/>
+      <p>76 ПО АЧИНСКОМУ УЕЗДУ</p>
+<ref target="#table_csv_table34" type="csv-table"/>
+      <pb n="77"/>
+<ref target="#table_csv_table35" type="csv-table"/>
+      <pb n="78"/>
+      <p>78 ПО КРАСНОЯРСКОМУ УЕЗДУ</p>
+<ref target="#table_csv_table36" type="csv-table"/>
+      <pb n="79"/>
+<ref target="#table_csv_table37" type="csv-table"/>
+      <pb n="80"/>
+      <p>80 ПО КАНСКОМУ УЕЗДУ</p>
+<ref target="#table_csv_table38" type="csv-table"/>
+      <pb n="81"/>
+<ref target="#table_csv_table39" type="csv-table"/>
+            <pb n="82"/>
+      <p>82 ПО МИНУСИНСКОМУ УЕЗДУПО МИНУСИНСКОМУ УЕЗДУ</p>
+<ref target="#table_csv_table40" type="csv-table"/>
+      <pb n="83"/>
+<ref target="#table_csv_table41" type="csv-table"/>
+            <pb n="84"/>
+      <pb n="85"/>
+      <p>85 ВЕДОМОСТИ К ОБЗОРУ ЕНИСЕЙСКОЙ ГУБЕРНИИ ЗА 1900 ГОД</p>
+      <pb n="86"/>
+      <p>86 ВЕДОМОСТЬ О ПОСЕВЕ И УРОЖАЕ ХЛЕБА</p>
+       <ref target="#table_csv_table42" type="csv-table"/>
+      <pb n="87"/>
+      <ref target="#table_csv_table43" type="csv-table"/>
+      <pb n="88"/>
+      <p>88 ВЕДОМОСТЬ О ФАБРИКАХ И ЗАВОДАХ В ЕНИСЕЙСКОЙ ГУБЕРНИИ ЗА 1900 ГОД</p>
+      <ref target="#table_csv_table44" type="csv-table"/>
+      <pb n="89"/>
+      <ref target="#table_csv_table45" type="csv-table"/>
+      <pb n="90"/>
+      <p>90 ВЕДОМОСТЬ О ДВИЖЕНИИ НАСЕЛЕНИЯ В ЕНИСЕЙСКОЙ ГУБЕРНИИ ЗА 1900 ГОД</p>
+      <ref target="#table_csv_table46" type="csv-table"/>
+      <pb n="91"/>
+      <ref target="#table_csv_table47" type="csv-table"/>
+      <pb n="92"/>
+      <p>92 ВЕДОМОСТЬ О ПОСТУПЛЕНИИ СБОРОВ И НЕДОИМОК В ЕНИСЕЙСКОЙ ГУБЕРНИИ ЗА 1900 ГОД</p>
+      <ref target="#table_csv_table48" type="csv-table"/>
+      <pb n="93"/>
+      <ref target="#table_csv_table49" type="csv-table"/>
+      <pb n="94"/>
+      <ref target="#table_csv_table50" type="csv-table"/>
+      <pb n="95"/>
+      <ref target="#table_csv_table51" type="csv-table"/>
+      <pb n="96"/>
+      <ref target="#table_csv_table52" type="csv-table"/>
+      <pb n="97"/>
+      <ref target="#table_csv_table53" type="csv-table"/>
+      <pb n="98"/>
+      <p>98 ВЕДОМОСТЬ О ЧИСЛЕ И РОДЕ ПРЕСТУПЛЕНИЙ В ЕНИСЕЙСКОЙ ГУБЕРНИИ ЗА 1900 ГОД</p>
+<ref target="#table_csv_table54" type="csv-table"/>
+      <pb n="99"/>
+      <ref target="#table_csv_table55" type="csv-table"/>
+      <pb n="100"/>
+      <ref target="#table_csv_table56" type="csv-table"/>
+      <pb n="101"/>
+      <ref target="#table_csv_table57" type="csv-table"/>
+      <pb n="102"/>
+      <ref target="#table_csv_table58" type="csv-table"/>
+      <pb n="103"/>
+      <ref target="#table_csv_table59" type="csv-table"/>
+      <pb n="104"/>
+      <p>104 ВЕДОМОСТЬ О ПОЖАРАХ В ЕНИСЕЙСКОЙ ГУБЕРНИИ ЗА 1900 ГОД (С приложением сведений о состоянии пожарной части)</p>
+      <ref target="#table_csv_table60" type="csv-table"/>
+      <pb n="105"/>
+      <ref target="#table_csv_table61" type="csv-table"/>
+      <pb n="106"/>
+      <p>106 ВЕДОМОСТЬ О СОСТОЯНИИ ПОЖАРНОЙ ЧАСТИ В ГОРОДАХ ГУБЕРНИИ ЗА 1900 ГОД</p>
+      <ref target="#table_csv_table62" type="csv-table"/>
+      <pb n="107"/>
+      <p>107 ВЕДОМОСТЬ О НАСИЛЬСТВЕННЫХ И СЛУЧАЙНЫХ СМЕРТЯХ В ЕНИСЕЙСКОЙ ГУБЕРНИИ ЗА 1900 ГОД</p>
+      <pb n="108"/>
+      <ref target="#table_csv_table63" type="csv-table"/>
+      <pb n="109"/>
+      <ref target="#table_csv_table64" type="csv-table"/>
+      <pb n="110"/>
+      <p>110 ВЕДОМОСТЬ О ЧИСЛЕ УЧЕБНЫХ ЗАВЕДЕНИЙ И УЧАЩИХСЯ О ЧИСЛЕ УЧЕБНЫХ ЗАВЕДЕНИЙ И УЧАЩИХСЯ В ЕНИСЕЙСКОЙ ГУБЕРНИИ ЗА 1900 ГОД</p>
+      <ref target="#table_csv_table65" type="csv-table"/>
+      <pb n="111"/>
+      <ref target="#table_csv_table66" type="csv-table"/>
+      <pb n="112"/>
+      <p>112 М. В. Д. ЕНИСЕЙСКОГО ГУБЕРНАТОРА</p>
+      <p>ПО ГУБЕРНСКОМУ СТАТИСТИЧЕСКОМУ КОМИТЕТУ Января 4 дня <date when="1902" type="auto" subtype="regex-fallback">1902 г.</date> № 1 <placeName ref="#place_krasnoyarsk" type="Места" subtype="Насел. пункты">г. Красноярск</placeName> В Канцелярию Господина <placeName ref="#place_irkutsk_province" type="Места" subtype="Адм. единицы">Иркутского</placeName> Военного ГенералГубернатора При сем имею честь препроводить в Канцелярию Г. <placeName ref="#place_irkutsk_province" type="Места" subtype="Адм. единицы">Иркутского</placeName> Военного Генерал-Губернатора в копиях 11 общих таблиц статистического отчета за <date when="1900" type="auto" subtype="regex-fallback">1900 год</date>. Губернатор Плец И. д. Секретаря Добро*</p>
+      <pb n="113"/>
+      <p>113 ВЕДОМОСТЬ О ЧИСЛЕ ЖИТЕЛЕЙ ПО СОСЛОВИЯМ В ЕНИСЕЙСКОЙ ГУБЕРНИИ ЗА 1900 ГОД</p>
+      <pb n="114"/>
+      <ref target="#table_csv_table67" type="csv-table"/>
+      <pb n="115"/>
+      <ref target="#table_csv_table68" type="csv-table"/>
+      <pb n="116"/>
+      <ref target="#table_csv_table69" type="csv-table"/>
+      <pb n="117"/>
+      <ref target="#table_csv_table70" type="csv-table"/>
+      <pb n="118"/>
+      <p>187 ВЕДОМОСТЬ О ЧИСЛЕ ЖИТЕЛЕЙ ПО ВЕРОИСПОВЕДАНИЯМ В ЕНИСЕЙСКОЙ ГУБЕРНИИ ЗА 1900 ГОД</p>
+      <ref target="#table_csv_table71" type="csv-table"/>
+      <pb n="119"/>
+      <ref target="#table_csv_table72" type="csv-table"/>
+      <pb n="120"/>
+      <ref target="#table_csv_table73" type="csv-table"/>
+      <pb n="121"/>
+      <ref target="#table_csv_table74" type="csv-table"/>
+      <pb n="122"/>
+      <p>122 ВЕДОМОСТЬ О ЧИСЛЕ РОДИВШИХСЯ ЗА 1900 ГОД</p>
+      <ref target="#table_csv_table75" type="csv-table"/>
+      <pb n="123"/>
+      <ref target="#table_csv_table76" type="csv-table"/>
+<p>123 (*)Примечание. Перешли в православие из нижеследующих исповеданий : раскола м. п. 9, ж. 11, римско-католического м. п. 2, ж. 2, лютеранского м. п. 4 и иудейского м. п. 7. В числе родившихся заключается: православного исповедания м. п. 1 354, ж. 1 397, римско-католического м. п. 42, ж. 27; лютеранского ж. п. 1; иудейского м. п. 70, ж. 39 и магометанского м. п. 23, ж. 19. Верно: И. д. Секретаря ***</p>
+      <pb n="124"/>
+      <p>124 ВЕДОМОСТЬ О ЧИСЛЕ РОДИВШИХСЯ ЗА 1900 ГОД Итого в уездах <placeName ref="#place_enisei_okrug" type="Места" subtype="Адм. единицы">Енисейской</placeName> губернии</p>
+      <ref target="#table_csv_table77" type="csv-table"/>
+      <pb n="125"/>
+<ref target="#table_csv_table78" type="csv-table"/>
+      <p>125 (*)Примечание. Перешли в православие из нижеследующих исповеданий : раскола м. п. 23, ж. 28, римско-католического м. п. 6, ж. 6, армяно-григорианского м. п. 1, лютеранского м. п. 2, ж. 2, иудейского м. п. 2, ж. 4; австрийского толка м. п. 2, ж. 1, магометанского м. п. 3, урянхайского племени м. п. 4, ж. 6 и шаманствующих м. п. 1, ж. 1. В числе родившихся заключается: православного исповедания м. п. 15 151, ж. 14 702, римско-католического м. п. 100, ж. 66, лютеранского м. п. 82, ж. 82, раскольников разных сект м. п. 523, ж. 458, иудейского м. п. 125, ж. 80 и магометанского м. п. 93, ж. 64 Верно: И. д. Секретаря***</p>
+      <pb n="126"/>
+      <p>ВЕДОМОСТЬ О ЧИСЛЕ РОДИВШИХСЯ ЗА 1900 ГОД Всего в <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName></p>
+<ref target="#table_csv_table79" type="csv-table"/>
+      <pb n="127"/>
+<ref target="#table_csv_table80" type="csv-table"/>
+      <p>127 (*)Примечание. Перешли в православие из нижеследующих исповеданий : римскокатолического м. п. 8, ж. 8, лютеранского м. п. 6, ж. 2, армяно-григорианского м. п. 1, раскола м. п. 32, ж. 39, иудейского м. п. 9, ж. 4, магометанского м. п. 3, австрийского толка м. п. 2, ж. 1, урянхайского племени м. п. 4, ж. 6 и шаманствующих м. п. 1, ж. 1. В числе родившихся заключается: православного исповедания м. п. 16 505, ж. 16 099, римско-католического м. п. 142, ж. 93, лютеранского м. п. 82, ж. 83, раскольников разных сект м. п. 523, ж. 458, иудейского м. п. 195, ж. 119 и магометанского м. п. 116, ж. 83. Верно: И. д. Секретаря ***</p>
+      <pb n="128"/>
+      <p>ВЕДОМОСТЬ О ЧИСЛЕ УМЕРШИХ ЗА 1900 ГОД того в городах <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName></p>
+<ref target="#table_csv_table81" type="csv-table"/>
+      <pb n="129"/>
+      <ref target="#table_csv_table82" type="csv-table"/>
+      <pb n="130"/>
+      <ref target="#table_csv_table83" type="csv-table"/>
+      <pb n="131"/>
+      <ref target="#table_csv_table84" type="csv-table"/>
+      <pb n="132"/>
+<ref target="#table_csv_table85" type="csv-table"/>
+      <p>132 Сверх этого мертворожденных м. п. 10, ж. п. 9. Верно: И. д. Секретаря ***</p>
+      <pb n="133"/>
+      <ref target="#table_csv_table86" type="csv-table"/>
+      <pb n="134"/>
+      <p>134 ВЕДОМОСТЬ О ЧИСЛЕ УМЕРШИХ ЗА 1900 ГОДО ЧИСЛЕ УМЕРШИХ ЗА 1900 ГОД Итого в уездах <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName></p>
+<ref target="#table_csv_table87" type="csv-table"/>
+      <pb n="135"/>
+      <ref target="#table_csv_table88" type="csv-table"/>
+      <pb n="136"/>
+      <ref target="#table_csv_table89" type="csv-table"/>
+      <pb n="137"/>
+      <ref target="#table_csv_table90" type="csv-table"/>
+      <pb n="138"/>
+<ref target="#table_csv_table91" type="csv-table"/>
+      <p>138 Сверх этого мертворожденных м. п. 28, ж. п. 14. Верно: И. д. Секретаря ***</p>
+      <pb n="139"/>
+      <ref target="#table_csv_table92" type="csv-table"/>
+      <pb n="140"/>
+      <p>140 ВЕДОМОСТЬ О ЧИСЛЕ УМЕРШИХ ЗА 1900 ГОД Всего в <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName></p>
+<ref target="#table_csv_table93" type="csv-table"/>
+      <pb n="141"/>
+      <ref target="#table_csv_table94" type="csv-table"/>
+      <pb n="142"/>
+      <ref target="#table_csv_table95" type="csv-table"/>
+      <pb n="143"/>
+      <ref target="#table_csv_table96" type="csv-table"/>
+      <pb n="144"/>
+<ref target="#table_csv_table97" type="csv-table"/>
+      <p>144 Сверх этого мертворожденных м. п. 38, ж. п. 23. Верно: И. д. Секретаря ***</p>
+      <pb n="145"/>
+      <ref target="#table_csv_table98" type="csv-table"/>
+      <pb n="146"/>
+      <p>ВЕДОМОСТЬ О ЧИСЛЕ БРАКОВ ЗА 1900 ГОД Итого в городах <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName></p>
+<ref target="#table_csv_table99" type="csv-table"/>
+      <p>Итого В числе браков заключается: православного исповедания — 425, римско-като- лического — 32, иудейского — 20, магометанского — 10 и смешанный — 1. Верно: И. д. Секретаря *** Таблица V Копия</p>
+      <pb n="147"/>
+      <ref target="#table_csv_table100" type="csv-table"/>
+      <pb n="148"/>
+      <p>ВЕДОМОСТЬ О ЧИСЛЕ БРАКОВ ЗА 1900 ГОД Итого в уездах <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName></p>
+      <ref target="#table_csv_table101" type="csv-table"/>
+      <p>Итого В числе браков заключается: православного исповедания — 4 430, римско- католического — 26, лютеранского — 24, раскольников — 7, иудейского — 27 и магометанского — 4. Верно: И. д. Секретаря *** Таблица V Копия</p>
+      <pb n="149"/>
+      <ref target="#table_csv_table102" type="csv-table"/>
+      <pb n="150"/>
+      <p>ВЕДОМОСТЬ О ЧИСЛЕ БРАКОВ ЗА 190О ГОД Всего в <placeName ref="#place_enisei_province" type="Места" subtype="Адм. единицы">Енисейской губернии</placeName></p>
+<ref target="#table_csv_table103" type="csv-table"/>
+      <p>Итого В числе браков заключается: православного исповедания — 4 855, римско- католического — 58, лютеранского — 24, раскольников — 7, иудейского — 47, магометанского — 14 и смешанный — 1. Верно: И. д. Секретаря *** Таблица V Копия</p>
+      <pb n="151"/>
+      <ref target="#table_csv_table104" type="csv-table"/>
+      <pb n="152"/>
+      <p>152 Итого в сем деле пронумеровано девяносто (90) листов. Верно: Помощ . делопроизводителя</p>
+      <pb n="153"/>
+      <p>153 СОДЕРЖАНИЕ ВСЕПОДДАННЕЙШИЙ ОТЧЕТ ЕНИСЕЙСКОГО ГУБЕРНАТОРА ЗА1900 ГОД ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 44 СТАТИСТИЧЕСКИЙ ОБЗОР ЕНИСЕЙСКОЙ ГУБЕРНИИ ЗА 1900 ГОД ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... 1515 ВЕДОМОСТИ К ОБЗОРУ ЕНИСЕЙСКОЙ ГУБЕРНИИ 1900 ЗА ГОД ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...8585</p>
+    </body>
+  </text>
+  <standOff>
+    <listPerson>
+      <person xml:id="person_шарыповской">
+        <persName type="Люди" subtype="Сословия (Купцы и прочее)">Шарыповской</persName>
+      </person>
+      <person xml:id="person_щеголева">
+        <persName type="Люди" subtype="Сословия (Купцы и прочее)">Щеголева</persName>
+      </person>
+      <person xml:id="person_гадалова">
+        <persName type="Люди" subtype="Сословия (Купцы и прочее)">Гадалова</persName>
+      </person>
+      <person xml:id="person_игнат">
+        <persName type="Люди" subtype="Сословия (Купцы и прочее)">Игнат</persName>
+      </person>
+      <person xml:id="person_александра_игнат">
+        <persName type="Люди" subtype="Сословия (Купцы и прочее)">Александра Игнат</persName>
+      </person>
+      <person xml:id="person_петра_игнат">
+        <persName type="Люди" subtype="Сословия (Купцы и прочее)">Петра Игнат</persName>
+      </person>
+      <person xml:id="person_вахуркина">
+        <persName type="Люди" subtype="Сословия (Купцы и прочее)">Вахуркина</persName>
+      </person>
+      <person xml:id="person_токаревой">
+        <persName type="Люди" subtype="Сословия (Купцы и прочее)">Токаревой</persName>
+      </person>
+      <person xml:id="person_кузнецовым">
+        <persName type="Люди" subtype="Сословия (Купцы и прочее)">Кузнецовым</persName>
+      </person>
+      <person xml:id="person_шарыповском">
+        <persName type="Люди" subtype="Сословия (Купцы и прочее)">Шарыповском</persName>
+      </person>
+      <person xml:id="person_шарыповская">
+        <persName type="Люди" subtype="Сословия (Купцы и прочее)">Шарыповская</persName>
+      </person>
+    </listPerson>
+    <listPlace>
+      <place xml:id="place_krasnoyarsk">
+        <placeName type="Места" subtype="Насел. пункты">Красноярск</placeName>
+      </place>
+      <place xml:id="place_eniseysk">
+        <placeName type="Места" subtype="Насел. пункты">Енисейск</placeName>
+      </place>
+      <place xml:id="place_kansk">
+        <placeName type="Места" subtype="Насел. пункты">Канск</placeName>
+      </place>
+      <place xml:id="place_achinsk">
+        <placeName type="Места" subtype="Насел. пункты">Ачинск</placeName>
+      </place>
+      <place xml:id="place_minusinsk">
+        <placeName type="Места" subtype="Насел. пункты">Минусинск</placeName>
+      </place>
+      <place xml:id="place_turukhansk">
+        <placeName type="Места" subtype="Насел. пункты">Туруханск</placeName>
+      </place>
+      <place xml:id="place_enisei_province">
+        <placeName type="Места" subtype="Адм. единицы">Енисейская губерния</placeName>
+      </place>
+      <place xml:id="place_tomsk_province">
+        <placeName type="Места" subtype="Адм. единицы">Томская губерния</placeName>
+      </place>
+      <place xml:id="place_irkutsk_province">
+        <placeName type="Места" subtype="Адм. единицы">Иркутская губерния</placeName>
+      </place>
+      <place xml:id="place_eastern_siberia">
+        <placeName type="Места" subtype="Географические точки">Восточная Сибирь</placeName>
+      </place>
+      <place xml:id="place_turukhansk_region">
+        <placeName type="Места" subtype="Адм. единицы">Туруханский край</placeName>
+      </place>
+      <place xml:id="place_enisei_okrug">
+        <placeName type="Места" subtype="Адм. единицы">Енисейский округ</placeName>
+      </place>
+      <place xml:id="place_krasnoyarsk_okrug">
+        <placeName type="Места" subtype="Адм. единицы">Красноярский округ</placeName>
+      </place>
+      <place xml:id="place_minusinsk_okrug">
+        <placeName type="Места" subtype="Адм. единицы">Минусинский округ</placeName>
+      </place>
+      <place xml:id="place_enisey_river">
+        <placeName type="Места" subtype="Географические точки">Енисей</placeName>
+      </place>
+      <place xml:id="place_chulym_river">
+        <placeName type="Места" subtype="Географические точки">Чулым</placeName>
+      </place>
+      <place xml:id="place_rybinskoe">
+        <placeName type="Места" subtype="Насел. пункты">Рыбинское</placeName>
+      </place>
+      <place xml:id="place_tesinskaya_volost">
+        <placeName type="Места" subtype="Адм. единицы">Тесинская волость</placeName>
+      </place>
+      <place xml:id="place_усинский">
+        <placeName type="Места" subtype="Адм. единицы">Усинский</placeName>
+      </place>
+      <place xml:id="place_усинского">
+        <placeName type="Места" subtype="Адм. единицы">Усинского</placeName>
+      </place>
+      <place xml:id="place_усинскому">
+        <placeName type="Места" subtype="Адм. единицы">Усинскому</placeName>
+      </place>
+      <place xml:id="place_усинском">
+        <placeName type="Места" subtype="Адм. единицы">Усинском</placeName>
+      </place>
+      <place xml:id="place_нахвальской">
+        <placeName type="Места" subtype="Адм. единицы">Нахвальской</placeName>
+      </place>
+      <place xml:id="place_еловской">
+        <placeName type="Места" subtype="Адм. единицы">Еловской</placeName>
+      </place>
+      <place xml:id="place_шарыповской">
+        <placeName type="Места" subtype="Адм. единицы">Шарыповской</placeName>
+      </place>
+      <place xml:id="place_балахтинской">
+        <placeName type="Места" subtype="Адм. единицы">Балахтинской</placeName>
+      </place>
+      <place xml:id="place_подсосенской">
+        <placeName type="Места" subtype="Адм. единицы">Подсосенской</placeName>
+      </place>
+      <place xml:id="place_даурской">
+        <placeName type="Места" subtype="Адм. единицы">Даурской</placeName>
+      </place>
+      <place xml:id="place_александровский">
+        <placeName type="Места" subtype="Насел. пункты">Александровский</placeName>
+      </place>
+      <place xml:id="place_новоселовская">
+        <placeName type="Места" subtype="Адм. единицы">Новоселовская</placeName>
+      </place>
+      <place xml:id="place_шушенской">
+        <placeName type="Места" subtype="Адм. единицы">Шушенской</placeName>
+      </place>
+    </listPlace>
+    <listOrg>
+      <org xml:id="org_prikaz_public_welfare">
+        <orgName type="Организации" subtype="Гос. Органы">Приказ общественного призрения</orgName>
+      </org>
+      <org xml:id="org_ministry_internal">
+        <orgName type="Организации" subtype="Гос. Органы">Министерство внутренних дел</orgName>
+      </org>
+      <org xml:id="org_vladimir_orphanage">
+        <orgName type="Организации" subtype="Общ. орг-ии">Владимирский детский приют</orgName>
+      </org>
+      <org xml:id="org_но_министерство">
+        <orgName type="Организации" subtype="Гос. Органы">но Министерство</orgName>
+      </org>
+      <org xml:id="org_губернское_по_воинской_повинности_присутствие">
+        <orgName type="Организации" subtype="Гос. Органы">губернское по воинской повинности присутствие</orgName>
+      </org>
+      <org xml:id="org_том_числе_комитет">
+        <orgName type="Организации" subtype="Гос. Органы">том числе комитет</orgName>
+      </org>
+      <org xml:id="org_мужская_классическая_гимназия">
+        <orgName type="Организации" subtype="Образование">Мужская классическая гимназия</orgName>
+      </org>
+      <org xml:id="org_женская_гимназия">
+        <orgName type="Организации" subtype="Образование">Женская гимназия</orgName>
+      </org>
+    </listOrg>
+  </standOff>
+</TEI>
