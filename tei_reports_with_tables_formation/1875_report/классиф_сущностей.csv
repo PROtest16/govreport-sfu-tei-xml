@@ -1,0 +1,127 @@
+Тег;Текст сущности;REF (ID);Частота;Type (заполнить);Subtype (заполнить)
+orgName;что казенная палата;#org_что_казенная_палата;2;org;Гос. Органы
+orgName;Главное управление;#org_главное_управление;1;org;Гос. Органы
+orgName;Троицкий солеваренный завод;#org_troitsk_salt_works;1;org;Пром-ть
+orgName;Приказа общественного призрения;#org_prikaz_public_welfare;1;org;Гос. Органы
+orgName;от нормального устава ходатайствовал Губернский совет;#org_от_нормального_устава_ходатайствовал_губернский_совет;1;org;Гос. Органы
+orgName;врачебная управа;#org_medical_board;1;org;Медицина
+orgName;врачебная управа просила правление;#org_врачебная_управа_просила_правление;1;org;Медицина
+orgName;получения коровьей оспы из воспитательного дома врачебная управа;#org_получения_коровьей_оспы_из_воспитательного_дома_врачебная_уп;1;org;Медицина
+orgName;же время для наибольшего распространения этой оспы управа;#org_же_время_для_наибольшего_распространения_этой_оспы_управа;1;org;Медицина
+orgName;тою же заботливостью врачебная управа;#org_тою_же_заботливостью_врачебная_управа;1;org;Медицина
+orgName;Только Красноярская городовая больница;#org_только_красноярская_городовая_больница;1;org;Медицина
+orgName;отчетном году врачебная управа;#org_отчетном_году_врачебная_управа;1;org;Медицина
+orgName;Приказ общественного призрения;;1;org;Гос. Органы
+orgName;Врачебная управа;;1;org;Медицина
+orgName;Троицкий солеваренный завод;;1;org;Пром-ть
+orgName;Главное управление;;1;org;Гос. Органы
+orgName;что казенная палата;;1;org;Гос. Органы
+orgName;от нормального устава ходатайствовал Губернский совет;;1;org;Гос. Органы
+orgName;врачебная управа просила правление;;1;org;Медицина
+orgName;получения коровьей оспы из воспитательного дома врачебная управа;;1;org;Медицина
+orgName;же время для наибольшего распространения этой оспы управа;;1;org;Медицина
+orgName;тою же заботливостью врачебная управа;;1;org;Медицина
+orgName;Только Красноярская городовая больница;;1;org;Медицина
+orgName;отчетном году врачебная управа;;1;org;Медицина
+orgName;Мужская классическая гимназия;;1;org;Образование
+persName;Лохвицкий;#person_лохвицкий;2;person;Власть
+persName;Тархова;#person_тархова;1;person;Сословия
+persName;Елизарьев;#person_елизарьев;1;person;Сословия
+persName;Лохвицкий;;1;person;Власть
+persName;Ивановский;;1;person;Служащие
+persName;Тархова;;1;person;Сословия
+persName;Елизарьев;;1;person;Сословия
+persName;Мужская;;1;person;Служащие
+placeName;Енисейской губернии;#place_enisei_province;18;loc;Адм. единицы
+placeName;Туруханского края;#place_turukhansk_region;9;loc;Адм. единицы
+placeName;г. Красноярске;#place_krasnoyarsk;9;loc;Насел. пункты
+placeName;Енисейской;#place_enisei_okrug;7;loc;Адм. единицы
+placeName;Красноярской;#place_krasnoyarsk;7;loc;Адм. единицы
+placeName;Красноярске;#place_krasnoyarsk;7;loc;Насел. пункты
+placeName;Енисейского;#place_enisei_okrug;6;loc;Адм. единицы
+placeName;Ачинске;#place_achinsk;6;loc;Насел. пункты
+placeName;Минусинске;#place_minusinsk;6;loc;Насел. пункты
+placeName;Восточной Сибири;#place_eastern_siberia;5;loc;Адм. единицы
+placeName;Ачинском округе;#place_achinsk_okrug;5;loc;Адм. единицы
+placeName;Минусинском округе;#place_minusinsk_okrug;5;loc;Адм. единицы
+placeName;Минусинского округа;#place_minusinsk_okrug;5;loc;Адм. единицы
+placeName;г. Енисейске;#place_eniseysk;5;loc;Насел. пункты
+placeName;Канске;#place_kansk;5;loc;Насел. пункты
+placeName;Енисейскую губернию;#place_enisei_province;4;loc;Адм. единицы
+placeName;Минусинском;#place_minusinsk;4;loc;Насел. пункты
+placeName;Канском;#place_kansk;4;loc;Насел. пункты
+placeName;Ачинского округа;#place_achinsk_okrug;4;loc;Адм. единицы
+placeName;Ачинской;#place_achinsk;4;loc;Адм. единицы
+placeName;Енисейске;#place_enisei_okrug;4;loc;Насел. пункты
+placeName;Красноярском;#place_krasnoyarsk;3;loc;Насел. пункты
+placeName;Енисейском округе;#place_enisei_okrug;3;loc;Адм. единицы
+placeName;Ачинском;#place_achinsk;3;loc;Насел. пункты
+placeName;Канского;#place_kansk;3;loc;Насел. пункты
+placeName;Енисейским;#place_enisei_okrug;3;loc;Адм. единицы
+placeName;Канской;#place_kansk;3;loc;Адм. единицы
+placeName;Минусинской;#place_minusinsk;3;loc;Адм. единицы
+placeName;Туруханский край;#place_turukhansk_region;2;loc;Адм. единицы
+placeName;Минусинска;#place_minusinsk;2;loc;Насел. пункты
+placeName;Минусинского;#place_minusinsk;2;loc;Насел. пункты
+placeName;Ачинского;#place_achinsk;2;loc;Насел. пункты
+placeName;Енисейского округа;#place_enisei_okrug;2;loc;Адм. единицы
+placeName;р. Енисей;#place_enisey_river;2;loc;Географические точки
+placeName;Канском округе;#place_kansk_okrug;2;loc;Адм. единицы
+placeName;Енисейскому;#place_enisei_okrug;2;loc;Адм. единицы
+placeName;Красноярского;#place_krasnoyarsk;2;loc;Насел. пункты
+placeName;Красноярском округе;#place_krasnoyarsk_okrug;2;loc;Адм. единицы
+placeName;Канского округа;#place_kansk_okrug;2;loc;Адм. единицы
+placeName;г. Красноярск;#place_krasnoyarsk;1;loc;Насел. пункты
+placeName;Енисейска;#place_enisei_okrug;1;loc;Насел. пункты
+placeName;Томской;#place_tomsk_province;1;loc;Адм. единицы
+placeName;Иркутской;#place_irkutsk_province;1;loc;Адм. единицы
+placeName;Томск;#place_tomsk_province;1;loc;Насел. пункты
+placeName;Красноярск;#place_krasnoyarsk;1;loc;Насел. пункты
+placeName;Томскую;#place_tomsk_province;1;loc;Адм. единицы
+placeName;Иркутскую;#place_irkutsk_province;1;loc;Адм. единицы
+placeName;Красноярскому;#place_krasnoyarsk;1;loc;Насел. пункты
+placeName;Канскому;#place_kansk;1;loc;Насел. пункты
+placeName;Ачинскому;#place_achinsk;1;loc;Насел. пункты
+placeName;Минусинскому;#place_minusinsk;1;loc;Насел. пункты
+placeName;Енисейском;#place_enisei_okrug;1;loc;Адм. единицы
+placeName;Енисейску;#place_enisei_okrug;1;loc;Насел. пункты
+placeName;Минусинску;#place_minusinsk;1;loc;Насел. пункты
+placeName;Красноярскому округу;#place_krasnoyarsk_okrug;1;loc;Адм. единицы
+placeName;Канскому округу;#place_kansk_okrug;1;loc;Адм. единицы
+placeName;Ачинскому округу;#place_achinsk_okrug;1;loc;Адм. единицы
+placeName;Архиерейском;#place_архиерейском;1;loc;Насел. пункты
+placeName;Енисейскою;#place_enisei_okrug;1;loc;Адм. единицы
+placeName;Красноярским;#place_krasnoyarsk;1;loc;Насел. пункты
+placeName;Туруханске;#place_turukhansk;1;loc;Насел. пункты
+placeName;Енисейская;#place_enisei_okrug;1;loc;Адм. единицы
+placeName;Красноярский;#place_krasnoyarsk;1;loc;Адм. единицы
+placeName;г. Красноярска;#place_krasnoyarsk;1;loc;Насел. пункты
+placeName;Иркутска;#place_irkutsk_province;1;loc;Насел. пункты
+placeName;Минусинский;#place_minusinsk;1;loc;Адм. единицы
+placeName;Ачинский округа;#place_achinsk_okrug;1;loc;Адм. единицы
+placeName;Тесинском;#place_tesinskaya_volost;1;loc;Насел. пункты
+placeName;Шушенской;#place_шушенской;1;loc;Насел. пункты
+placeName;селе Рыбинском;#place_rybinskoe;1;loc;Насел. пункты
+placeName;Енисейское;#place_enisei_okrug;1;loc;Адм. единицы
+placeName;Красноярск;;1;loc;Насел. пункты
+placeName;Енисейск;;1;loc;Насел. пункты
+placeName;Канск;;1;loc;Насел. пункты
+placeName;Ачинск;;1;loc;Насел. пункты
+placeName;Минусинск;;1;loc;Насел. пункты
+placeName;Туруханск;;1;loc;Насел. пункты
+placeName;Енисейская губерния;;1;loc;Адм. единицы
+placeName;Томская губерния;;1;loc;Адм. единицы
+placeName;Иркутская губерния;;1;loc;Адм. единицы
+placeName;Восточная Сибирь;;1;loc;Адм. единицы
+placeName;Туруханский край;;1;loc;Адм. единицы
+placeName;Енисейский округ;;1;loc;Адм. единицы
+placeName;Красноярский округ;;1;loc;Адм. единицы
+placeName;Канский округ;;1;loc;Адм. единицы
+placeName;Ачинский округ;;1;loc;Адм. единицы
+placeName;Минусинский округ;;1;loc;Адм. единицы
+placeName;Енисей;;1;loc;Географические точки
+placeName;Каменский завод;;1;loc;Насел. пункты
+placeName;Рыбинское;;1;loc;Насел. пункты
+placeName;Тесинская волость;;1;loc;Адм. единицы
+placeName;Архиерейском;;1;loc;Насел. пункты
+placeName;Шушенской;;1;loc;Насел. пункты
