@@ -1,0 +1,86 @@
+Тег;Текст сущности;REF (ID);Частота;Type (заполнить);Subtype (заполнить)
+orgName;же больница;#org_же_больница;1;Организации;Медицина
+orgName;же больница;;1;Организации;Медицина
+persName;Н. Г. Гадалова;#person_гадалова;1;Люди;Сословия
+persName;Гадалова;;1;Люди;Сословия
+persName;Игнат;;1;Люди;Сословия
+persName;Кузнецовой;;1;Люди;Сословия
+placeName;Енисейской;#place_enisei_okrug;35;Места;Географические точки
+placeName;Енисей;#place_enisey_river;11;Места;Географические точки
+placeName;Минусинскому;#place_minusinsk;10;Места;Географические точки
+placeName;Красноярской;#place_krasnoyarsk;10;Места;Географические точки
+placeName;Красноярска;#place_krasnoyarsk;9;Места;Географические точки
+placeName;Енисейская;#place_enisei_okrug;8;Места;Географические точки
+placeName;Енисейскому;#place_enisei_okrug;8;Места;Географические точки
+placeName;Канскому;#place_kansk;7;Места;Географические точки
+placeName;Красноярскому;#place_krasnoyarsk;7;Места;Географические точки
+placeName;Канска;#place_kansk;7;Места;Географические точки
+placeName;Ачинскому;#place_achinsk;6;Места;Географические точки
+placeName;Ачинска;#place_achinsk;6;Места;Географические точки
+placeName;Ачинская;#place_achinsk;6;Места;Географические точки
+placeName;Енисейска;#place_enisei_okrug;5;Места;Географические точки
+placeName;Красноярская;#place_krasnoyarsk;5;Места;Географические точки
+placeName;Канская;#place_kansk;5;Места;Географические точки
+placeName;Красноярскому округу;#place_krasnoyarsk_okrug;4;Места;Адм. единицы
+placeName;Томской;#place_tomsk_province;4;Места;Географические точки
+placeName;Минусинска;#place_minusinsk;4;Места;Географические точки
+placeName;Минусинская;#place_minusinsk;4;Места;Географические точки
+placeName;Туруханска;#place_turukhansk;3;Места;Географические точки
+placeName;Канск;#place_kansk;2;Места;Насел. пункты
+placeName;Восточной Сибири;#place_eastern_siberia;2;Места;Географические точки
+placeName;Иркутской;#place_irkutsk_province;2;Места;Географические точки
+placeName;Минусинской;#place_minusinsk;2;Места;Географические точки
+placeName;Канской;#place_kansk;2;Места;Географические точки
+placeName;Красноярск;#place_krasnoyarsk;1;Места;Насел. пункты
+placeName;Енисейск;#place_enisei_okrug;1;Места;Насел. пункты
+placeName;Ачинск;#place_achinsk;1;Места;Насел. пункты
+placeName;Минусинск;#place_minusinsk;1;Места;Насел. пункты
+placeName;Якутской;#place_якутской;1;Места;Географические точки
+placeName;Енисейскую;#place_enisei_okrug;1;Места;Географические точки
+placeName;Тубу;#place_tuba_river;1;Места;Географические точки
+placeName;Кеть;#place_ket_river;1;Места;Географические точки
+placeName;Канскому округа;#place_kansk_okrug;1;Места;Адм. единицы
+placeName;Томска;#place_tomsk_province;1;Места;Географические точки
+placeName;Иркутска;#place_irkutsk_province;1;Места;Географические точки
+placeName;Иркутскую;#place_irkutsk_province;1;Места;Географические точки
+placeName;Томскую;#place_tomsk_province;1;Места;Географические точки
+placeName;Балахтинской;#place_балахтинской;1;Места;Географические точки
+placeName;Ужурской;#place_ужурской;1;Места;Географические точки
+placeName;Ачинской;#place_achinsk;1;Места;Географические точки
+placeName;Ачинскому округу;#place_achinsk_okrug;1;Места;Адм. единицы
+placeName;Минусинскому округу;#place_minusinsk_okrug;1;Места;Адм. единицы
+placeName;Канскою;#place_kansk;1;Места;Географические точки
+placeName;г. Енисейска;#place_eniseysk;1;Места;Насел. пункты
+placeName;Чулыму;#place_chulym_river;1;Места;Географические точки
+placeName;Иркутскому;#place_irkutsk_province;1;Места;Географические точки
+placeName;Тесинской;#place_tesinskaya_volost;1;Места;Географические точки
+placeName;Рыбинской;#place_rybinskoe;1;Места;Географические точки
+placeName;Анцырской;#place_antsyrskaya_volost;1;Места;Географические точки
+placeName;Красноярскою;#place_krasnoyarsk;1;Места;Географические точки
+placeName;Нахвальской;#place_нахвальской;1;Места;Географические точки
+placeName;Красноярское;#place_krasnoyarsk;1;Места;Географические точки
+placeName;Красноярск;;1;Места;Насел. пункты
+placeName;Енисейск;;1;Места;Насел. пункты
+placeName;Канск;;1;Места;Насел. пункты
+placeName;Ачинск;;1;Места;Насел. пункты
+placeName;Минусинск;;1;Места;Насел. пункты
+placeName;Туруханск;;1;Места;Географические точки
+placeName;Томская губерния;;1;Места;Адм. единицы
+placeName;Иркутская губерния;;1;Места;Адм. единицы
+placeName;Восточная Сибирь;;1;Места;Географические точки
+placeName;Енисейский округ;;1;Места;Адм. единицы
+placeName;Красноярский округ;;1;Места;Адм. единицы
+placeName;Канский округ;;1;Места;Адм. единицы
+placeName;Ачинский округ;;1;Места;Адм. единицы
+placeName;Минусинский округ;;1;Места;Адм. единицы
+placeName;Енисей;;1;Места;Географические точки
+placeName;Туба;;1;Места;Географические точки
+placeName;Чулым;;1;Места;Географические точки
+placeName;Кеть;;1;Места;Географические точки
+placeName;Рыбинское;;1;Места;Насел. пункты
+placeName;Тесинская волость;;1;Места;Адм. единицы
+placeName;Анцырская волость;;1;Места;Адм. единицы
+placeName;Якутской;;1;Места;Географические точки
+placeName;Балахтинской;;1;Места;Географические точки
+placeName;Ужурской;;1;Места;Географические точки
+placeName;Нахвальской;;1;Места;Географические точки
